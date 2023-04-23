@@ -43,3 +43,7 @@ transferencia.  - Desacondicionamiento físico
  tecnicas     
 - Fuerza muscular insuficiente
 
+### Condiciones Asociadas
+- Deterioro musculoesquelético  - Trastornos de la vista   
+- Enfermedades neuromusculares
+

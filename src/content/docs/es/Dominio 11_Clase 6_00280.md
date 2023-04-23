@@ -42,3 +42,90 @@ convección excesiva  - Ropa inadecuada
 evaporación excesiva  - Desnutrición   
  11. Seguridad / protección
 
+### Población en riesgo
+- Recién nacidos de bajo peso al 
+nacer   
+- Recién nacidos de 0 a 28 días   
+- Recién nacidos por cesárea   
+- Recién nacidos de madre 
+adolescente   
+- Recién nacidos de familias 
+económicamente 
+desfavorecidas   
+- Recién nacidos expuestos a bajas 
+temperaturas ambientales.   
+ 
+ 
+- Recién nacidos con alto riesgo 
+de parto fuera del hospital   
+- Recién nacidos con grasa 
+subcutánea inadecuada   
+- Recién nacidos con una mayor 
+relación entre el área de la 
+superficie corporal y el peso   
+- Recién nacidos con parto 
+extrahospitalario no planificado   
+- Recién nacidos prematuros  
+ 
+ 
+ 
+ 
+542 
+Dominio 11. Seguridad / protección  Clase 6. Termorregulación
+
+### Condiciones Asociadas
+- Daño al hipotálamo   
+- Estrato córneo inmaduro   
+- Aumento de la resistencia 
+vascular pulmonar.   
+- Control vascular ineficaz   
+ 
+ 
+ 
+ 
+- Termogénesis ineficaz 
+sin temblores   
+- Puntuaciones de apariencia baja, 
+pulso, muecas, actividad y 
+respiración (APGAR)   
+- Preparaciones farmacéuticas   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+11. Seguridad / protección
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Consulte los criterios de estadificación de hipotermia apropiados y validados.
+

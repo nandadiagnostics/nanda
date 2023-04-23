@@ -5,3 +5,29 @@
 ### Caracteristicas Definitorias
 
 
+### Población en riesgo
+- Personas con lesión de la médula 
+espinal o lesión expuesta a 
+temperaturas ambientales 
+extremas   
+- Hombres con lesión o lesión de la 
+médula espinal que 
+experimentan eyaculación.   
+ 
+ 
+ 
+ 
+ 
+- Conocimiento inadecuado del 
+proceso de la enfermedad.  
+ 
+ 
+- Mujeres con lesión o lesión de la 
+médula espinal que están 
+experimentando trabajo de parto.   
+- Mujeres con lesión o lesión de la 
+médula espinal que están 
+menstruando   
+- Mujeres embarazadas con lesión 
+o lesión de la médula espinal.
+

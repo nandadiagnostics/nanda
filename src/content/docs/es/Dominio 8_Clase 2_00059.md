@@ -27,3 +27,9 @@ función sexual.
 - Abuso no abordado   
 - Conflicto de valores
 
+### Población en riesgo
+- Personas sin pareja
+
+### Condiciones Asociadas
+- Función corporal alterada  - Estructura corporal alterada
+

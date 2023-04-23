@@ -20,3 +20,6 @@ carbono.  - Taquicardia
 - Despeje ineficaz de las vías respiratorias  - Dolor  
 - Patrón de respiración ineficaz
 
+### Población en riesgo
+- Bebés prematuros
+

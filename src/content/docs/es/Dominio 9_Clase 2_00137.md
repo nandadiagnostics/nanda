@@ -18,3 +18,9 @@ discapacidad
 - Crisis de manejo de 
 enfermedades
 
+### Población en riesgo
+- Individuos que experimentan 
+crisis de desarrollo mental   
+- Personas que experimentan la 
+pérdida de su pareja
+

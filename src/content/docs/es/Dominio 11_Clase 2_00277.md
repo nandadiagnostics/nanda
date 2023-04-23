@@ -136,3 +136,73 @@ régimen de tratamiento.
 - Número inadecuado de 
 señales para la acción
 
+### Población en riesgo
+- Niños   
+- Personas económicamente 
+desfavorecidas   
+- Personas que experimentan 
+una hospitalización 
+prolongada   
+- Personas con antecedentes de 
+autogestión ineficaz de la salud    
+ 
+ 
+ 
+ 
+- Modelos a seguir inadecuados   
+- Apoyo social inadecuado   
+- Capacidad limitada para realizar 
+aspectos del régimen de 
+tratamiento.   
+- Baja autoeficacia   
+- Sentimientos negativos hacia el 
+régimen de tratamiento   
+- No aceptación de la condición   
+- Barrera percibida al régimen 
+de tratamiento   
+- Estigma social percibido asociado 
+con la enfermedad.   
+- Percepción poco realista de la 
+gravedad de la afección.   
+- Percepción poco realista de 
+susceptibilidad a secuelas   
+- Percepción poco realista del 
+beneficio del tratamiento  
+ 
+ 
+ 
+ 
+ 
+- Personas con experiencia 
+limitada en la toma de 
+decisiones   
+- Personas con bajo nivel 
+educativo   
+- Adultos mayores   
+- Mujeres que experimentan la 
+menopausia.  
+ 
+ 11. Seguridad / protección
+
+### Condiciones Asociadas
+- alergias   
+- Enfermedades autoinmunes   
+- quimioterapia   
+- Discapacidades del desarrollo   
+- Enfermedad de injerto contra 
+huésped   
+- Cierre de párpados incompleto   
+- Leucocitosis   
+- Enfermedades metabólicas   
+- Lesión neurológica con pérdida 
+de reflejos motores   
+ 
+- Lesión neurológica con pérdida 
+de reflejos sensoriales   
+- Terapia de oxigeno   
+- Preparaciones farmacéuticas   
+- Proptosis   
+- Radioterapia   
+- Volumen de lágrimas reducido   
+- Procedimientos quirúrgicos
+

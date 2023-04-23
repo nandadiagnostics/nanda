@@ -25,3 +25,8 @@ estado de salud
 - Percepción negativa del proveedor 
 de atención médica
 
+### Población en riesgo
+- Desfavorecidos económicamente  - Personas con antecedentes 
+familiares de  
+individuos  alcoholismo
+

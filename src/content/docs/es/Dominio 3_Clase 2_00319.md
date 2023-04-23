@@ -42,3 +42,50 @@ en situaciones sociales
 - Limitaciones ambientales que 
 interfieren con la continencia.
 
+### Población en riesgo
+- Adultos mayores   
+- Mujeres que dan a luz por vía 
+vaginal   
+ 
+- Disminución generalizada del tono muscular.   
+- Movilidad física deteriorada   
+- Equilibrio postural alterado   
+- Hábitos dietéticos inadecuados   
+- Motivación inadecuada para 
+mantener la continencia.   
+- Vaciado incompleto del intestino   
+- Abuso de laxantes   
+- Estresores  
+ 
+ 
+ 
+ 
+ 
+- Mujeres que dan a luz con 
+extracción obstétrica
+
+### Condiciones Asociadas
+- Trauma anal  - Trastornos 
+neurocognitivos  
+- Anomalías congénitas del  - Enfermedades 
+neurologicas  
+ sistema digestivo  - La inactividad física  
+- Diabetes mellitus  - Enfermedades 
+prostáticas  
+ 
+ 
+265 
+Dominio 3. Eliminación e intercambio  Clase 2. Función gastrointestinal  
+ 
+ 
+ 
+- Traumatismo del recto  - Carrera   
+- Lesiones de la médula espinal   
+ 
+ 
+ 
+ 
+ 
+ 
+3. Eliminación e intercambio
+

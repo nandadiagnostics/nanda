@@ -5,3 +5,8 @@
 ### Caracteristicas Definitorias
 
 
+### Población en riesgo
+- Personas con experiencia 
+limitada en la toma de 
+decisiones
+

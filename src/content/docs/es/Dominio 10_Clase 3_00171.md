@@ -63,3 +63,50 @@ pendientes
 - Autoalienación   
 - Separación del sistema de soporte
 
+### Población en riesgo
+- Individuos que experimentan el 
+nacimiento de un niño   
+- Individuos que experimentan la 
+muerte de una pareja   
+- Individuos que experimentan 
+infertilidad   
+- Individuos que experimentan 
+una transición de vida.   
+- Individuos que experimentan 
+conflictos raciales   
+- Individuos que experimentan 
+eventos de vida 
+inesperados.   
+ 
+ 
+ 
+- Alienación social   
+- Privación sociocultural   
+- Estresores   
+- Mal uso de sustancia  
+ 
+ 
+ 
+- Personas expuestas a la muerte   
+- Personas expuestas a 
+desastres naturales   
+- Personas expuestas a eventos 
+traumáticos.   
+- Personas que reciben malas noticias.   
+- Personas que reciben atención terminal   
+- Personas con bajo nivel 
+educativo
+
+### Condiciones Asociadas
+- Enfermedad crónica  - Pérdida de función de una parte del cuerpo.   
+- Depresión  - Régimen de tratamiento   
+- Pérdida de una parte del cuerpo   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10. Principios de vida
+

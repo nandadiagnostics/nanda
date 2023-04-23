@@ -61,3 +61,27 @@ espiritual.  - Violencia no abordada
 incontrolada  
  valores   sintomas
 
+### Población en riesgo
+- adolescentes   
+- Personas desplazadas   
+- Personas económicamente 
+desfavorecidas   
+- Individuos que experimentan 
+infertilidad   
+ 
+- Individuos que experimentan 
+pérdidas significativas   
+- Personas con 
+antecedentes de intento 
+de suicidio.   
+- Personas con historial de 
+abandono  
+ 
+ 
+341 
+Dominio 6. Autopercepción  Clase 1. Autoconcepto  
+ 
+ 
+ 
+- Adultos mayores  - Individuos desempleados
+

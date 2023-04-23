@@ -25,3 +25,8 @@ movilidad.  - Desacondicionamiento físico
  estrategias     
 - Fuerza muscular insuficiente
 
+### Condiciones Asociadas
+- Trastornos cerebrovasculares  - Enfermedades neuromusculares   
+- Equilibrio postural deteriorado  - Trastornos de la vista   
+- Deterioro musculoesquelético
+

@@ -5,3 +5,8 @@
 ### Caracteristicas Definitorias
 
 
+### Condiciones Asociadas
+- Regulatorio comprometido  - Disfuncion renal  
+mecanismo - Régimen de tratamiento   
+- Disfunción reguladora endocrina
+

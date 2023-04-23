@@ -5,3 +5,22 @@
 ### Caracteristicas Definitorias
 
 
+### Condiciones Asociadas
+- Diabetes mellitus  - Hipertensión   
+- Procedimientos endovasculares  - Trauma   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4. Actividad / descanso
+

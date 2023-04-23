@@ -32,3 +32,19 @@ esfínter
  consumo  - Prolapso de órganos pélvicos  
 - Impactación fecal
 
+### Población en riesgo
+- Individuos expuestos al abuso  - Mujeres   
+- Individuos con antecedentes de urinaria  - Mujeres que experimentan la menopausia  
+urgencia durante la infancia   
+- Adultos mayores
+
+### Condiciones Asociadas
+- Vaginitis atrófica  - Piso pélvico hiperactivo  
+- Obstrucción de la salida de la 
+vejiga  - Preparaciones 
+farmacéuticas  
+- Depresión  - Régimen de tratamiento  
+- Diabetes mellitus  - Enfermedades urológicas   
+- Enfermedades del sistema nervioso   
+- Traumatismo del sistema nervioso
+

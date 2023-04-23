@@ -39,3 +39,15 @@ impulsos
 - Temor  - Mal uso de sustancia  
 - Afligido  - Traumatismo no abordado
 
+### Población en riesgo
+- Desfavorecidos económicamente  - Adultos mayores  
+individuos - Mujeres embarazadas   
+- Individuos en el postoperatorio 
+temprano
+
+### Condiciones Asociadas
+- Lesiones Cerebrales  - Desordenes mentales  
+- Enfermedad crítica  - Trastornos 
+neurodegenerativos  
+- Alucinaciones  - Preparaciones farmacéuticas
+

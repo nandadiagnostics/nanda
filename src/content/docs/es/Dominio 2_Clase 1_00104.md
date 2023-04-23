@@ -84,3 +84,19 @@ Dominio 2. Nutrición  Clase 1. Ingestión
  
  2. Nutrición
 
+### Población en riesgo
+- Personas con antecedentes de 
+cirugía de mama   
+- Personas con antecedentes de 
+insuficiencia de lactancia
+
+### Condiciones Asociadas
+- Defecto orofaríngeo   
+ 
+ 
+ 
+ 
+- Madres de bebés prematuros   
+- Bebés prematuros   
+- Mujeres con baja baja por maternidad
+

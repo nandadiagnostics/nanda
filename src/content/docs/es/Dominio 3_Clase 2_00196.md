@@ -21,3 +21,8 @@ gástrico  - Mayor residuo gástrico
 - Movilidad física deteriorada  - Preparación de alimentos 
 insalubres
 
+### Población en riesgo
+- Individuos que ingirieron contaminantes  - Bebés prematuros  
+material nated   
+- Adultos mayores
+

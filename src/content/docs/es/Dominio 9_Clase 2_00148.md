@@ -37,3 +37,34 @@ uno mismo
 - Respuesta aprendida a la 
 amenaza
 
+### Población en riesgo
+- Niños   
+- Personas expuestas a 
+situaciones traumáticas   
+- Personas que viven en áreas 
+con mayor violencia   
+ 
+- Respuesta al estímulo fóbico   
+- Situación desconocida  
+ 
+ 
+- Personas que reciben atención terminal   
+- Individuos separados del apoyo 
+social   
+- Individuos sometidos a 
+procedimiento quirúrgico  
+ 
+ 
+419 
+Dominio 9. Afrontamiento / tolerancia al estrés  Clase 2. Respuestas de 
+afrontamiento  
+ 
+ 
+ 
+- Personas con antecedentes 
+familiares de shock 
+postraumático.   
+- Personas con antecedentes de 
+caídas   
+- Adultos mayores
+

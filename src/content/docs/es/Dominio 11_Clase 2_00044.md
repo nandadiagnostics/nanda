@@ -113,3 +113,54 @@ sustancia
 - Cuidado inadecuado de la ostomía   
 - desnutrición
 
+### Población en riesgo
+- Personas sin hogar   
+- Individuos en edades extremas   
+- Personas expuestas a 
+temperaturas ambientales 
+extremas.   
+- Personas expuestas a fuentes de 
+alimentación de alta tensión.   
+- Particulares que participan en 
+deportes de contacto.
+
+### Condiciones Asociadas
+- anemia   
+- Desorden del espectro autista   
+- Enfermedades cardiovasculares   
+- Condiciones neurológicas crónicas   
+- Enfermedad crítica   
+- Disminución del nivel de conciencia.   
+- Disminución del nivel de albúmina 
+sérica.   
+- Disminución de la oxigenación de 
+los tejidos.   
+- Disminución de la perfusión tisular    
+ 
+ 
+- Personas que participan en 
+deportes de invierno   
+- Personas con antecedentes 
+familiares de fractura ósea.   
+- Personas con antecedentes de 
+fractura ósea  
+ 
+ 
+ 
+ 
+ 
+- Inestabilidad hemodinámica   
+- Inmovilización   
+- Discapacidad intelectual   
+- Dispositivos médicos   
+- Enfermedades metabólicas   
+- Neuropatía periférica   
+- Preparaciones farmacéuticas   
+- trastornos de la sensibilidad   
+- Procedimientos quirúrgicos  
+ 
+ 
+ 
+ 
+ 11. Seguridad / protección
+

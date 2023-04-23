@@ -80,3 +80,42 @@ químico
 488 
 Dominio 11. Seguridad / protección  Clase 2. Lesión física
 
+### Población en riesgo
+- Personas económicamente 
+desfavorecidas
+
+### Condiciones Asociadas
+- Alergias  - Pérdida de estructura de 
+soporte bucal  
+- Trastorno autosómico  - Factor mecánico  
+- Trastorno de conducta  - Anomalías en la boca  
+- Quimioterapia  - Nulo per os (NPO)> 24 
+horas  
+- Disminución de los niveles de 
+hormonas femeninas.  - Trauma oral  
+- Plaquetas disminuidas  - Radioterapia  
+- Depresión  - Síndrome de Sjogren  
+- Enfermedades del sistema 
+inmunológico  - Procedimientos quirúrgicos  
+- Inmunosupresión  - Trauma  
+- Infecciones  - Régimen de tratamiento   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+11. Seguridad / protección
+

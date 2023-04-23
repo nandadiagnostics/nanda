@@ -104,3 +104,32 @@ necesidad de  - Estilo de vida sedentario
  defecar     
 - Movilidad física deteriorada
 
+### Población en riesgo
+- Adultos mayores  - Mujeres embarazadas
+
+### Condiciones Asociadas
+- Amilosis  - Distrofia miotónica  
+- Fisura anal  - Trastornos neurocognitivos  
+- Estenosis anal  - Panhipopituitarismo  
+- Neuropatía autonómica  - Paraplejía  
+- Pseudo intestinal crónica  - enfermedad de Parkinson  
+ obstrucción  - Trastornos del suelo 
+pélvico  
+- Insuficiencia renal crónica  - Daño perineal  
+- Cáncer colonrectal  - Preparaciones 
+farmacéuticas  
+- Depresión  - Polifarmacia  
+- Dermatomiositis  - Porfiria  
+- Diabetes mellitus  - Estenosis posinflamatoria  
+- Masa extra intestinal  - Proctitis  
+- Hemorroides  - Esclerodermia  
+- Enfermedad de Hirschprung  - Tiempo de tránsito de colon 
+lento  
+- Hipercalcemia  - Lesiones de la médula 
+espinal  
+- Hipotiroidismo  - Carrera  
+- Enfermedad inflamatoria 
+intestinal  - Estenosis quirúrgica  
+- Estenosis isquémica   
+- Esclerosis múltiple
+

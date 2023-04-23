@@ -23,3 +23,12 @@ ambiente
 oxígeno  
 - Inactividad  - Actividad vigorosa
 
+### Población en riesgo
+- Individuos en extremos de peso  - Individuos con suministro 
+inadecuado  
+- Individuos expuestos al medio 
+ambiente   de grasa subcutánea  
+ temperaturas mentales extremas  - Individuos con cuerpo 
+aumentado  
+   relación superficie / peso
+

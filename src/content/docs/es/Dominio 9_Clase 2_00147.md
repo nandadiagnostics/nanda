@@ -53,3 +53,82 @@ muerte.
 - Religiosidad deteriorada   
 - soledad
 
+### Población en riesgo
+- Individuos que experimentan 
+cuidados terminales de otras 
+personas importantes.  
+ 
+ 
+- 
+B
+aj
+a 
+a
+ut
+o
+e
+stima  
+- No aceptación de la propia 
+mortalidad   
+- Angustia espiritual   
+- Incertidumbre sobre el encuentro 
+con un poder superior   
+- Incertidumbre sobre la vida 
+después de la muerte.   
+- Incertidumbre sobre la existencia 
+de un poder superior   - Incertidumbre de pronóstico   
+- Síntomas físicos desagradables  
+ 
+ 
+ 
+- Personas que reciben atención 
+terminal  
+ 
+ 
+416 
+Dominio 9. Afrontamiento / tolerancia al estrés  Clase 2. Respuestas de afrontamiento  
+ 
+ 
+ 
+- Personas con antecedentes de 
+experiencias adversas con la 
+muerte de otras personas 
+importantes   
+- Personas con antecedentes de 
+experiencia cercana a la 
+muerte
+
+### Condiciones Asociadas
+- depresión   
+- Enfermedades estigmatizadas 
+con alto miedo a la muerte.   
+ 
+ 
+ 
+- Adultos mayores   
+- Mujeres   
+- Adultos jovenes  
+ 
+ 
+ 
+ 
+- Enfermedad terminal   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9. Afrontamiento / tolerancia al estrés
+

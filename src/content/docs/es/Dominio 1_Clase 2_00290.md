@@ -5,3 +5,24 @@
 ### Caracteristicas Definitorias
 
 
+### Población en riesgo
+- Desfavorecidos económicamente  - Personas con antecedentes de 
+no 
+ individuos   adherencia al régimen de 
+tratamiento  
+- Individuos sin hogar  - Individuos con historia de auto-  
+- Individuos traídos a designado   dañar  
+ área en contra de sus propios 
+deseos  - Personas con discapacidad  
+- Personas que solicitan con 
+frecuencia   juicio  
+ descarga  - Hombres  
+- Individuos hospitalizados <tres  - Adultos mayores con cognitiva  
+ semanas   trastornos  
+- Personas con antecedentes de  - Individuos desempleados  
+ fuga - Adultos jovenes
+
+### Condiciones Asociadas
+- Desorden del espectro autista  - Desordenes mentales   
+- Discapacidades del desarrollo
+

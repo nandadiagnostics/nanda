@@ -126,3 +126,84 @@ Factores internos
 - Exposición concomitante   
 - desnutrición
 
+### Población en riesgo
+- Niños <5 años   
+- Personas económicamente 
+desfavorecidas   
+- Individuos expuestos 
+perinatalmente   
+- Personas expuestas a áreas con 
+alto nivel de contaminantes   
+- Personas expuestas a 
+contaminantes 
+atmosféricos
+
+### Condiciones Asociadas
+- Enfermedad preexistente   
+ 
+ 
+ 
+- Personas que ingirieron material 
+contaminado   
+- Jugar donde se utilizan 
+contaminantes ambientales   
+- Exposición sin protección a productos 
+químicos   
+- Exposición sin protección a 
+metales pesados   
+- Exposición sin protección a 
+material radioactivo   
+- Uso de contaminante ambiental en 
+el hogar   
+- Uso de material nocivo en áreas 
+con ventilación inadecuada.   
+- Uso de material nocivo sin 
+protección eficaz  
+ 
+ 
+ 
+- fumar  
+ 
+ 
+ 
+- Personas expuestas al 
+bioterrorismo   
+- Personas expuestas a desastres   
+- Personas con antecedentes de 
+exposición a contaminantes   
+- Adultos mayores   
+- Mujeres embarazadas   
+- Mujeres  
+ 
+ 
+- Radioterapia   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 11. Seguridad / protección
+

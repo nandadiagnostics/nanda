@@ -96,3 +96,28 @@ ness de condición  beneficio
 - Percepción poco realista de 
 susceptibilidad a secuelas
 
+### Población en riesgo
+1. Salud   
+- Niños   
+- Personas económicamente 
+desfavorecidas   
+- Personas que experimentan 
+reacciones adversas a los 
+medicamentos.   
+- Personas con 
+responsabilidades de 
+cuidado
+
+### Condiciones Asociadas
+- Personas con antecedentes de 
+autogestión ineficaz de la salud   
+- Personas con bajo nivel 
+educativo   
+- Adultos mayores  
+ 
+- Enfermedad asintomática  - Trastornos 
+neurocognitivos  
+- Discapacidades del desarrollo  - Polifarmacia  
+- Enfermedad de alta agudeza  - Comorbilidad 
+significativa
+

@@ -263,3 +263,10 @@ ineficaces
 374 
 Dominio 7. Relación de roles  Clase 2. Relaciones familiares
 
+### Población en riesgo
+- Familias económicamente 
+desfavorecidas   
+- Familias con antecedentes de 
+resistencia al régimen de 
+tratamiento.
+

@@ -5,3 +5,14 @@
 ### Caracteristicas Definitorias
 
 
+### Población en riesgo
+- Desfavorecidos económicamente  - Personas expuestas a situaciones 
+traumáticas  
+individuos  eventos
+
+### Condiciones Asociadas
+- Trastornos cerebrovasculares  - Enfermedad progresiva  
+- Trastornos cognitivos  - Impredecibilidad de la 
+enfermedad  
+- Enfermedad crítica   trayectoria
+

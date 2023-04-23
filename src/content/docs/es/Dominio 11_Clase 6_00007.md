@@ -15,3 +15,63 @@
 - Deshidración  - Actividad vigorosa   
 - Ropa inapropiada
 
+### Población en riesgo
+- Personas expuestas a altas 
+temperaturas ambientales.
+
+### Condiciones Asociadas
+- Disminución de la respuesta al 
+sudor.  - Preparaciones 
+farmacéuticas  
+- Estado de salud deteriorado  - Septicemia  
+- Aumento de la tasa metabólica  - Trauma   
+- isquemia   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 11. Seguridad / protección
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Consulte los criterios de estadificación.
+

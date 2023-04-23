@@ -59,3 +59,7 @@ cómo mejorar la reciprocidad.
 neuroconductuales   
 - Disonancia sociocultural
 
+### Población en riesgo
+- Individuos sin un significativo  
+otro
+

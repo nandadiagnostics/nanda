@@ -45,3 +45,13 @@ neuroconductuales
 - Renuencia a iniciar el movimiento.   
 - Estilo de vida sedentario
 
+### Condiciones Asociadas
+- Integridad alterada de la estructura 
+ósea  - Deterioro musculoesquelético  
+- Contracturas  - Enfermedades 
+neuromusculares  
+- Depresión  - Preparaciones farmacéuticas  
+- Discapacidades del desarrollo  - Restricciones de movimiento 
+prescritas  
+- Metabolismo alterado  - Deficiencia sensorial-perceptiva
+

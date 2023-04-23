@@ -40,3 +40,13 @@ recursos comunitarios
 de poder  
 - Rol familiar alterado  entre miembros de la familia
 
+### Población en riesgo
+- Familias con finanzas alteradas   
+- Familias con estatus social alterado   
+- Familias con miembros que 
+experimentan crisis de 
+desarrollo   
+- Familias con miembros que 
+experimentan una transición del 
+desarrollo
+

@@ -53,3 +53,72 @@ ineficaces
 autodirigida   
 - Irresistible necesidad de cortarse
 
+### Población en riesgo
+- adolescentes   
+- Niños maltratados   
+ 
+- Comportamiento lábil   
+- Pérdida de control sobre la 
+situación de resolución de 
+problemas   
+- Baja autoestima   
+- Tensión de montaje que 
+es intolerable   
+- Sentimientos negativos   
+- Patrón de incapacidad 
+para planificar 
+soluciones   
+- Patrón de incapacidad para ver 
+consecuencias a largo plazo.   
+- perfeccionismo   
+- Requiere una rápida reducción del 
+estrés   
+- Aislamiento social   
+- Mal uso de sustancia   
+- Uso de la manipulación para 
+obtener relaciones 
+interpersonales nutritivas con los 
+demás.  
+ 
+ 
+ 
+- Personas encarceladas  
+ 
+ 
+524 
+Dominio 11. Seguridad / protección  Clase 3. Violencia  
+ 
+ 
+ 
+- Personas que experimentan un 
+divorcio familiar   
+- Individuos que experimentan 
+abuso de sustancias en la 
+familia   
+- Individuos que experimentan la 
+pérdida de relaciones 
+interpersonales importantes.   
+- Personas que experimentan 
+crisis de identidad sexual   
+- Personas que viven en entornos 
+no tradicionales   
+- Individuos cuyos compañeros 
+se auto mutilan   
+ 
+ 
+ 
+- Personas con antecedentes 
+familiares de comportamiento 
+autodestructivo.   
+- Personas con antecedentes de 
+abuso infantil   
+- Personas con antecedentes de 
+enfermedades de la niñez   
+- Personas con antecedentes de 
+cirugía infantil.   
+- Personas con antecedentes de 
+violencia autodirigida   
+- Individuos que presencian 
+violencia entre figuras 
+parentales
+

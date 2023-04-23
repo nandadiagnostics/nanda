@@ -58,3 +58,22 @@ débil
 - Incomodidad   
 - Estrés excesivo
 
+### Población en riesgo
+- Individuos que experimentan 
+una transición de vida.
+
+### Condiciones Asociadas
+- Estado de salud deteriorado   
+ 
+- Intervenciones que 
+interrumpen el patrón o flujo 
+energético   
+- Dolor  
+ 
+ 
+- Individuos que experimentan 
+crisis personales.  
+ 
+ 
+- Lesión
+

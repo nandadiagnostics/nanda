@@ -21,3 +21,7 @@ neuroconductuales
 - Trastornos del estado de 
 ánimo  - Mal uso de sustancia
 
+### Condiciones Asociadas
+- Desarrollo alterado  - Trastornos neurocognitivos   
+- Discapacidades del desarrollo  - Desorden de personalidad
+

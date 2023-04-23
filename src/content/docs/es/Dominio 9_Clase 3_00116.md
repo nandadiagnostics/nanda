@@ -100,3 +100,24 @@ señales de comportamiento.
 medio ambiente.   
 - Entorno físico inadecuado
 
+### Población en riesgo
+- Lactantes expuestos a 
+teratógenos en el útero   
+ 
+ 
+ 
+ 
+- Estimulación sensorial ambiental 
+insuficiente   
+- desnutrición   
+- Dolor   
+- Privación sensorial   
+- Sobreestimulación sensorial  
+ 
+ 
+ 
+ 
+- Lactantes con baja edad 
+posmenstrual   
+- Bebés prematuros
+

@@ -5,3 +5,20 @@
 ### Caracteristicas Definitorias
 
 
+### Población en riesgo
+- Individuos en edades extremas  - Personas en Trendelenburg  
+ 
+- Individuos en posición lateral   posición  
+ 
+- Individuos en posición de 
+litotomía  - Individuos sometidos a cirugía  
+ 
+- Individuos en decúbito prono   procedimiento> 1 hora
+
+### Condiciones Asociadas
+- Diabetes mellitus  - Neuropatía  
+- Edema  - Alteración sensoriperceptual  
+- Adelgazamiento   de la anestesia  
+- Anestesia general  - Enfermedades vasculares   
+- Inmovilización
+

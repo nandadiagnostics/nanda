@@ -5,3 +5,9 @@
 ### Caracteristicas Definitorias
 
 
+### Población en riesgo
+- Personas de 15 a 19 años   
+- Individuos ≥ 45 años   
+- Personas en ocupaciones con 
+alto riesgo de suicidio.
+

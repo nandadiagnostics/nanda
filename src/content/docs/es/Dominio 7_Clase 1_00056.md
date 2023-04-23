@@ -123,3 +123,50 @@ abordada
  
  7. Relación de funciones
 
+### Población en riesgo
+Padre   
+- adolescentes   
+- Personas económicamente 
+desfavorecidas   
+- Personas sin hogar   
+- Individuos que experimentan 
+abuso de sustancias en la 
+familia   
+- Individuos que experimentan 
+una crisis situacional   
+- Personas con antecedentes 
+familiares de shock 
+postraumático.   
+- Personas con historial de abuso  
+ 
+ 
+Bebé o niño   
+- Niños que experimentan una 
+separación prolongada de sus 
+padres   
+- Niños con 
+temperamento difícil   
+ 
+ 
+ 
+- Personas con historial de abuso   
+- Personas con historial de 
+abandono   
+- Personas con antecedentes de 
+exposición a la violencia.   
+- Personas con antecedentes de 
+atención prenatal inadecuada   
+- Personas con antecedentes de 
+estrés prenatal   
+- Personas con bajo nivel 
+educativo   
+- Padres monoparentales  
+ 
+ 
+- Niños con un género diferente al 
+deseado por los padres   
+- Niños con antecedentes de 
+hospitalización en cuidados 
+intensivos neonatales   
+- Bebés prematuros
+

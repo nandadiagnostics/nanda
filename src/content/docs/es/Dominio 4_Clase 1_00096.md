@@ -34,3 +34,7 @@ el sexo.
 - Higiene del sueño 
 inadecuada sostenida
 
+### Población en riesgo
+- Personas con parálisis 
+familiar del sueño
+

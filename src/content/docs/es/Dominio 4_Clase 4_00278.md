@@ -146,3 +146,27 @@ susceptibilidad a secuelas
 - Percepción poco realista del 
 beneficio del tratamiento
 
+### Población en riesgo
+- adolescentes   
+- Niños   
+- Personas económicamente 
+desfavorecidas   
+- Personas con antecedentes de 
+autogestión ineficaz de la salud   
+ 
+- Personas con experiencia 
+limitada en la toma de 
+decisiones   
+- Personas con bajo nivel 
+educativo   
+- Adultos mayores
+
+### Condiciones Asociadas
+- Quimioterapia  - Neoplasias  
+- Insuficiencia venosa crónica  - Obesidad  
+- Discapacidades del desarrollo  - Radioterapia  
+- Infecciones  - Extirpación de ganglios 
+linfáticos  
+- Procedimiento invasivo  - Trauma   
+- Cirujía importante
+

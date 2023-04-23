@@ -34,3 +34,12 @@ fluidos.  - Masa muscular
 insuficiente  
  necesidades  - Desnutrición
 
+### Población en riesgo
+- Individuos en extremos de peso  - Individuos con condiciones 
+internas  
+- Individuos con condiciones 
+externas   afectando las necesidades de 
+fluidos  
+ ciones que afectan las 
+necesidades de fluidos  - Mujeres
+

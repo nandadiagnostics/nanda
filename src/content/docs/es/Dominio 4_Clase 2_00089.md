@@ -116,3 +116,19 @@ uso de sillas de ruedas.
 - Visión inadecuada no tratada  
  4. Actividad / descanso
 
+### Población en riesgo
+- Personas que utilizan silla de 
+ruedas por poco tiempo
+
+### Condiciones Asociadas
+- Deterioro musculoesquelético   
+- Enfermedades 
+neuromusculares   
+ 
+- Personas con antecedentes de 
+caída de silla de ruedas.   
+- Adultos mayores  
+ 
+ 
+- Trastornos de la vista
+

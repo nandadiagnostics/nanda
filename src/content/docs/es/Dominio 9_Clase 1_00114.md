@@ -29,3 +29,78 @@ inadecuado antes de la
 salida   
 - Apoyo social inadecuado
 
+### Población en riesgo
+- Individuos que enfrentan la 
+imprevisibilidad de la 
+experiencia.   
+ 
+- Estrategias de afrontamiento 
+ineficaces   
+- impotencia   
+- Desafío situacional a la autoestima   
+- Aislamiento social  
+ 
+ 
+ 
+ 
+- Individuos que se trasladan de 
+un entorno a otro   
+- Personas con historial de pérdida  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+400 
+Dominio 9. Afrontamiento / tolerancia al estrés  Clase 1. Respuestas postraumáticas
+
+### Condiciones Asociadas
+- Depresión  - Funcionamiento psicosocial deteriorado   
+- Competencia mental disminuida   
+- Estado de salud deteriorado   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9. Afrontamiento / tolerancia al estrés
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Este diagnóstico se retirará de la taxonomía NANDA -I en la edición 2024-2026 a menos que se complete un 
+trabajo adicional para llevarlo a un nivel de evidencia 2.1 o superior.
+

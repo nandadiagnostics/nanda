@@ -5,3 +5,29 @@
 ### Caracteristicas Definitorias
 
 
+### Condiciones Asociadas
+- Efecto adverso de preparados 
+farmacéuticos   
+- Efectos adversos de la cocaína   
+- Arritmia cardíaca   
+- Síndrome de Cushing   
+- Retención de líquidos   
+- Cambios fluidos   
+- Cambio hormonal   
+ 
+ 
+ 
+ 
+- Ortostasis  
+ 
+ 
+ 
+- hiperparatiroidismo   
+- hipertiroidismo   
+- hipotiroidismo   
+- Aumento de la presión intracraneal   
+- Preparaciones farmacéuticas   
+- Rápida absorción y distribución de 
+preparados farmacéuticos.   
+- Respuestas comprensivas
+

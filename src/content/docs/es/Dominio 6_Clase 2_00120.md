@@ -33,3 +33,64 @@ inadecuado  - Valores incongruentes con los
 culturales.  
 - Cohesión familiar inadecuada   normas
 
+### Población en riesgo
+- Individuos que experimentan un 
+cambio  - Individuos que experimentan la 
+muerte de  
+ en el entorno de vida   un otro significativo  
+- Individuos que experimentan 
+alteración  - Individuos en divorcio  
+ en imagen corporal  - Individuos que experimentan nuevas 
+adiciones  - In 
+a 
+ en 
+- In 
+a 
+ e 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6. Autopercepción  
+ 
+Dominio 6. Autopercepción  Clase 2. Autoestima  
+ 
+ 
+ 
+- Personas que 
+experimentan un 
+embarazo no 
+planificado   
+- Individuos con transición de 
+desarrollo-mental difícil   
+- Personas con historial de 
+abandono   
+ 
+ 
+ 
+- Personas con historial de abuso   
+- Personas con historial de 
+abandono   
+- Personas con historial de pérdida   
+- Personas con historial de 
+rechazo
+

@@ -20,3 +20,11 @@ tratamiento  haciendo
 culturales.  
   normas
 
+### Población en riesgo
+- Individuos que experimentan 
+pérdida de autonomía 
+personal.   10. Principios de vida
+   
+- Individuos físicamente distantes 
+del tomador de decisiones
+

@@ -78,3 +78,44 @@ pulmonares
 - Ciclo de sueño-vigilia alterado  - Tos ineficaz   
 - Secreciones excesivas de las vías respiratorias  - Desnutrición
 
+### Población en riesgo
+- Individuos con historial de fallos  - Individuos con historia de  
+intento de destete  extubación no planificada   
+- Individuos con antecedentes de pulmón  - Individuos con predominio 
+desfavorable  
+enfermedades  índices de extubación   
+- Individuos con historia de pro-  - Adultos mayores  
+dependencia ansiada del ventilador
+
+### Condiciones Asociadas
+- Desequilibrio ácido-base  - Enfermedad de alta 
+agudeza  
+- Anemia  - Hipertermia  
+- Shock cardiogénico  - Hipoxemia  
+- Disminución del nivel de conciencia.  - Infecciones  
+- Disfunción del diafragma 
+adquirida  - Enfermedades 
+neuromusculares  
+ en la unidad de cuidados 
+intensivos  - Preparaciones 
+farmacéuticas  
+- Enfermedades del sistema 
+endocrino  - Desequilibrio agua-
+electrolito  
+- Enfermedades cardíacas   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4. Actividad / descanso
+

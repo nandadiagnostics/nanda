@@ -42,3 +42,56 @@ calórico
 - Múltiples cuidadores   
 - Paternidad no involucrada
 
+### Población en riesgo
+- Bebés abandonados   
+- Bebés nacidos de familias 
+económicamente 
+desfavorecidas   
+- Bebés sin hogar   
+- Bebés que experimentan una 
+transición de vida.   
+- Bebés que experimentan una 
+hospitalización prolongada   
+- Bebés que viven en hogares de 
+acogida   
+ 
+- Bebés que son pequeños para 
+la edad gestacional   
+- Lactantes con historia de 
+hospitalización   
+ción en cuidados intensivos 
+neonatales   
+- Bebés con antecedentes de 
+experiencias de alimentación y 
+alimentación inseguras   
+- Bebés prematuros
+
+### Condiciones Asociadas
+- Trastornos cromosómicos  - Cardiopatía congénita  
+- Labio leporino  - Enfermedades 
+genéticas congénitas  
+- Paladar hendido  - Defectos del tubo 
+neural  
+224    
+Dominio 2. Nutrición  Clase 1. Ingestión  
+ 
+ 
+ 
+- Trastorno psiquiátrico de los 
+padres   
+- Desafío físico al comer   
+- Desafío físico con la alimentación.   
+- Problema de salud física de los 
+padres   
+ 
+ 
+ 
+- Nutrición enteral prolongada   
+- Problema de salud 
+psicológica de los padres   
+- Disfunción de integración sensorial   
+ 
+ 
+ 
+2. Nutrición
+

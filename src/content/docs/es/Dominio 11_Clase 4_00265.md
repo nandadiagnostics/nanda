@@ -5,3 +5,8 @@
 ### Caracteristicas Definitorias
 
 
+### Población en riesgo
+- Personas expuestas a 
+temperaturas ambientales 
+extremas.
+

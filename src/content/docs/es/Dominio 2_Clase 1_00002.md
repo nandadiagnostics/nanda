@@ -63,3 +63,16 @@ para tragar
 - Debilitamiento de los músculos 
 necesarios para la masticación.
 
+### Población en riesgo
+- Atletas competitivos  - Individuos con bajo nivel 
+educativo  
+- Individuos desplazados   nivel 
+- Desfavorecidos 
+económicamente  - Bebés prematuros  
+ individuos    
+ 
+ 
+ 
+213 
+Dominio 2. Nutrición  Clase 1. Ingestión
+

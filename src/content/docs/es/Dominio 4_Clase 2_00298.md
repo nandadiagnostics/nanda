@@ -33,3 +33,12 @@ sedentario
 - Movilidad física deteriorada   
 - Inexperiencia con una actividad
 
+### Población en riesgo
+- Individuos con historia de  - Adultos mayores  
+disminución de la tolerancia a la actividad
+
+### Condiciones Asociadas
+- Neoplasias  - Lesiones cerebrales traumáticas   
+- Enfermedades neurodegenerativas  - deficiencia de vitamina D   
+- Trastornos respiratorios
+

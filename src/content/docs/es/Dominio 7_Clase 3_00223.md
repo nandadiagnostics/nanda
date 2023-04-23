@@ -50,3 +50,14 @@ insatisfactoria con el socio
 sustancia   
 - Factores estresantes  - Expectativas irrealistas
 
+### Población en riesgo
+- Los individuos que experimentan el desarrollo  - Individuos con 
+intimidad encarcelados  
+crisis mental  compañero compañero   
+- Personas con antecedentes de 
+violencia doméstica
+
+### Condiciones Asociadas
+- Disfunción cognitiva en una 
+pareja.
+

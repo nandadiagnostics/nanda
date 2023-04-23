@@ -5,3 +5,21 @@
 ### Caracteristicas Definitorias
 
 
+### Población en riesgo
+- Personas con antecedentes de 
+abuso infantil   
+- Personas con antecedentes de 
+crueldad hacia los animales.   
+- Personas con antecedentes de 
+incendio.    
+ 
+ 
+- Personas con antecedentes de 
+vehículo motorizado o ﬀ ense   
+- Personas con antecedentes de 
+abuso de sustancias   
+- Personas con historial de 
+presenciar violencia familiar  
+ 
+ 11. Seguridad / protección
+

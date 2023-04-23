@@ -89,3 +89,63 @@ Otros factores
 herramienta de detección 
 estandarizada y validada
 
+### Población en riesgo
+- Recién nacidos de bajo peso al 
+nacer   
+- Recién nacidos <32 semanas de 
+gestación   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+- Recién nacidos que experimentan 
+una estancia prolongada en la 
+unidad de cuidados intensivos   
+- Recién nacidos en unidades de 
+cuidados intensivos
+
+### Condiciones Asociadas
+- anemia   
+- Disminución del nivel de albúmina 
+sérica.   
+- Disminución de la oxigenación de 
+los tejidos.   
+- Disminución de la perfusión 
+tisular   
+- edema   
+- Integridad de la piel inmadura   
+- Textura de piel inmadura   
+- Estrato córneo inmaduro    
+ 
+- Inmovilización   
+- Dispositivos médicos   
+- Deficiencias nutricionales 
+relacionadas con la 
+prematuridad   
+- Preparaciones farmacéuticas   
+- Duración prolongada del 
+procedimiento quirúrgico   
+- Comorbilidad significativa  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 11. Seguridad / protección
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Se recomienda el uso de una herramienta de detección de riesgo de lesiones por presión estandarizada, válida y 
+confiable.
+

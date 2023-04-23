@@ -32,3 +32,10 @@ baño  - Pélvica de apoyo debilitada
  
 Privacidad insuficiente
 
+### Población en riesgo
+- Adultos mayores  - Mujeres
+
+### Condiciones Asociadas
+- Obstrucción anatómica  - Deterioro sensorial motor   
+- Diabetes mellitus  - Infección del tracto urinario
+

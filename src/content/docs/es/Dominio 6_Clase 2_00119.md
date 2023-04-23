@@ -35,3 +35,66 @@ demás
 - Sentido de pertenencia 
 inadecuado
 
+### Población en riesgo
+- Personas económicamente 
+desfavorecidas   - Individuos que 
+experimentan fallas 
+repetidas  
+ 
+ 
+- Apoyo social inadecuado   
+- Habilidades de comunicación ineficaces   
+- Aprobación insuficiente de los demás   
+- Baja autoeficacia   
+- Duelo inadaptado   
+- Renuncia negativa   
+- Refuerzo negativo repetido   
+- Incongruencia espiritual   
+- Estigmatización   - Estresores   
+- Valores incongruentes con las 
+normas culturales.  
+ 
+ 
+- Personas expuestas a 
+situaciones traumáticas   
+- Individuos con transición de 
+desarrollo-mental difícil  
+ 
+ 
+ 
+348 
+Dominio 6. Autopercepción  Clase 2. Autoestima  
+ 
+ 
+ 
+- Personas con historial de 
+abandono   
+- Personas con historial de abuso
+
+### Condiciones Asociadas
+- depresión   
+- Deterioro funcional   
+ 
+ 
+ 
+- Personas con historial de 
+abandono   
+- Personas con historial de pérdida  
+ 
+ 
+ 
+- Desordenes mentales   
+- Enfermedad física   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6. Autopercepción
+

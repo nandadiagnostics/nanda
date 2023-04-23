@@ -101,3 +101,21 @@ satisfechas
 - Factores estresantes  - Conflicto de 
 valores
 
+### Población en riesgo
+- Los individuos que experimentan 
+el desarrollo   
+crisis mental    
+- Individuos en el período 
+perioperatorio   
+- Individuos que experimentan 
+situaciones   
+crisis nacional   
+- Personas con antecedentes 
+familiares de ansiedad.   
+ 
+-  
+Individuos expuestos a 
+toxinas   
+- Individuos con hereditario   
+predisposición
+

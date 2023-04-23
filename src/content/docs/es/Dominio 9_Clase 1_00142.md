@@ -28,3 +28,8 @@ alterado
 ### Factores Relacionados
 - Para ser desarrollado
 
+### Población en riesgo
+- Personas que experimentaron una violación  - Individuos con 
+antecedentes de suicidio  
+intento
+

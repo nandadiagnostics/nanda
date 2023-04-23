@@ -5,3 +5,29 @@
 ### Caracteristicas Definitorias
 
 
+### Población en riesgo
+- Mujeres embarazadas
+
+### Condiciones Asociadas
+- quimioterapia   
+- depresión   
+- Restricción de líquidos   
+- Incapacidad para alimentarse 
+por vía oral   
+- Terapia de oxigeno   
+ 
+ 
+ 
+ 
+ 
+ 
+- Preparaciones farmacéuticas   
+- Radioterapia en cabeza y 
+cuello.   
+- Enfermedades sistémicas   
+ 
+ 
+ 
+ 
+11. Seguridad / protección
+

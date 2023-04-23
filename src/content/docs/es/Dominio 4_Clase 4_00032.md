@@ -30,3 +30,56 @@ pulmón.  - Obesidad
  expansión  - Dolor  
 - fatiga
 
+### Población en riesgo
+- Mujer joven
+
+### Condiciones Asociadas
+- Deformidad ósea  - Síndrome de 
+hiperventilación  
+- Deformidad de la pared torácica  - Síndrome de 
+hipoventilación  
+- Pulmonar obstructiva crónica  - Mayor resistencia de las 
+vías respiratorias   e 
+- En 
+- En 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4. Actividad / descanso
+ 
+ 
+Dominio 4. Actividad / descanso  Clase 4. Respuestas cardiovasculares / pulmonares  
+ 
+ 
+ 
+- Inmadurez neurológica  - Complacencia pulmonar reducida  
+- Deterioro neurológico  - Síndromes de apnea del sueño  
+- Enfermedades 
+neuromusculares  - Lesiones de la médula espinal   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4. Actividad / descanso
+

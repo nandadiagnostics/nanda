@@ -35,3 +35,20 @@ excesiva
 excesiva   
 - Inactividad
 
+### Población en riesgo
+- Personas económicamente 
+desfavorecidas   
+- Individuos en edades extremas   
+ 
+- Conocimiento inadecuado del 
+cuidador sobre la prevención 
+de la hipotermia.   
+- Ropa inadecuada   
+- Baja temperatura ambiental   
+- desnutrición  
+ 
+ 
+ 
+ 
+- Individuos en extremos de peso
+

@@ -102,3 +102,95 @@ Otros factores
 herramienta de detección 
 estandarizada y validada
 
+### Población en riesgo
+- Niños en unidades de cuidados 
+intensivos   
+- Niños en centros de cuidados a largo 
+plazo   
+- Niños en entornos de cuidados 
+paliativos   
+- Niños en entornos de rehabilitación   
+- Niños en tránsito hacia o entre 
+entornos de atención clínica   
+- Niños que reciben atención 
+domiciliaria   
+- Niños con índice de masa 
+corporal por encima del rango 
+normal para la edad y el sexo    
+ 
+ 
+ 
+ 
+ 
+- Cumplimiento inadecuado del 
+régimen de tratamiento de la 
+incontinencia   
+- Cumplimiento inadecuado del plan 
+de prevención de lesiones por 
+presión   
+- Conocimiento inadecuado de los 
+métodos adecuados para 
+eliminar los materiales 
+adhesivos.   
+- Conocimiento inadecuado de la 
+apro-  
+métodos priados para 
+estabilizar dispositivos   
+- Desnutrición proteico-energética   
+- Desequilibrio agua-electrolito  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+- Niños con índice de masa 
+corporal por debajo del rango 
+normal para la edad y el sexo   
+- Niños con problemas de 
+desarrollo   
+- Niños con problemas de 
+crecimiento   
+- Niños con gran 
+circunferencia de la 
+cabeza   
+- Niños con una gran superficie 
+cutánea  
+ 
+ 11. Seguridad / protección
+
+### Condiciones Asociadas
+- pH alcalino de la piel   
+- Estructura cutánea alterada   
+- anemia   
+- Enfermedades cardiovasculares   
+- Disminución del nivel de conciencia.   
+- Disminución del nivel de albúmina 
+sérica.   
+- Disminución de la oxigenación de 
+los tejidos.   
+- Disminución de la perfusión 
+tisular   
+- diabetes mellitus   
+- edema   
+- Proteína C reactiva elevada   - Procedimientos invasivos 
+frecuentes  
+ 
+ 
+- 
+In
+e
+st
+abilidad hemodinámica   
+- Inmovilización   
+- Circulación deteriorada   
+- Discapacidad intelectual   
+- Dispositivos médicos   
+- Preparaciones farmacéuticas   
+- Trauma físico   
+- Duración prolongada del 
+procedimiento quirúrgico   
+- trastornos de la sensibilidad   
+- Lesiones de la médula espinal
+

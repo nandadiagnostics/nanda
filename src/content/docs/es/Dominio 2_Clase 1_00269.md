@@ -51,3 +51,12 @@ alimentarios.
 - Horas de comida estresantes   
 - Abuso no abordado
 
+### Condiciones Asociadas
+- Depresión  - Problema de salud física de 
+los padres  
+- Trastorno psiquiátrico de los 
+padres  - Problema de salud 
+psicológica de  
+- Desafío físico al comer   padre   
+- Desafío físico con la alimentación.
+

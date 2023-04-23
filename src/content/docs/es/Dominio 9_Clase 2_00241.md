@@ -24,3 +24,32 @@ en el autoconcepto
 - Hipervigilancia   
 - soledad
 
+### Población en riesgo
+- Desfavorecidos económicamente  - Personas expuestas a situaciones 
+traumáticas  
+individuos  eventos  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+426 
+Dominio 9. Afrontamiento / tolerancia al estrés  Clase 2. Respuestas de afrontamiento
+
+### Condiciones Asociadas
+- Dolor   
+- Pensamientos recurrentes de 
+muerte   
+- pensamientos recurrentes de 
+suicidio   
+- Aislamiento social   
+- Mal uso de sustancia   
+- Cambio de peso    9. Afrontamiento / tolerancia al estrés
+ 
+ 
+- Enfermedad crónica  - Psicosis   
+- Deterioro funcional
+

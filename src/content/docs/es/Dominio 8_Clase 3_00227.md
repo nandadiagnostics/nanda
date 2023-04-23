@@ -5,3 +5,7 @@
 ### Caracteristicas Definitorias
 
 
+### Población en riesgo
+- Individuos que experimentan  - Individuos que experimentan  
+embarazo no planeado  el embarazo
+

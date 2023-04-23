@@ -47,3 +47,57 @@ ocurre durante
 fuente de alimento a los <5 
 meses de edad
 
+### Población en riesgo
+- Personas económicamente 
+desfavorecidas   
+- Personas que experimentaron 
+pubarquia prematura.   
+- Personas que experimentaron un 
+rápido aumento de peso durante 
+la infancia.   - Personas que 
+experimentaron 
+un rápido 
+aumento de peso 
+durante la 
+infancia.   
+- Individuos que 
+heredan factores 
+interrelacionados  
+ 
+ 
+ Personas que no fueron amamantadas 
+exclusivamente   
+ Personas con sobrepeso durante la infancia   
+ Individuos cuyas madres tenían diabetes 
+gestacional.   - Personas cuyas madres tienen 
+diabetes   
+- Personas cuyas madres fuman 
+durante la infancia  
+ 
+ 
+226 
+Dominio 2. Nutrición  Clase 1. Ingestión  
+ 
+ 
+ 
+- Personas cuyas madres fuman 
+durante el embarazo   
+- Individuos con un alto puntaje de 
+conducta alimentaria de 
+desinhibición y moderación
+
+### Condiciones Asociadas
+- Enfermedades genéticas 
+congénitas   
+ 
+ 
+ 
+- Personas con padres obesos   
+- Recién nacidos cuyas madres 
+tenían diabetes gestacional   
+ 
+ 
+ 
+ 
+2. Nutrición
+

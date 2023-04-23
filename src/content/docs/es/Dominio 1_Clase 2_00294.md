@@ -95,3 +95,23 @@ susceptibilidad a secuelas
  
  promoción
 
+### Población en riesgo
+- Familias económicamente 
+desfavorecidas   
+- Familias con miembros que 
+experimentan un diagnóstico 
+tardío   
+- Familias con miembros que 
+experimentan un nivel educativo 
+bajo  
+ 
+- Familias con miembros que tienen 
+experiencia limitada en la toma 
+de decisiones   
+- Familias con bebé prematuro    
+1. Salud
+
+### Condiciones Asociadas
+- Enfermedad crónica  - Trastornos neurocognitivos   
+- Desordenes mentales  - Enfermedad terminal
+

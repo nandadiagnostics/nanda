@@ -27,3 +27,29 @@ inadecuada.  - Aislamiento social
 - Motivación inadecuada  - Desequilibrio agua-
 electrolito
 
+### Población en riesgo
+- Desfavorecidos económicamente  - Individuos con bajo nivel educativo  
+individuos  nivel  
+- Individuos de ≥ 60 años
+
+### Condiciones Asociadas
+- Anemia  - Trastornos cognitivos   
+- Hipoxia cerebral   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5. Percepción / cognición
+

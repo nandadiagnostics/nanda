@@ -31,3 +31,8 @@ neuroconductuales
 autoimpuesta   
 - desnutrición
 
+### Condiciones Asociadas
+- Metabolismo alterado  - Cirugía Ortopédica  
+- Desordenes mentales  - Postura prescrita  
+- Desorden neurológico  - Sarcopenia
+

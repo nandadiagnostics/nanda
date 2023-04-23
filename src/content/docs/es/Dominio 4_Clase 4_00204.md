@@ -43,3 +43,7 @@ enfermedad   factores capaces
  proceso  - Estilo de vida sedentario  
   - De fumar
 
+### Condiciones Asociadas
+- Diabetes mellitus  - Hipertensión   
+- Procedimientos endovasculares  - Trauma
+

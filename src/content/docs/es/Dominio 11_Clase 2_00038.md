@@ -5,3 +5,9 @@
 ### Caracteristicas Definitorias
 
 
+### Población en riesgo
+- Personas económicamente 
+desfavorecidas   
+- Personas expuestas a vecindarios 
+de alta criminalidad
+

@@ -74,3 +74,18 @@ sistema de salud
 382 
 Dominio 7. Relación de roles  Clase 3. Desempeño de roles
 
+### Población en riesgo
+- Personas económicamente 
+desfavorecidas   
+- Individuos con un nivel de 
+desarrollo inadecuado para 
+las expectativas del rol.   
+ 
+ 
+ 
+ 
+- Personas con función laboral de 
+alta demanda   
+- Personas con bajo nivel 
+educativo
+

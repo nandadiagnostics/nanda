@@ -66,3 +66,35 @@ niño.
 - Discapacidad física percibida   
 - Riesgo de seguridad percibido
 
+### Población en riesgo
+- Adolescentes  - Individuos con alto nivel educativo  
+ 
+- Individuos de ≥ 60 años  nivel 
+ 
+- Individuos que viven en áreas 
+urbanas  - Personas con alto nivel socioeco-  
+ 
+- Personas que viven en pareja  estado económico  
+ 
+  
+190   
+ 
+Dominio 1. Promoción de la salud  Clase 1. Concienciación sobre la salud  
+ 
+ 
+ 
+- Individuos con tiempo 
+significativo   
+ 
+ 
+ 
+-  
+ 
+ 
+ 
+Mujeres    
+limitaciones   
+-   
+Individuos casados   
+1. Promoción de la salud
+

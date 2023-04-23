@@ -26,3 +26,7 @@ corto de
 medicación  
 - Ingesta excesiva de sodio  administración
 
+### Condiciones Asociadas
+- Desviaciones que afectan al fluido  - Preparaciones farmacéuticas  
+eliminación
+

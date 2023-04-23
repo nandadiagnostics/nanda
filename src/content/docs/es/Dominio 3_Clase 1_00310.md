@@ -28,3 +28,24 @@ vejiga  - Atrofia muscular esquelética
 - Exceso de peso   
 - Prolapso de órganos pélvicos
 
+### Población en riesgo
+- Individuos con tos crónica  - Adultos mayores  
+- Individuos con un tipo de uri-  - Mujeres que experimentan la 
+menopausia  
+ incontinencia naria  - Mujeres que dan a luz por vía 
+vaginal  
+- Mujeres multíparas
+
+### Condiciones Asociadas
+- diabetes mellitus   
+- Deficiencia de estrógenos   
+- Trastornos motores   
+- Trastornos del suelo pélvico   
+- incontinencia urinaria prolongada   
+ 
+ 
+- Cirugía para la 
+incontinencia urinaria 
+de esfuerzo   
+- Lesión del esfínter uretral
+

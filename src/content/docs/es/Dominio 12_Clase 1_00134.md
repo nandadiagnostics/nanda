@@ -13,3 +13,63 @@
 desagradables   
 - Temor
 
+### Población en riesgo
+- Mujeres embarazadas
+
+### Condiciones Asociadas
+- Neoplasias abdominales  - La enfermedad de Meniere  
+- Fenómeno bioquímico alterado  - Meningitis  
+- Enfermedad del esófago  - Cinetosis  
+- Distensión gástrica  - Enfermedades 
+pancreáticas  
+- Irritación gastrointestinal  - Preparaciones 
+farmacéuticas  
+- Hipertensión intracraneal  - Trastorno psicológico  
+- Laberintitis  - Estiramiento de la cápsula 
+esplénica  
+- Estiramiento de la cápsula 
+hepática  - Régimen de tratamiento   
+- Tumor localizado   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 12. Comodidad
+

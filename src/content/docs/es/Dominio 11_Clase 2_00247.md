@@ -5,3 +5,7 @@
 ### Caracteristicas Definitorias
 
 
+### Población en riesgo
+- Personas económicamente 
+desfavorecidas
+

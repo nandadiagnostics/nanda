@@ -38,3 +38,15 @@ culturales.
 - Limitaciones ambientales   normas   
 - Estimulación inadecuada
 
+### Población en riesgo
+- Individuos que enfrentan barreras - Individuos con comunicación  
+físicas  
+- Individuos en el postoperatorio 
+temprano   barreras  
+ período tivo  - Individuos sin un significativo  
+- Individuos incapaces de verbalizar   otro 
+ 
+33
+6 
+Dominio 5. Percepción / cognición  Clase 5. Comunicación
+

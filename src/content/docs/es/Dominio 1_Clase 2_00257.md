@@ -38,3 +38,60 @@ factores modificables.
  
  1. Promoción de la salud
 
+### Población en riesgo
+- Personas económicamente 
+desfavorecidas   
+- Personas mayores de 70 
+años   
+- Personas que experimentan 
+una hospitalización 
+prolongada   - Individuos para quienes caminar 15 pies 
+requiere> 6 segundos (4 metros> 5 segundos)  
+ 
+ 
+- Personas que viven solas   
+- Personas que 
+viven en 
+espacios 
+reducidos   - Personas con antecedentes de caídas   
+- Personas con bajo nivel 
+educativo  
+ 
+ 
+193 
+Dominio 1. Promoción de la salud  Clase 2. Gestión de la salud  
+ 
+ 
+ 
+ 
+ 
+ 
+ Promoción de la salud
+ 
+  
+ 
+ 
+ 
+- Personas con pérdida involuntaria 
+del 25% del peso corporal 
+durante un año   
+- Personas con pérdida de peso no 
+intencional> 10 libras (> 4,5 kg) 
+en un año
+
+### Condiciones Asociadas
+- Individuos socialmente vulnerables   
+- Mujeres  
+ 
+ 
+1.   
+- Anorexia  - Desordenes mentales  
+- Trastornos de la coagulación 
+sanguínea  - Sarcopenia  
+- Enfermedad crónica  - Obesidad sarcopénica  
+- Disminución de 25-hidroxivita-  - Trastornos de la 
+sensibilidad  
+ concentración min D  - Inflamatorio suprimido  
+- Depresión   respuesta   
+- Disfunción reguladora endocrina
+

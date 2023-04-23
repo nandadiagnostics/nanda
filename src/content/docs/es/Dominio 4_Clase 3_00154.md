@@ -41,3 +41,8 @@ neuroconductuales
 - Deseo de volver a casa  - Separación de lo familiar  
 - Sobreestimulación ambiental   medio ambiente
 
+### Población en riesgo
+- Individuos con 
+comportamiento 
+premórbido
+

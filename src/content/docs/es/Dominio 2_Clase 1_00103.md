@@ -90,3 +90,35 @@ Dominio 2. Nutrición  Clase 1. Ingestión
 - Problema de alimentación 
 conductual
 
+### Población en riesgo
+- Individuos con antecedentes de 
+nutrición enteral   
+- Adultos mayores   
+ 
+ 
+ 
+- Informa "algo atascado"   
+- Irritabilidad inexplicable en torno 
+a las comidas.   
+- Limitación de volumen   
+- vómitos   
+- Vómitos en la almohada  
+ 
+ 
+- Desnutrición proteico-energética   
+- Comportamiento autolesivo  
+ 
+ 
+- Bebés prematuros   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2. Nutrición
+

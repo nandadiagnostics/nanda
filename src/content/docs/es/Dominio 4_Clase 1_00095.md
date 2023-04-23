@@ -54,3 +54,33 @@ los ritmos circadianos normales
 - Uso de dispositivos 
 electrónicos interactivos
 
+### Población en riesgo
+- Adolescentes  - Trabajadores del turno de noche  
+- Desfavorecidos económicamente  - Adultos mayores  
+ individuos  - Mujeres embarazadas en el tercer 
+trimestre.  
+- Individuos afligidos  - Trabajadores por turnos rotativos  
+- Individuos que experimentan 
+cambios en  - Mujeres  
+ estado civil    
+ 
+ 
+ 
+274 
+Dominio 4. Actividad / descanso  Clase 1. Sueño / descanso
+
+### Condiciones Asociadas
+- Enfermedad crónica  - Preparaciones farmacéuticas   
+- Cambio hormonal   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4. Actividad / descanso
+

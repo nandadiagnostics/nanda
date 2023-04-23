@@ -5,3 +5,26 @@
 ### Caracteristicas Definitorias
 
 
+### Población en riesgo
+- Personas económicamente 
+desfavorecidas   
+- Individuos que experimentan 
+una nueva crisis.   
+- Individuos que experimentan una 
+crisis crónica.   
+- Personas expuestas a la violencia   
+- Personas que son miembros de 
+una minoría étnica   
+ 
+ 
+- Personas cuyos padres tienen 
+trastornos mentales.   
+- Personas con antecedentes de 
+exposición a la violencia.   
+- Individuos con familias numerosas   
+- Madres con bajo nivel educativo   
+- Mujeres
+
+### Condiciones Asociadas
+- Discapacidad intelectual  - Trastorno psicológico
+

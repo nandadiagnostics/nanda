@@ -92,3 +92,18 @@ los tejidos.
 508 
 Dominio 11. Seguridad / protección  Clase 2. Lesión física
 
+### Población en riesgo
+- Individuos en edades extremas   
+- Individuos en unidades de cuidados 
+intensivos   
+- Personas en centros de 
+atención a largo plazo   
+ 
+ 
+ 
+ 
+- Individuos en entornos de 
+cuidados paliativos   
+- Personas que reciben atención 
+domiciliaria
+

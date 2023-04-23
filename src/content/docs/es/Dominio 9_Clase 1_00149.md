@@ -5,3 +5,10 @@
 ### Caracteristicas Definitorias
 
 
+### Población en riesgo
+- Individuos que enfrentan la imprevisibilidad  - Individuos que 
+se mueven de uno  
+de experiencia  ambiente a otro   
+- Individuos con antecedentes de 
+pérdida
+

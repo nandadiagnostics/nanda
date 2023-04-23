@@ -81,3 +81,62 @@ modificados
 - Sala de partos ruidosa   
 - Sala de partos abarrotada
 
+### Población en riesgo
+- Mujeres en situación de 
+emergencia durante el trabajo 
+de parto.   
+- Mujeres de culturas con 
+perspectiva negativa del dolor del 
+parto.   
+- Mujeres que dan a luz en un 
+sistema de salud basado en 
+enfermedades.   
+- Mujeres cuyas madres tienen 
+un alto nivel de educación.   
+ 
+ 
+ 
+ 
+ 
+- Entorno turbulento  
+ 
+ 
+ 
+- Mujeres con antecedentes de 
+dismenorrea antes del 
+embarazo   
+- Mujeres con antecedentes de 
+abuso sexual durante la 
+infancia.   
+- Mujeres sin acompañante 
+que las apoye
+
+### Condiciones Asociadas
+- Dilatación cervical  - Ansiedad por rasgos maternos 
+elevados  
+- Depresión  - Restricción de movilidad 
+prescrita  
+- Expulsión fetal  - Duración prolongada del 
+trabajo de parto   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+12. Comodidad
+

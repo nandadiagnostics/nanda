@@ -29,3 +29,8 @@ habilidades personales.
  
  tolerancia
 
+### Población en riesgo
+- Personas con 
+antecedentes de 
+procrastinación    Afrontamiento / estrés
+

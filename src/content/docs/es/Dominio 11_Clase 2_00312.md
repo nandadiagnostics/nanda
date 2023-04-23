@@ -131,3 +131,81 @@ Otros factores
 herramienta de detección 
 estandarizada y validada
 
+### Población en riesgo
+- Personas en entornos de atención 
+a personas mayores   
+- Individuos en unidades de 
+cuidados intensivos   
+- Individuos en entornos de 
+cuidados paliativos   
+- Individuos en entornos de 
+rehabilitación   
+- Personas en tránsito hacia o entre 
+entornos de atención clínica   
+- Personas que reciben atención 
+domiciliaria   
+- Individuos con puntuación ≥ 3 en la 
+clasificación del estado físico de la 
+American Society of 
+Anesthesiologists (ASA)
+
+### Condiciones Asociadas
+- anemia   
+- Enfermedades cardiovasculares   
+- Enfermedades del sistema 
+nervioso central   
+- Condiciones neurológicas crónicas   
+- Enfermedad crítica   
+- Disminución del nivel de albúmina 
+sérica.   
+- Disminución de la oxigenación de 
+los tejidos.   
+- Disminución de la perfusión tisular   
+- diabetes mellitus   
+- edema   
+- Proteína C reactiva elevada   
+- Inestabilidad hemodinámica   
+Clase 2. Lesión física   
+ 
+ 
+ 
+- Desnutrición proteico-energética   
+- fumar   
+- Mal uso de sustancia  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+- Personas con índice de masa 
+corporal por encima del rango 
+normal para la edad y el sexo.   
+- Personas con índice de masa 
+corporal por debajo del rango 
+normal para la edad y el sexo   
+- Personas con antecedentes de 
+lesiones por presión.   
+- Personas con discapacidad física   
+- Adultos mayores  
+ 
+ 
+ 
+ 
+ 
+ 
+- Fractura de cadera   
+- Inmovilización   
+- Circulación deteriorada   
+- Discapacidad intelectual   
+- Dispositivos médicos   
+- Neuropatía periférica   
+- Preparaciones farmacéuticas   
+- Trauma físico   
+- Duración prolongada del 
+procedimiento quirúrgico   
+- trastornos de la sensibilidad   
+- Lesiones de la médula espinal
+

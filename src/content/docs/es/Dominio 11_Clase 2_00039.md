@@ -5,3 +5,6 @@
 ### Caracteristicas Definitorias
 
 
+### Población en riesgo
+- Adultos mayores  - Bebés prematuros
+

@@ -26,3 +26,16 @@ desagradables
 - Recursos sanitarios inadecuados   
 - Control situacional inadecuado
 
+### Condiciones Asociadas
+- Síntomas relacionados con enfermedades  - Régimen de 
+tratamiento  
+ 12. Comodidad
+ 
+ 
+ 
+ 
+ 
+ 
+Este diagnóstico se clasifica en Clase 1 (Confort físico), Clase 2 (Confort ambiental) y Clase 3 (Confort 
+social).
+

@@ -112,3 +112,7 @@ Situacional
 - Ritmo inadecuado del proceso 
 de destete
 
+### Población en riesgo
+- Personas con antecedentes de 
+intento de destete fallido
+

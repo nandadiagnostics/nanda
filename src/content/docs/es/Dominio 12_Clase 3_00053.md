@@ -52,3 +52,58 @@ personal.
 - Miedo al tráfico   
 - Movilidad física deteriorada
 
+### Población en riesgo
+- Personas económicamente 
+desfavorecidas   
+- inmigrantes   
+ 
+- Sistema de apoyo psicosocial 
+inadecuado   
+- Habilidades sociales inadecuadas   
+- Apoyo social inadecuado   
+- Transporte inadecuado   
+- Baja autoestima   
+- Percepción negativa del sistema 
+de apoyo   
+- Manifestaciones neuroconductuales   
+- Valores incongruentes con las 
+normas culturales.  
+ 
+ 
+- Individuos que experimentan un 
+rol social alterado   
+ 
+ 
+ 
+ 
+ 
+ 12. Comodidad
+ 
+ 
+ 
+ 
+565 
+Dominio 12. Comodidad  Clase 3. Confort social  
+ 
+ 
+ 
+- Personas que experimentan la 
+pérdida de su pareja   
+- Personas que viven solas   
+- Personas que viven lejos de 
+otras personas significativas   
+- Personas que se mudan a 
+lugares desconocidos   
+- Personas con historial de 
+rechazo   
+ 
+ 
+ 
+- Individuos con historia de 
+evento traumático   
+- Personas con familiar enfermo   
+- Personas sin hijos   
+- Individuos institucionalizados   
+- Adultos mayores   
+- Individuos viudos
+

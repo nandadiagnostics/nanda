@@ -16,3 +16,27 @@ neuroconductuales
 - Incapacidad para mantener el 
 control  - Mal uso de sustancia
 
+### Condiciones Asociadas
+- Síndrome de Capgras  - Proceso de 
+enfermedad  
+- Disfunción del lóbulo frontal  - Desordenes 
+mentales  
+- Deterioro funcional  - Desórdenes 
+psicóticos   
+- Discapacidad de aprendizaje   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4. Actividad / descanso
+

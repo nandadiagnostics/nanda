@@ -5,3 +5,11 @@
 ### Caracteristicas Definitorias
 
 
+### Población en riesgo
+- Mujeres puerperales
+
+### Condiciones Asociadas
+- Hiperplasia prostática benigna  - Preparaciones farmacéuticas   
+- Diabetes mellitus  - Obstrucción del tracto urinario   
+- Enfermedades del sistema nervioso
+

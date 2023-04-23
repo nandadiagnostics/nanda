@@ -37,3 +37,35 @@ en situaciones sociales
 - Limitaciones ambientales que 
 interfieren con la continencia.
 
+### Población en riesgo
+- Niños
+
+### Condiciones Asociadas
+- Enfermedades cardíacas   
+- Coordinación deteriorada   
+- Destreza manual deteriorada   
+- Discapacidad intelectual   
+- Enfermedades neuromusculares   
+ 
+- Suprime habitualmente la 
+necesidad de orinar   
+- Movilidad física deteriorada   
+- Equilibrio postural alterado   
+- Motivación inadecuada para 
+mantener la continencia.   
+- Mayor ingesta de líquidos   
+- Manifestaciones neuroconductuales   
+- Trastornos del suelo pélvico  
+ 
+ 
+ 
+ 
+ 
+- Adultos mayores  
+ 
+ 
+- Enfermedades osteoarticulares   
+- Preparaciones farmacéuticas   
+- Trastorno psicológico   
+- Trastornos de la vista
+

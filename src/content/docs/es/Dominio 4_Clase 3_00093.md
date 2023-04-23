@@ -46,3 +46,10 @@ físico
 - Mayor esfuerzo mental  - Factores estresantes   
 - Mayor esfuerzo físico
 
+### Población en riesgo
+- Individuos expuestos a negativos  - Mujeres embarazadas  
+ evento de vida  - Mujeres en trabajo de 
+parto  
+- Individuos con exigentes    
+ ocupación
+

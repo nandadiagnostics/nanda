@@ -26,3 +26,6 @@ debilitado
 - Relajación inadecuada de los 
 músculos del suelo pélvico.
 
+### Población en riesgo
+- Mujeres puerperales
+

@@ -25,3 +25,6 @@ mano
 - Miedo al dolor  - De fumar   
 - Cuerpo extraño en las vías respiratorias
 
+### Población en riesgo
+- Niños  - Infantes
+

@@ -39,3 +39,69 @@ el poder.
 inadecuados   
 - Apoyo social inadecuado
 
+### Población en riesgo
+- Personas económicamente 
+desfavorecidas   
+- Individuos que experimentan 
+una nueva crisis.   
+- Individuos que experimentan una 
+crisis crónica.   
+- Personas expuestas a la violencia   
+- Personas que son miembros de 
+una minoría étnica   
+ 
+- Crianza inconsistente   
+- Adaptación familiar ineficaz   
+- Control ineficaz de impulsos   
+- Múltiples situaciones 
+adversas coexistentes   
+- Vulnerabilidad percibida   
+- Mal uso de sustancia  
+ 
+ 
+- Personas cuyos padres tienen 
+trastornos mentales.   
+- Personas con antecedentes de 
+exposición a la violencia.   
+- Individuos con familias numerosas   
+- Madres con bajo nivel educativo   
+- Mujeres  
+ 
+ 
+ 
+ 
+ 
+ 
+430 
+Dominio 9. Afrontamiento / tolerancia al estrés  Clase 2. Respuestas de afrontamiento
+
+### Condiciones Asociadas
+- Discapacidad intelectual  - Trastorno psicológico   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9. Afrontamiento / tolerancia al estrés
+

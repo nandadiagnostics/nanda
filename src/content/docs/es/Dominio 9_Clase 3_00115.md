@@ -5,3 +5,8 @@
 ### Caracteristicas Definitorias
 
 
+### Población en riesgo
+- Lactantes expuestos a teratógenos en  - Lactantes con baja posmenstrual  
+útero  la edad   
+- Bebés prematuros
+

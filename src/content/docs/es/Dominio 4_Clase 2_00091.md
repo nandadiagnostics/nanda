@@ -45,3 +45,19 @@ estrategias de movilidad.
  
  4. Actividad / descanso
 
+### Población en riesgo
+- Niños  - Individuos en el postoperatorio 
+temprano  
+- Individuos que experimentan 
+pro-  período tivo  
+ reposo en cama anhelado  - Adultos mayores
+
+### Condiciones Asociadas
+- Respiración artificial  - Trastornos 
+neurodegenerativos  
+- Enfermedad crítica  - Enfermedades 
+neuromusculares  
+- Demencia  - enfermedad de Parkinson  
+- Tubos de drenaje  - Preparaciones farmacéuticas  
+- Deterioro musculoesquelético  - Sedación
+

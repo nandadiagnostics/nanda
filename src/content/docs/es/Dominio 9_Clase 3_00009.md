@@ -66,3 +66,20 @@ cuidador  - Conocimiento inadecuado de la
 enfermedad.  
  del proceso de la enfermedad   proceso
 
+### Población en riesgo
+- Personas expuestas a 
+temperaturas ambientales 
+extremas.   
+- Hombres con lesión o lesión de la 
+médula espinal que 
+experimentan eyaculación.   
+ 
+- Mujeres con lesión o lesión de la 
+médula espinal que están 
+experimentando trabajo de parto.   
+- Mujeres con lesión o lesión de la 
+médula espinal que están 
+menstruando   
+- Mujeres embarazadas con lesión 
+o lesión de la médula espinal.
+

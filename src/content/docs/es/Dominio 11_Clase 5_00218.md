@@ -5,3 +5,26 @@
 ### Caracteristicas Definitorias
 
 
+### Población en riesgo
+- Individuos en edades extremas  - Individuos con antecedentes de 
+alergia   
+- Personas con antecedentes de 
+efectos adversos de los medios 
+de contraste yodados
+
+### Condiciones Asociadas
+-  
+-   
+Enfermedad crónica   
+Uso concurrente de productos 
+farmacéuticos    
+-  
+-   
+Disminución del nivel de conciencia 
+Individuos con venas frágiles   
+preparativos   
+ 
+ 
+ 
+ 11. Seguridad / protección
+

@@ -17,3 +17,6 @@ neuroconductuales
 - Disminución de la motivación  - Dolor  
 - Limitaciones ambientales  - Debilidad
 
+### Población en riesgo
+- Adultos mayores
+

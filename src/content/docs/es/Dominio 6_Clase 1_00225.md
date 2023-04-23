@@ -5,3 +5,14 @@
 ### Caracteristicas Definitorias
 
 
+### Población en riesgo
+- Los individuos que experimentan el desarrollo  - Individuos 
+expuestos a tóxicos  
+transición mental  quimicos   
+- Individuos que experimentan situaciones  
+crisis nacional
+
+### Condiciones Asociadas
+- Trastorno de identidad disociativo  - Trastornos neurocognitivos   
+- Desordenes mentales  - Preparaciones farmacéuticas
+

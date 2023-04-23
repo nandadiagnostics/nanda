@@ -25,3 +25,13 @@ plazo
 - Dolor chónico  - Mal uso de sustancia   
 - Estilo de vida sedentario
 
+### Población en riesgo
+- Individuos ≥ 60 años
+
+### Condiciones Asociadas
+- Enfermedades del sistema nervioso central  - Trastornos 
+neurocognitivos   
+- Virus de inmunodeficiencia humana  - Carrera  
+infecciones   
+- Desordenes mentales
+

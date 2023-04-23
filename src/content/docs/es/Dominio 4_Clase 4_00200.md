@@ -5,3 +5,18 @@
 ### Caracteristicas Definitorias
 
 
+### Población en riesgo
+- Personas con antecedentes 
+familiares de enfermedad 
+cardiovascular.
+
+### Condiciones Asociadas
+- Taponamiento cardíaco  - Hipertensión  
+- Cirugía Cardiovascular  - Hipovolemia  
+- Espasmo de la arteria 
+coronaria  - Hipoxemia  
+- Diabetes mellitus  - Hipoxia  
+- Proteína C reactiva elevada  - Preparaciones 
+farmacéuticas   
+- hiperlipidemia
+

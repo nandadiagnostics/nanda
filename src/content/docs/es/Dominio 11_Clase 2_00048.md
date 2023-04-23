@@ -26,3 +26,7 @@ abrasivos de higiene bucal.
 - Uso indebido habitual de la 
 sustancia colorante
 
+### Población en riesgo
+- Personas económicamente 
+desfavorecidas
+

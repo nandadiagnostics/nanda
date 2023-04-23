@@ -232,3 +232,42 @@ recursos comunitarios
 - Dificultad para acceder al soporte   
 - Recursos comunitarios inadecuados
 
+### Población en riesgo
+- Receptor de cuidados con 
+discapacidades del desarrollo   
+- Cuidador que atiende a su 
+pareja   
+- Cuidador con discapacidades 
+del desarrollo   
+ 
+ 
+ 
+- Tiempo insuficiente   
+- Impredecibilidad de la situación 
+asistencial  
+ 
+ 
+ 
+- Patrón de disfunción familiar 
+previo a la situación de cuidado   
+- Patrón de afrontamiento familiar 
+ineficaz  
+ 
+ 
+ 
+- Apoyo social inadecuado   
+- Transporte inadecuado   
+- Alienación social  
+ 
+ 
+ 
+ 
+- Cuidador femenino   
+- Individuos que brindan 
+atención a bebés nacidos 
+prematuramente   
+- Personas que atraviesan una 
+crisis financiera  
+  
+7. Rol
+

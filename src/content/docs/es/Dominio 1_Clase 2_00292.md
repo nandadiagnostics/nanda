@@ -62,3 +62,29 @@ decisiones
 - Victimización percibida   
 - Angustia espiritual
 
+### Población en riesgo
+- Económicamente desfavorecidos  - Individuos con historial de 
+violencia  
+ 
+individuos  - Hombres  
+ 
+- Personas de familias con ineficacia  - Adultos mayores  
+ 
+afrontamiento familiar efectivo  - Adultos jovenes   
+  
+  199 
+ 
+Dominio 1. Promoción de la salud  Clase 2. Gestión de la salud
+
+### Condiciones Asociadas
+-  
+-   
+Enfermedad crónica 
+Discapacidades del 
+desarrollo    
+-  
+-   
+Trastornos mentales 
+Trastornos de las 
+habilidades motoras   1. Promoción de la salud
+

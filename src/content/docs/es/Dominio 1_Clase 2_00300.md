@@ -28,3 +28,34 @@ decisiones
 - Conocimiento inadecuado del 
 mantenimiento del hogar.
 
+### Población en riesgo
+- Personas económicamente 
+desfavorecidas   
+- Personas que viven solas
+
+### Condiciones Asociadas
+- depresión   
+- Desordenes mentales   
+- Neoplasias   
+ 
+- Conocimiento inadecuado de los 
+recursos sociales   
+- Habilidades organizativas 
+inadecuadas   
+- Modelos a seguir inadecuados   
+- Apoyo social inadecuado   
+- Resistencia física insuficiente   
+- Manifestaciones neuroconductuales   
+- impotencia   
+- Trastorno sicologico  
+ 
+ 
+- Adultos mayores  
+ 
+ 
+ 
+ 
+- Trastornos neurocognitivos   
+- trastornos de la sensibilidad   
+- Enfermedades vasculares
+

@@ -101,3 +101,54 @@ comportamientos alimentarios
 de alimentos no saludables con 
 alto contenido calórico
 
+### Población en riesgo
+- Niños nacidos de familias 
+económicamente desfavorecidas   
+- Niños sin hogar   
+ 
+ 
+ 
+- Falta de confianza en el niño 
+para desarrollar hábitos 
+alimenticios saludables.   
+- Falta de confianza en el niño para 
+crecer adecuadamente.   
+- Mal uso de sustancia  
+ 
+ 
+ 
+ 
+ 
+- Influencia de los medios en el 
+conocimiento de alimentos no 
+saludables con alto contenido 
+calórico  
+ 
+ 
+ 
+- Niños que experimentan 
+una transición de vida.   
+- Niños que viven en hogares de 
+acogida   
+- Niños cuyos padres son obesos   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2. Nutrición
+
+### Condiciones Asociadas
+- Depresión  - Problema de salud física de 
+los padres  
+- Trastorno psiquiátrico de los 
+padres  - Problema de salud 
+psicológica de  
+- Desafío físico al comer   padre   
+- Desafío físico con la alimentación.
+

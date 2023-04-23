@@ -38,3 +38,11 @@ el peso corporal
 - Resistencia física insuficiente  - Postura de alivio 
 autoimpuesta
 
+### Condiciones Asociadas
+- Trastorno de la perfusión 
+circulatoria  - Postura prescrita  
+- Metabolismo alterado  - Sarcopenia  
+- Lesión en la extremidad inferior  - Procedimientos 
+quirúrgicos   
+- Desorden neurológico
+

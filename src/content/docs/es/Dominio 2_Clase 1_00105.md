@@ -8,3 +8,21 @@
 ### Factores Relacionados
 - Destete abrupto del lactante  - Separación materno-infantil
 
+### Población en riesgo
+- Madres empleadas  - Lactantes hospitalizados   
+- Niños hospitalizados  - Bebés prematuros
+
+### Condiciones Asociadas
+- Contraindicaciones para la lactancia materna.  - Enfermedad 
+materna   
+- Enfermedad infantil   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2. Nutrición
+

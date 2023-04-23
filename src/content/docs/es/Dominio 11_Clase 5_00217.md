@@ -5,3 +5,22 @@
 ### Caracteristicas Definitorias
 
 
+### Población en riesgo
+- Personas con antecedentes de 
+alergia alimentaria.   
+- Personas con antecedentes de 
+alergia a las picaduras de 
+insectos.   
+ 
+- Personas con exposición repetida a 
+sustancias ambientales 
+productoras de alérgenos.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+11. Seguridad / protección
+

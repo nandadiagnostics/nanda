@@ -97,3 +97,31 @@ Abuso de sustancias
 Plan de nacimiento poco realista   
 Entorno inseguro
 
+### Población en riesgo
+- Individuos que experimentan   
+embarazo no planeado    
+- Individuos que experimentan   
+el embarazo   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8. Sexualidad
+

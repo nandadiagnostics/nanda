@@ -50,3 +50,58 @@ valores
 - Valores incongruentes con las 
 normas culturales.
 
+### Población en riesgo
+- Familias mixtas   
+- Familias económicamente 
+desfavorecidas   
+- Familias que experimentan 
+infertilidad   
+- Familias con antecedentes de 
+violencia doméstica   
+- Familias con miembro encarcelado   
+- Familias con miembros que 
+experimentan alteraciones en el 
+estado de salud   - Familias con 
+miembros que 
+experimentan 
+crisis de 
+desarrollo  
+ 
+ 
+- Familias con miembros que experimentan una 
+crisis situacional   
+- Familias con miembros que viven lejos de 
+parientes   
+- Familias con miembro con historial de adopción   - Familias con miembros con 
+disfunción de la intimidad   
+- Familias con miembros 
+desempleados  
+ 
+ 
+370 
+Dominio 7. Relación de roles  Clase 2. Relaciones familiares
+
+### Condiciones Asociadas
+- Régimen de tratamiento de la infertilidad   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7. Relación de funciones
+

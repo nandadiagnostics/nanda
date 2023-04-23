@@ -5,3 +5,22 @@
 ### Caracteristicas Definitorias
 
 
+### Población en riesgo
+- Mujeres pertenecientes a etnia en 
+la que se acepta la práctica   
+- Mujeres pertenecientes a la 
+familia en la que alguna mujer 
+ha sido sometida a práctica.   
+- Mujeres de familias con actitud 
+favorable hacia la práctica.   
+ 
+- Mujeres que planean visitar el país 
+de origen de la familia en el que 
+se acepta la práctica.   
+- Mujeres que residen en el país 
+donde se acepta la práctica   
+- Mujeres cuyos líderes familiares 
+pertenecen a grupo étnico en 
+el que se acepta la práctica   
+11. Seguridad / protección
+

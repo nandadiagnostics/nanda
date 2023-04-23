@@ -5,3 +5,18 @@
 ### Caracteristicas Definitorias
 
 
+### Condiciones Asociadas
+- Solución irritante  - Velocidad de infusión rápida   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 11. Seguridad / protección
+

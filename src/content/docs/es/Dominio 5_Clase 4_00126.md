@@ -39,3 +39,8 @@ con el aprendizaje
 - Información inadecuada   
 - Interés inadecuado por aprender
 
+### Población en riesgo
+- Personas económicamente 
+desfavorecidas   
+- Individuos analfabetos
+

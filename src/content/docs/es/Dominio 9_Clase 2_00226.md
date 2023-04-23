@@ -5,3 +5,8 @@
 ### Caracteristicas Definitorias
 
 
+### Población en riesgo
+- Personas con 
+antecedentes de 
+procrastinación    9. Afrontamiento / tolerancia al estrés
+

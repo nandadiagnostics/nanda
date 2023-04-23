@@ -20,3 +20,35 @@ variante  - Alternativa sexual inadecuada
 - Miedo a la transmisión sexual  - Modelos a seguir inadecuados  
  infección  - Privacidad insuficiente
 
+### Población en riesgo
+- Personas sin pareja   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 8. Sexualidad
+

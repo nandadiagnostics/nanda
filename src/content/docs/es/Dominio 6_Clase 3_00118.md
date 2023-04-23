@@ -90,3 +90,21 @@ resultado del tratamiento
 Dominio 6. Autopercepción  Clase 3. Imagen 
 corporal
 
+### Población en riesgo
+- Sobrevivientes de cáncer   
+- Individuos que experimentan un 
+peso corporal alterado   
+- Individuos que experimentan una 
+transición de desarrollo mental   
+- Personas que experimentan la 
+pubertad   
+ 
+ 
+ 
+ 
+- Personas con función 
+corporal alterada   
+- Personas con cicatrices   
+- Individuos con estomas   
+- Mujeres
+

@@ -66,3 +66,10 @@ médica
  
  10. Principios de vida
 
+### Población en riesgo
+- Individuos con decisión limitada  - Mujeres que viven en familias con  
+haciendo experiencia  jerarquía patriarcal   
+- Mujeres que acceden a la atención 
+médica desde sistemas con 
+jerarquía patriarcal.
+

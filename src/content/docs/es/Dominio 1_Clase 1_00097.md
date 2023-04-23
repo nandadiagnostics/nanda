@@ -22,3 +22,13 @@ inadecuadas
 - Malestar físico   
 - Trastorno sicologico
 
+### Población en riesgo
+- Individuos en edades extremas  - Individuos que experimentan  
+- Individuos que experimentan 
+pro- institucionalización 
+prolongada  
+ hospitalización anhelada
+
+### Condiciones Asociadas
+- Restricciones de movimiento prescritas  - Aislamiento terapéutico
+
