@@ -1,6 +1,6 @@
 # Preparación para una mayor resiliencia
 ## Definición
-	Un patrón de capacidad para recuperarse de situacio nes adversas o cambiantes percibidas, a través de un proceso dinám ico de adaptación, que puede fortalecerse.
+	Un patrón de capacidad para recuperarse de situacio nes adversas o cambiantes percibidas, a través de un proceso dinámico de adaptación, que puede fortalecerse.
 
 ### Caracteristicas Definitorias
 - Expresa el deseo de mejorar los 
@@ -13,17 +13,12 @@ seguridad ambiental.
 establecimiento de objetivos.   
 - Expresa el deseo de mejorar las 
 relaciones interpersonales.   
-- Expresa deseo de mejorar  
-participación en actividades   
+- Expresa deseo de mejorar participación en actividades   
 - Expresa el deseo de mejorar su 
 propia responsabilidad por la 
 acción.   
 - Expresa el deseo de mejorar la 
-perspectiva positiva   
- 
- 
- 
- 
+perspectiva positiva
 - Expresa el deseo de mejorar el 
 progreso hacia la meta.   
 - Expresa el deseo de mejorar la 
@@ -43,18 +38,3 @@ afrontamiento.
 - Expresa el deseo de mejorar el uso 
 de recursos.   
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 9. Afrontamiento / tolerancia al estrés
-

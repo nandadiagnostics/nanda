@@ -1,9 +1,6 @@
 # Riesgo de baja autoestima situacional
 ## Definición
-	Susceptible de cambiar de percepción positiva a negativa  de autoestima, autoaceptación, autorrespeto, competencia y actitud hacia uno mismo en respuesta a una situación actual, lo que puede comprometer la salud.
-
-### Caracteristicas Definitorias
-
+	Susceptible de cambiar de percepción positiva a negativa de autoestima, autoaceptación, autorrespeto, competencia y actitud hacia uno mismo en respuesta a una situación actual, lo que puede comprometer la salud.
 
 ### Población en riesgo
 - Individuos que experimentan un 
@@ -36,11 +33,3 @@ abandono
 - Personas con historial de pérdida   
 - Personas con historial de 
 rechazo  
- 
- 
- 
- 
- 
-353 
-Dominio 6. Autopercepción  Clase 2. Autoestima
-

@@ -1,10 +1,9 @@
 # Síndrome de identidad familiar perturbada
 ## Definición
-	Incapacidad para mantener un proceso comunicativo e i nteractivo continuo de creación y mantenimiento de un sentido colectivo co mpartido del significado de la familia.
+	Incapacidad para mantener un proceso comunicativo e interactivo continuo de creación y mantenimiento de un sentido colectivo co mpartido del significado de la familia.
 
 ### Caracteristicas Definitorias
-relación  
-   
+
 - Conflicto decisional (00083)   
 - Afrontamiento familiar 
 discapacitado (00073)   
@@ -21,8 +20,7 @@ ineficaz (00065)
 - Procesos familiares 
 interrumpidos (00060)  
  
- 
-7. Rol
+
 
 ### Factores Relacionados
 - Relaciones familiares 
@@ -37,7 +35,6 @@ miembros de la familia.
 - Manejo inconsistente del régimen 
 terapéutico entre los miembros 
 de la familia   
- 
 - Estrategias de afrontamiento 
 ineficaces   
 - Comunicación familiar ineficaz   
@@ -61,47 +58,24 @@ violencia doméstica
 - Familias con miembro encarcelado   
 - Familias con miembros que 
 experimentan alteraciones en el 
-estado de salud   - Familias con 
+estado de salud   
+- Familias con 
 miembros que 
 experimentan 
 crisis de 
 desarrollo  
- 
- 
 - Familias con miembros que experimentan una 
 crisis situacional   
 - Familias con miembros que viven lejos de 
 parientes   
-- Familias con miembro con historial de adopción   - Familias con miembros con 
+- Familias con miembro con historial de adopción   
+- Familias con miembros con 
 disfunción de la intimidad   
 - Familias con miembros 
 desempleados  
  
- 
-370 
-Dominio 7. Relación de roles  Clase 2. Relaciones familiares
+
 
 ### Condiciones Asociadas
 - Régimen de tratamiento de la infertilidad   
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-7. Relación de funciones
-

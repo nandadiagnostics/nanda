@@ -1,9 +1,6 @@
 # Riesgo de síndrome de identidad familiar perturbada
 ## Definición
-	Susceptible a la incapacidad de mantener un proceso  comunicativo e interactivo continuo para crear y mantener un sentid o colectivo compartido del significado de la familia, que puede comprometer la sa lud de los miembros de la familia.
-
-### Caracteristicas Definitorias
-
+	Susceptible a la incapacidad de mantener un proceso comunicativo e interactivo continuo para crear y mantener un sentido colectivo compartido del significado de la familia, que puede comprometer la salud de los miembros de la familia.
 
 ### Población en riesgo
 - Familias mixtas   
@@ -21,19 +18,19 @@ estado de salud
 - Familias con miembros que 
 experimentan crisis de 
 desarrollo  
- Condiciones 
-asociadas   
+- Familias con miembros que experimentan una 
+crisis situacional   
+- Familias con miembros que viven lejos de 
+parientes   
+- Familias con miembro con historial de adopción   
+- Familias con miembros con disfunción de la 
+intimidad   
+- Familias con miembros 
+desempleados
+
+
+ ### Condiciones asociadas   
 - Régimen de 
 tratamiento de la 
 infertilidad  
  
- 
- Familias con miembros que experimentan una 
-crisis situacional   
- Familias con miembros que viven lejos de 
-parientes   
- Familias con miembro con historial de adopción   
- Familias con miembros con disfunción de la 
-intimidad   - Familias con miembros 
-desempleados
-

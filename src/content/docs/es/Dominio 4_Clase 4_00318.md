@@ -1,6 +1,6 @@
 # Respuesta de destete ventilatorio disfuncional del adulto
 ## Definición
-	Incapacidad de las personas mayores de 18 años, que  han requerido ventilación mecánica al menos 24 horas, para realiza r una transición satisfactoria a la ventilación espontánea.
+	Incapacidad de las personas mayores de 18 años, que han requerido ventilación mecánica al menos 24 horas, para realizar una transición satisfactoria a la ventilación espontánea.
 
 ### Caracteristicas Definitorias
 Respuesta temprana (<30 minutos)   
@@ -12,12 +12,10 @@ arterial (<90 mmHg o> 20%
 de reducción con respecto al 
 valor inicial)   
 - Disminución de la frecuencia 
-cardíaca (> 20%  
-reducción de la línea de base)   
+cardíaca (> 20% reducción de la línea de base)   
 - Disminución de la saturación de 
 oxígeno (<90% cuando la 
-fracción de la proporción de 
-oxígeno inspirado> 40%)   
+fracción de la proporción de oxígeno inspirado> 40%)   
 - Expresa aprensión   
 - Expresa angustia   
 - Expresa temor al mal 
@@ -26,7 +24,7 @@ máquina
 - Expresa sentirse cálido   
 - Hiperenfocado en actividades  
  
- 
+
 Respuesta intermedia (30-90 minutos)   
 - Disminución del pH (reducción 
 de <7.32 o> 0.07 con respecto 
@@ -53,8 +51,6 @@ aumento de oxígeno
 - Utiliza importantes músculos 
 accesorios respiratorios   
 - Apariencia de ojos abiertos  
- 
- 
 - Hipercapnia (aumento> 50 mmHg 
 en la presión parcial de dióxido 
 de carbono o aumento> 8 
@@ -69,10 +65,7 @@ Respuesta tardía (> 90 minutos)
 - Cianosis  - Arritmias de aparición reciente  
  
  
- 
-314 
-Dominio 4. Actividad / descanso  Clase 4. Respuestas cardiovasculares / 
-pulmonares
+
 
 ### Factores Relacionados
 - Ciclo de sueño-vigilia alterado  - Tos ineficaz   
@@ -88,34 +81,27 @@ enfermedades  índices de extubación
 dependencia ansiada del ventilador
 
 ### Condiciones Asociadas
-- Desequilibrio ácido-base  - Enfermedad de alta 
-agudeza  
-- Anemia  - Hipertermia  
-- Shock cardiogénico  - Hipoxemia  
-- Disminución del nivel de conciencia.  - Infecciones  
+- Desequilibrio ácido
+- Base  
+- Enfermedad de alta  agudeza  
+- Anemia  
+- Hipertermia  
+- Shock cardiogénico  
+- Hipoxemia  
+- Disminución del nivel de conciencia.  
+- Infecciones  
 - Disfunción del diafragma 
-adquirida  - Enfermedades 
-neuromusculares  
- en la unidad de cuidados 
-intensivos  - Preparaciones 
+adquirida 
+- Enfermedades neuromusculares en la unidad de cuidados 
+intensivos  
+- Preparaciones 
 farmacéuticas  
 - Enfermedades del sistema 
-endocrino  - Desequilibrio agua-
-electrolito  
+endocrino  
+- Desequilibrio agua
+- Electrolito  
 - Enfermedades cardíacas   
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 4. Actividad / descanso
 

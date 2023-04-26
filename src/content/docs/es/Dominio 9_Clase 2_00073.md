@@ -1,9 +1,8 @@
 # Afrontamiento familiar discapacitado
 ## Definición
-	Comportamiento de la persona principal (familiar, parej a o amigo cercano) que incapacita sus capacidades y las capacidades de l cliente para abordar de manera efectiva las tareas esenciales para la adapta ción de cualquiera de las personas al desafío de salud.
+	Comportamiento de la persona principal (familiar, pareja o amigo cercano) que incapacita sus capacidades y las capacidades del cliente para abordar de manera efectiva las tareas esenciales para la adaptación de cualquiera de las personas al desafío de salud.
 
 ### Caracteristicas Definitorias
-tolerancia
     
 - Abandona al cliente   
 - Adopta los síntomas de la 
@@ -34,6 +33,5 @@ cliente.
 - Hiperenfoque prolongado en el 
 cliente   
 - Agitación psicomotora   
-- Síntomas psicosomáticos  
-  9. Afrontamiento / estrés
+- Síntomas psicosomáticos 
 

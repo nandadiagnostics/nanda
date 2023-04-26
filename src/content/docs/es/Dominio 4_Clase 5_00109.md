@@ -1,9 +1,8 @@
 # Vestir el déficit de autocuidado
 ## Definición
-	Incapacidad para ponerse o quitarse la ropa de forma independie nte.
+	Incapacidad para ponerse o quitarse la ropa de forma independiente.
 
 ### Caracteristicas Definitorias
-Actividad / descanso 
   
 - Dificultad para elegir ropa   
 - Dificultad para sujetar la ropa   
@@ -23,14 +22,16 @@ prendas
 asistencia   
 - Dificultad para usar la cremallera   
  
- 
-4.
 
 ### Factores Relacionados
-- Ansiedad  - Fatiga  
-- Disfunción congnitiva  - Manifestaciones 
+- Ansiedad  
+- Fatiga  
+- Disfunción congnitiva  
+- Manifestaciones 
 neuroconductuales  
-- Disminución de la motivación  - Dolor  
-- Incomodidad  - Debilidad   
+- Disminución de la motivación 
+- Dolor  
+- Incomodidad  
+- Debilidad   
 - Limitaciones ambientales
 

@@ -42,46 +42,9 @@ adecuada
 de vida   
 - Patrón de uso indebido de sustancias 
 propicias   - Conflicto en aumento    
-- 
-S
-e
-v
-er
-o 
-jui
-ci
-o 
-pr
-o
-pi
-o  
-- 
-in
-m
-a
-d
-ur
-e
-z  
-- 
-H
-a
-bil
-id
-a
-d
-e
-s 
-d
-e 
-c
-o
-m
-u
-ni
-c
-a
-ción inadecuadas.   
+- Severo juicio propio  
+- Inmadurez  
+- Habilidades de comunicación inadecuadas.   
 - Conocimiento inadecuado sobre el 
 uso indebido de sustancias.   
 - Expresión de ira inapropiada   
@@ -104,7 +67,7 @@ paradójico
 responsabilidad 
 personal.   
 - Se niega a recibir ayuda.   
-- Busca una ﬃ rmación   
+- Busca una afirmación  
 - Busca aprobación   
 - Auto culpa   
 - Aislamiento social   
@@ -114,50 +77,6 @@ el uso indebido de sustancias
 el estrés   
 - Mal uso de sustancia   
 - Comportamiento poco confiable   
- 
- 
- 
- 
- 7. Relación de funciones
- 
- 
- 
- 
-373 
-Dominio 7. Relación de roles  Clase 2. Relaciones 
-familiares  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 7. Relación de funciones
- 
-  
- 
- 
- 
 - Abuso verbal de niños   
 - Abuso verbal de los padres  
  
@@ -193,24 +112,13 @@ Roles y relaciones
 - Conflicto entre socios   
 - Deterioro de las relaciones 
 familiares   
-- Disminución de la capacidad de 
-los miembros de la familia para 
-relacionarse entre sí para el 
-crecimiento y la maduración 
-mutuos.   
+- Disminución de la capacidad de los miembros de la familia para relacionarse entre sí para el crecimiento y la maduración mutuos.   
 - Rituales familiares interrumpidos   
 - Roles familiares alterados   
 - Negación familiar   
 - Desorganización familiar   
 - Cohesión familiar inadecuada   
- 
- 
- 
 - Abuso verbal de pareja  
- 
- 
- 
- 
 - Hostilidad   
 - Pérdida   
 - Pérdida de identidad   
@@ -232,10 +140,6 @@ comportamiento del usuario
 indebido de sustancias.   
 - Infelicidad   
 - Inutilidad  
- 
- 
- 
- 
 - Insuficiente respeto familiar a la 
 autonomía de sus miembros   
 - Respeto familiar inadecuado por la 
@@ -253,16 +157,12 @@ percibido
 - Triangular las relaciones familiares
 
 ### Factores Relacionados
-- Personalidad adictiva  - Estrategias de afrontamiento 
+- Personalidad adictiva  
+- Estrategias de afrontamiento 
 ineficaces   
-- Habilidades inadecuadas para la resolución de problemas.  -
- Vulnerabilidad percibida  
+- Habilidades inadecuadas para la resolución de problemas.  
+- Vulnerabilidad percibida  
  
- 
- 
-374 
-Dominio 7. Relación de roles  Clase 2. Relaciones familiares
-
 ### Población en riesgo
 - Familias económicamente 
 desfavorecidas   

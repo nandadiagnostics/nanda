@@ -1,6 +1,6 @@
 # Tensión del rol del cuidador
 ## Definición
-	Dificultad para cumplir con las responsabilidades, expectati vas y / o comportamientos del cuidado de la familia u otras personas imp ortantes.
+	Dificultad para cumplir con las responsabilidades, expectativas y / o comportamientos del cuidado de la familia u otras personas importantes.
 
 ### Caracteristicas Definitorias
 Actividades de cuidado   
@@ -13,13 +13,7 @@ institucionalización del beneficiario
 del cuidado   
 - Teme el bienestar del beneficiario 
 de la atención si no puede 
-brindar atenc ión  
- 
- 
- 
- 
- 
- 
+brindar atención  
 - Dificultad para completar las 
 tareas requeridas   
 - Dificultad para realizar las 
@@ -30,30 +24,30 @@ actividades de cuidado.
 cuidados  
  
 Estado de salud del cuidador: fisiológico   
-- Fatiga  - Sarpullido  
-- Malestar gastrointestinal  - Reporta ciclo de sueño-vigilia 
+- Fatiga  
+- Sarpullido  
+- Malestar gastrointestinal  
+- Reporta ciclo de sueño-vigilia 
 alterado  
-- Dolor de cabeza  - Cambio de peso   
-- hipertensión  
+- Dolor de cabeza  
+- Cambio de peso   
+- Hipertensión  
  
 Estado de salud del cuidador: emocional   
-- Sintomas depresivos  - Tiempo insuficiente para reunirse  
-- Labilidad emocional   necesidades  
-- Expresa enojo  - Nerviosismo  
-- Expresa frustración  - Somatización   
-- impaciencia  
+- Sintomas depresivos  
+- Tiempo insuficiente para reunirse  
+- Labilidad emocional  
+- Expresa enojo  
+- Nerviosismo  
+- Expresa frustración  
+- Somatización   
+- Impaciencia  
  
 Estado de salud del cuidador: socioeconómico   
-- Actividades de ocio alteradas  - Baja productividad laboral   
-- Aislamiento  - Rechaza el avance profesional  
- 
- 
- 
- 
- 
-364 
-Dominio 7. Relación de roles  Clase 1. Roles de cuidado  
- 
+- Actividades de ocio alteradas  
+- Baja productividad laboral   
+- Aislamiento  
+- Rechaza el avance profesional  
  
  
 Relación cuidador-receptor de cuidado   
@@ -70,10 +64,6 @@ Procesos familiares
 de las relaciones 
 interpersonales con el receptor 
 del cuidado.  
- 
- 
- 
- 
 - Informa inquietudes sobre 
 miembros de la familia
 
@@ -113,9 +103,6 @@ abusivas
 - Relaciones interpersonales 
 inadecuadas   
 - Abuso no abordado   
- 
- 
- 
 - Inexperiencia con el cuidado   
 - Resistencia física insuficiente   
 - Privacidad insuficiente   
@@ -128,47 +115,26 @@ cuidador
 - Mal uso de sustancia   
 - Expectativas propias poco 
 realistas  
- 
- 
- 
- 
 - Mal uso de sustancia   
 - Impredecibilidad de la 
 trayectoria de l a 
 enfermedad.   
 - Estado de salud inestable  
- 
- 
- 
- 
 - Expectativas poco 
 realistas de las 
 personas que reciben 
 cuidados   
 - Relaciones interpersonales violentas   
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 7. Relación de funciones
- 
- 
- 
+
+
  
 Actividades de cuidado   
 - Naturaleza alterada de las 
-actividades asistenciales   - Responsabilidades de cuidado las 24 
+actividades asistenciales   
+- Responsabilidades de cuidado las 24 
 horas   
 - Complejidad de las actividades asistenciales   
 - Actividades de cuidado excesivas  
- 
- 
 - Se requiere una 
 mayor duración 
 del cuidado   
@@ -176,44 +142,6 @@ del cuidado
 - Equipo inadecuado 
 para brindar 
 atención  
- 
- 
- 
-365 
-Dominio 7. Relación de roles  Clase 1. Roles de 
-cuidado  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-relación  
-  
- 
- 
- 
 - Ambiente físico inadecuado para 
 brindar cuidados   
 - Relevo inadecuado para el 
@@ -239,29 +167,16 @@ discapacidades del desarrollo
 pareja   
 - Cuidador con discapacidades 
 del desarrollo   
- 
- 
- 
 - Tiempo insuficiente   
 - Impredecibilidad de la situación 
 asistencial  
- 
- 
- 
 - Patrón de disfunción familiar 
 previo a la situación de cuidado   
 - Patrón de afrontamiento familiar 
 ineficaz  
- 
- 
- 
 - Apoyo social inadecuado   
 - Transporte inadecuado   
 - Alienación social  
- 
- 
- 
- 
 - Cuidador femenino   
 - Individuos que brindan 
 atención a bebés nacidos 
@@ -269,5 +184,5 @@ prematuramente
 - Personas que atraviesan una 
 crisis financiera  
   
-7. Rol
+
 

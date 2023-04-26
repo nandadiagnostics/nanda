@@ -27,19 +27,8 @@ cambio en el rol de los padres
 - Informa preocupación por la 
 familia   
 - Informa que se siente culpable  
- 
- 
- 
- 
- 
 - Intimidado por 
 modalidades 
 restrictivas   
 - Separación de padres e hijos   
- 
- 
- 
- 
- 
- 7. Relación de funciones
 

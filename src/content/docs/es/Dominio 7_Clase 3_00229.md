@@ -1,14 +1,10 @@
 # Riesgo de relación ineficaz
 ## Definición
-	Susceptibles de desarrollar un patrón que es insuficiente para proporcionar una asociación mutua que satisfaga las necesidade s de los demás.
-
-### Caracteristicas Definitorias
+	Suceptibilidad de desarrollar un patrón que es insuficiente para proporcionar una asociación mutua que satisfaga las necesidades de los demás.
 
 
 ### Población en riesgo
-- Los individuos que experimentan el desarrollo  - Individuos con 
-intimidad encarcelados  
-crisis mental  compañero compañero   
+- Los individuos que experimentan el desarrollo  
 - Personas con antecedentes de 
 violencia doméstica
 
@@ -29,14 +25,3 @@ pareja.
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 7. Relación de funciones
-

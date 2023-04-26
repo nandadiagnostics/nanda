@@ -3,7 +3,6 @@
 	Alteraciones irreversibles, progresivas, insidiosas de la conci encia, la atención, la cognición y la percepción, que duran más de 3  meses.
 
 ### Caracteristicas Definitorias
-5. Percepción / cognición   
 - Personalidad alterada   
 - Dificultad para recuperar 
 información al hablar   
@@ -22,7 +21,8 @@ comportamiento
 plazo
 
 ### Factores Relacionados
-- Dolor chónico  - Mal uso de sustancia   
+- Dolor chónico  
+- Mal uso de sustancia   
 - Estilo de vida sedentario
 
 ### Población en riesgo

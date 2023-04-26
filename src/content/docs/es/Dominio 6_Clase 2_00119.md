@@ -1,20 +1,28 @@
 # Baja autoestima crónica
 ## Definición
-	Percepción negativa de larga data de la autoestima, la autoacep tación, el autorrespeto, la competencia y la actitud hacia uno mismo.
+	Percepción negativa de larga data de la autoestima, la autoaceptación, el autorrespeto, la competencia y la actitud hacia uno mismo.
 
 ### Caracteristicas Definitorias
 - Depende de las opiniones de los 
-demás  - Contacto visual reducido  
-- Sintomas depresivos  - Rechaza la retroalimentación 
+demás  
+- Contacto visual reducido  
+- Sintomas depresivos  
+- Rechaza la retroalimentación 
 positiva  
-- Culpa excesiva  - Reporta fallas repetidas  
-- Excesiva búsqueda de tranquilidad.  - Rumia  
-- Expresa soledad  - Verbalizaciones autonegativas  
-- Desesperación  - Vergüenza  
-- Insomnio  - Ideación suicida  
-- Soledad  - Subestima la capacidad de lidiar con  
-- Comportamiento no asertivo   situación   
-- Comportamientos demasiado conformes
+- Culpa excesiva  
+- Reporta fallas repetidas  
+- Excesiva búsqueda de tranquilidad.  
+- Rumia  
+- Expresa soledad  
+- Verbalizaciones autonegativas  
+- Desesperación  
+- Vergüenza  
+- Insomnio
+- Ideación suicida  
+- Soledad  
+- Subestima la capacidad de lidiar con problematicas
+- Comportamiento no asertivo   
+- Comportamientos demasiado conformista
 
 ### Factores Relacionados
 - Disminución de la aceptación 
@@ -37,11 +45,10 @@ inadecuado
 
 ### Población en riesgo
 - Personas económicamente 
-desfavorecidas   - Individuos que 
+desfavorecidas   
+- Individuos que 
 experimentan fallas 
 repetidas  
- 
- 
 - Apoyo social inadecuado   
 - Habilidades de comunicación ineficaces   
 - Aprobación insuficiente de los demás   
@@ -52,37 +59,21 @@ repetidas
 - Incongruencia espiritual   
 - Estigmatización   - Estresores   
 - Valores incongruentes con las 
-normas culturales.  
- 
- 
+normas culturales.
 - Personas expuestas a 
 situaciones traumáticas   
 - Individuos con transición de 
 desarrollo-mental difícil  
- 
- 
- 
-348 
-Dominio 6. Autopercepción  Clase 2. Autoestima  
- 
- 
- 
 - Personas con historial de 
 abandono   
 - Personas con historial de abuso
 
 ### Condiciones Asociadas
-- depresión   
+- Depresión   
 - Deterioro funcional   
- 
- 
- 
 - Personas con historial de 
 abandono   
 - Personas con historial de pérdida  
- 
- 
- 
 - Desordenes mentales   
 - Enfermedad física   
  
@@ -93,8 +84,4 @@ abandono
  
  
  
- 
- 
- 
-6. Autopercepción
 

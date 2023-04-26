@@ -3,7 +3,7 @@
 	La sensación de que uno no experimentará emociones positivas o una mejora en su condición.
 
 ### Caracteristicas Definitorias
-- anorexia   
+- Anorexia   
 - Conductas de evitación   
 - Disminución de la pantalla 
 afectiva   
@@ -21,10 +21,6 @@ incierto
 inadecuada para el futuro   
 - Expresa expectativas negativas 
 sobre sí mismo.   
- 
- 
- 
- 
 - Expresa expectativas negativas 
 sobre el futuro.   
 - Expresa sensación de 
@@ -34,54 +30,40 @@ los objetivos.
 autocuidado.   
 - Sobreestima la probabilidad de 
 eventos desafortunados   
-- pasividad   
+- Pasividad   
 - Reporta ciclo de sueño-vigilia 
 alterado   
 - Comportamientos suicidas   
 - Incapaz de imaginar la vida 
-en el futuro.   
+en el futuro   
 - Subestima la ocurrencia de 
 eventos positivos   
- 
- 
- 
- 
- 
- 
- 
-6. Autopercepción
 
 ### Factores Relacionados
-- Estrés crónico  - Baja autoeficacia  
-- Temor  - Inmovilidad prolongada  
-- Apoyo social inadecuado  - Aislamiento social  
-- Pérdida de la fe en el poder 
-espiritual.  - Violencia no abordada  
-- Pérdida de la fe en lo trascendente.  - Enfermedad grave 
-incontrolada  
- valores   sintomas
+- Estrés crónico  
+- Baja autoeficacia  
+- Temor  
+- Inmovilidad prolongada  
+- Apoyo social inadecuado 
+- Aislamiento social  
+- Pérdida de la fe en el poder espiritual 
+- Violencia no abordada  
+- Pérdida de la fe en lo trascendente  
+- Enfermedad grave incontrolada 
 
 ### Población en riesgo
-- adolescentes   
+- Adolescentes   
 - Personas desplazadas   
-- Personas económicamente 
-desfavorecidas   
+- Personas económicamente desfavorecidas   
 - Individuos que experimentan 
 infertilidad   
- 
 - Individuos que experimentan 
 pérdidas significativas   
 - Personas con 
 antecedentes de intento 
-de suicidio.   
+de suicidio   
 - Personas con historial de 
 abandono  
- 
- 
-341 
-Dominio 6. Autopercepción  Clase 1. Autoconcepto  
- 
- 
- 
-- Adultos mayores  - Individuos desempleados
+- Adultos mayores  
+- Individuos desempleados
 

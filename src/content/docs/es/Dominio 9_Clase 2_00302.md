@@ -1,6 +1,6 @@
 # Riesgo de duelo inadaptado
 ## Definición
-	Susceptible a un trastorno que ocurre después de la muerte d e un ser querido, en el que la experiencia de angustia que acom paña al duelo no sigue las expectativas socioculturales, lo que puede c omprometer la salud.
+	Susceptible a un trastorno que ocurre después de la muerte de un ser querido, en el que la experiencia de angustia que acompaña al duelo no sigue las expectativas socioculturales, lo que puede comprometer la salud.
 
 ### Caracteristicas Definitorias
 
@@ -21,7 +21,6 @@ notificación de muerte
 - Personas que presenciaron 
 síntomas incontrolados del 
 fallecido   
- 
 - Personas con antecedentes de 
 abuso infantil   
 - Personas con antecedentes de 
@@ -37,10 +36,8 @@ resuelto con el fallecido
 remunerado   
 - Mujeres   
  
- 
- 
- 9. Afrontamiento / tolerancia al estrés
 
 ### Condiciones Asociadas
-- Desórdenes de ansiedad  - Depresión
+- Desórdenes de ansiedad  
+- Depresión
 

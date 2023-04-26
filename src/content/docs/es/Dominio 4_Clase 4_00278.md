@@ -1,24 +1,11 @@
 # Autocontrol ineficaz del linfedema
 ## Definición
-	Manejo insatisfactorio de síntomas, régimen de tratamien to, consecuencias físicas, psicosociales y espirituales y cambios en el estilo de vida inherentes a vivir con edema relacionado con obstrucción o trast ornos de los vasos o ganglios linfáticos.
+	Manejo insatisfactorio de síntomas, régimen de tratamiento, consecuencias físicas, psicosociales, espirituales y cambios en el estilo de vida inherentes a vivir con edema relacionado con obstrucción o trastornos de los vasos o ganglios linfáticos.
 
 ### Caracteristicas Definitorias
 Signos de linfedema   
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 4. Actividad / descanso
+ 1. Actividad / descanso
  
   
 - Fibrosis en la extremidad afectada   
@@ -26,7 +13,7 @@ Signos de linfedema
  
 Síntomas de linfedema   
 - Expresa insatisfacción con la 
-calidad de vida.   
+calidad de vida   
 - Informa sensación de malestar 
 en la extremidad afectada  
  
@@ -34,7 +21,7 @@ Comportamientos
 - La actividad física diaria 
 promedio es menor que la 
 recomendada para la edad y 
-el sexo.   
+el sexo   
 - Drenaje linfático manual 
 inadecuado   
 - Protección inadecuada de la zona 
@@ -45,17 +32,11 @@ nocturnos
 - Cuidado inadecuado de la piel   
 - Uso inadecuado de prendas de 
 compresión   
-- Hinchazón en la extremidad afectada  
- 
- 
- 
- 
+- Hinchazón en la extremidad afectada   
 - Informa sensación de pesadez 
 en la extremidad afectada   
 - Informa sensación de opresión 
 en la extremidad afectada  
- 
- 
 - Descuidado al llevar objetos 
 pesados   
 - Desatento a las 
@@ -79,32 +60,6 @@ de salud
 - Demandas competitivas   y normas sociales  
 - Preferencias de estilo de vida - Disminución de la calidad de vida 
 que compiten  percibida  
-   301 
-Dominio 4. Actividad / descanso  Clase 4. Respuestas cardiovasculares / 
-pulmonares  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 4. Actividad / descanso
- 
-  
- 
- 
- 
 - Dificultad para acceder a los 
 recursos comunitarios   
 - Dificultad para manejar un régimen 
@@ -123,9 +78,6 @@ régimen de tratamiento.
 señales para la acción   
 - Modelos a seguir inadecuados   
 - Apoyo social inadecuado   
- 
- 
- 
 - Capacidad limitada para realizar 
 aspectos del régimen de 
 tratamiento.   
@@ -147,13 +99,12 @@ susceptibilidad a secuelas
 beneficio del tratamiento
 
 ### Población en riesgo
-- adolescentes   
+- Adolescentes   
 - Niños   
 - Personas económicamente 
 desfavorecidas   
 - Personas con antecedentes de 
 autogestión ineficaz de la salud   
- 
 - Personas con experiencia 
 limitada en la toma de 
 decisiones   
@@ -163,10 +114,13 @@ educativo
 
 ### Condiciones Asociadas
 - Quimioterapia  - Neoplasias  
-- Insuficiencia venosa crónica  - Obesidad  
-- Discapacidades del desarrollo  - Radioterapia  
-- Infecciones  - Extirpación de ganglios 
-linfáticos  
-- Procedimiento invasivo  - Trauma   
+- Insuficiencia venosa crónica  
+- Obesidad  
+- Discapacidades del desarrollo 
+- Radioterapia  
+- Infecciones  
+- Extirpación de ganglios linfáticos  
+- Procedimiento invasivo  
+- Trauma   
 - Cirujía importante
 

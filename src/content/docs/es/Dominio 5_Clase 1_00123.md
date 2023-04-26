@@ -1,6 +1,6 @@
 # Descuido unilateral
 ## Definición
-	Deterioro en la respuesta sensorial y motora, la rep resentación mental y la atención espacial del cuerpo y el entorno correspon diente, caracterizado por falta de atención a un lado y exceso de atención al  lado opuesto. La negligencia del lado izquierdo es más grave y persis tente que la negligencia del lado derecho.
+	Deterioro en la respuesta sensorial y motora, la representación mental y la atención espacial del cuerpo y el entorno correspon diente, caracterizado por falta de atención a un lado y exceso de atención al lado opuesto. La negligencia del lado izquierdo es más grave y persis tente que la negligencia del lado derecho.
 
 ### Caracteristicas Definitorias
 - Comportamiento de 
@@ -30,10 +30,6 @@ pruebas de bisección de
 línea   
 - Rendimiento deteriorado en 
 pruebas de can-cellation en línea   
- 
- 
- 
- 
 - Rendimiento deteriorado en las 
 pruebas de cancelación de 
 objetivos   
@@ -58,8 +54,6 @@ posición de la
 extremidad desatendida   
 - Descuido visuoespacial unilateral   
 - Utiliza la mitad vertical de la 
-página solo al escribir    5. Percepción / cognición
+página solo al escribir
 
-### Factores Relacionados
-- Para ser desarrollado
 
