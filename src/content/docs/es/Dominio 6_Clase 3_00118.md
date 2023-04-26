@@ -24,11 +24,7 @@ parte faltante del cuerpo
 - Se pesa frecuentemente   
 - Oculta parte del cuerpo   
 - Monitorea los cambios en el 
-cuerpo.   
- 
- 
- 
- 
+cuerpo.
 - Nombres parte del cuerpo   
 - Nombres de la parte del cuerpo 
 que falta   
@@ -52,14 +48,6 @@ partes del cuerpo.
 impersonales para describir 
 la parte del cuerpo que falta   
  
- 
- 
- 
- 
- 
- 
- 
-6. Autopercepción
 
 ### Factores Relacionados
 - Conciencia corporal   
@@ -73,7 +61,6 @@ culturales.
 corporal   
 - Miedo a la reaparición de la 
 enfermedad.   
- 
 - Baja autoeficacia   
 - Baja autoestima   
 - Obesidad   
@@ -82,13 +69,6 @@ enfermedad.
 resultado del tratamiento   
 - Expectativas propias poco realistas  
  
- 
- 
- 
- 
-355 
-Dominio 6. Autopercepción  Clase 3. Imagen 
-corporal
 
 ### Población en riesgo
 - Sobrevivientes de cáncer   
@@ -98,10 +78,6 @@ peso corporal alterado
 transición de desarrollo mental   
 - Personas que experimentan la 
 pubertad   
- 
- 
- 
- 
 - Personas con función 
 corporal alterada   
 - Personas con cicatrices   

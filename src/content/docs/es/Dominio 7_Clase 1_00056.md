@@ -4,36 +4,13 @@
 
 ### Caracteristicas Definitorias
 Síntomas de externalización de los padres   
-- Conductas de crianza hostiles  - Comportamientos intrusivos   
-- Comportamientos impulsivos  - Comunicación negativa  
+- Conductas de crianza hostiles  
+- Comportamientos intrusivos   
+- Comportamientos impulsivos  
+- Comunicación negativa  
  
-Síntomas de internalización de los padres   
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-relación 
-  
+Síntomas de internalización con los padres   
+
 - Disminución de la participación en 
 las relaciones entre padres e 
 hijos.   
@@ -52,42 +29,35 @@ para el cuidado de
 niños   
 - Rechaza niño   
 - Alienación social   
- 
- 
-7. Rol  
- 
- 
+
 Bebé o niño   
-- Ansiedad  - Alteraciones extremas del 
+- Ansiedad  
+- Alteraciones extremas del 
 estado de ánimo.  
-- Conduce problemas  - Bajo rendimiento 
+- Conduce problemas  
+- Bajo rendimiento 
 académico  
-- Desarrollo cognitivo retrasado  - Obesidad  
-- Sintomas depresivos  - Cambio de roles  
+- Desarrollo cognitivo retrasado 
+- Obesidad  
+- Sintomas depresivos  
+- Cambio de roles  
 - Dificultad para establecer una 
-intimidad saludable  - Quejas somáticas  
- mate relaciones interpersonales  - Mal uso de sustancia  
+intimidad saludable  
+- Quejas somáticas  
+- Mal uso de sustancia  
 - Dificultad para funcionar socialmente   
 - Dificultad para regular la emoción
 
 ### Factores Relacionados
-- Papel parental alterado  - Dificultad en el manejo de 
-tratamientos complejos  
+- Papel parental alterado  
+- Dificultad en el manejo de tratamientos complejos  
 - Disminución del reconocimiento 
-de emociones.   régimen de ment  
- habilidades  - Procesos familiares 
-disfuncionales  
-- Sintomas depresivos  - Vacilación emocional  
-   359 
-Dominio 7. Relación de roles  Clase 1. Roles de 
-cuidado  
- 
- 
- 
-- Alto uso de dispositivos 
-conectados a Internet   
-- Conocimientos inadecuados sobre 
-el desarrollo infantil.   
+de emociones.
+- Procesos familiares disfuncionales  
+- Sintomas depresivos  
+- Vacilación emocional  
+- Alto uso de dispositivos conectados a Internet   
+- Conocimientos inadecuados sobre el desarrollo infantil.   
 - Conocimiento inadecuado sobre el 
 mantenimiento de la salud 
 infantil.   
@@ -98,9 +68,6 @@ resolución de problemas.
 - Transporte inadecuado   
 - desatento a las necesidades del 
 niño  
- 
- 
- 
 - Aumento de los síntomas de 
 ansiedad.   
 - Baja autoeficacia   
@@ -111,21 +78,11 @@ ansiedad.
 - Mal uso de sustancia   
 - Violencia de pareja íntima no 
 abordada  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 7. Relación de funciones
+
 
 ### Población en riesgo
 Padre   
-- adolescentes   
+- Adolescentes   
 - Personas económicamente 
 desfavorecidas   
 - Personas sin hogar   
@@ -146,9 +103,6 @@ separación prolongada de sus
 padres   
 - Niños con 
 temperamento difícil   
- 
- 
- 
 - Personas con historial de abuso   
 - Personas con historial de 
 abandono   
@@ -161,8 +115,6 @@ estrés prenatal
 - Personas con bajo nivel 
 educativo   
 - Padres monoparentales  
- 
- 
 - Niños con un género diferente al 
 deseado por los padres   
 - Niños con antecedentes de 

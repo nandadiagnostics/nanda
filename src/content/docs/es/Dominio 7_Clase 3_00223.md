@@ -1,6 +1,6 @@
 # Relación ineficaz
 ## Definición
-	Un patrón de asociación mutua que es insuficiente para satisfa cer las necesidades de los demás.
+	Un patrón de asociación mutua que es insuficiente para satisfacer las necesidades de los demás.
 
 ### Caracteristicas Definitorias
 - Retraso en el logro de las metas 
@@ -24,10 +24,6 @@ socios
 cumplimiento de las 
 necesidades físicas entre los 
 socios   
- 
- 
- 
- 
 - Desequilibrio en la autonomía 
 entre socios   
 - Desequilibrio en la 
@@ -46,14 +42,14 @@ persona de apoyo
 insatisfactoria con el socio
 
 ### Factores Relacionados
-- Habilidades de comunicación inadecuadas.  - Mal uso de 
-sustancia   
-- Factores estresantes  - Expectativas irrealistas
+- Habilidades de comunicación inadecuadas.  
+- Mal uso de 
+sustancias   
+- Factores estresantes  
+- Expectativas irrealistas
 
 ### Población en riesgo
-- Los individuos que experimentan el desarrollo  - Individuos con 
-intimidad encarcelados  
-crisis mental  compañero compañero   
+- Los individuos que experimentan el desarrollo  
 - Personas con antecedentes de 
 violencia doméstica
 

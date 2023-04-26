@@ -26,7 +26,6 @@ accidentes graves
 de servicios humanos   
 - Personas que sufren amenazas 
 graves   
- 
 - Personas que 
 presenciaron 
 mutilaciones   

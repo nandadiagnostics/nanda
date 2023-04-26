@@ -1,6 +1,6 @@
 # Desempeño ineficaz de roles
 ## Definición
-	Un patrón de comportamiento y autoexpresión que no coincide co n el contexto, las normas y las expectativas ambientales.
+	Un patrón de comportamiento y autoexpresión que no coincide con el contexto, las normas y las expectativas ambientales.
 
 ### Caracteristicas Definitorias
 - Patrón de responsabilidad 
@@ -21,10 +21,6 @@ los requisitos del rol.
 - Motivación inadecuada   
 - Oportunidad inadecuada para la 
 representación de roles   
- 
- 
- 
- 
 - Autogestión inadecuada   
 - Habilidades inadecuadas   
 - Expectativas de desarrollo 
@@ -55,7 +51,6 @@ inadecuado
 - Preparación de roles inadecuada   
 - Socialización de roles 
 inadecuada   
- 
 - Vinculación inadecuada con el 
 sistema de salud   
 - Baja autoestima   
@@ -68,22 +63,12 @@ sistema de salud
 - Violencia doméstica no abordada   
 - Expectativas de rol poco realistas  
  
- 
- 
- 
-382 
-Dominio 7. Relación de roles  Clase 3. Desempeño de roles
-
 ### Población en riesgo
 - Personas económicamente 
 desfavorecidas   
 - Individuos con un nivel de 
 desarrollo inadecuado para 
-las expectativas del rol.   
- 
- 
- 
- 
+las expectativas del rol
 - Personas con función laboral de 
 alta demanda   
 - Personas con bajo nivel 

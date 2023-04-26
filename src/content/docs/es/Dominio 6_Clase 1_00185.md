@@ -1,6 +1,6 @@
 # Disponibilidad para una mayor esperanza
 ## Definición
-	Un patrón de expectativas y deseos de movilizar energía p ara lograr resultados positivos, o evitar una situación potencialmente amenazante o negativa, que puede fortalecerse.
+	Un patrón de expectativas y deseos de movilizar energía para lograr resultados positivos, o evitar una situación potencialmente amenazante o negativa, que puede fortalecerse.
 
 ### Caracteristicas Definitorias
 - Expresa el deseo de mejorar la 
@@ -18,10 +18,6 @@ prestación y la recepción de
 cuidados.   
 - Expresa el deseo de mejorar el dar 
 y recibir amor.   
- 
- 
- 
- 
 - Expresa el deseo de mejorar 
 la iniciativa.   
 - Expresa el deseo de mejorar 
@@ -38,9 +34,4 @@ sentido de la vida.
 la espiritualidad.   
  
  
- 
- 
- 
- 
-6. Autopercepción
 

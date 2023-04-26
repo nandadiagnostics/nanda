@@ -1,10 +1,8 @@
 # Interacción social deteriorada
 ## Definición
-	Cantidad insuficiente o excesiva o calidad ineficaz del interca mbio social.
+	Cantidad insuficiente o excesiva o calidad ineficaz del intercambio social.
 
 ### Caracteristicas Definitorias
-7. Relación de funciones
- 
    
 - Ansiedad durante la interacción 
 social.   
@@ -47,11 +45,10 @@ perturbados
 - Limitaciones ambientales   
 - Movilidad física deteriorada   
 - Habilidades de comunicación 
-inadecuadas.   
- 
+inadecuadas.  
 - Conocimiento inadecuado sobre 
 cómo mejorar la reciprocidad.   
-- Higiene personal inadecua da  
+- Higiene personal inadecuada  
 - Habilidades sociales inadecuadas   
 - Apoyo social inadecuado   
 - Duelo inadaptado   
@@ -60,6 +57,5 @@ neuroconductuales
 - Disonancia sociocultural
 
 ### Población en riesgo
-- Individuos sin un significativo  
-otro
+- Individuos sin una pareja romantica
 

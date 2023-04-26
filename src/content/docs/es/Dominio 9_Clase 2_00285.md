@@ -1,6 +1,6 @@
 # Disposición para un duelo intensificado
 ## Definición
-	Un patrón de integración de una nueva realidad func ional que surge después de una pérdida significativa real, anticipada o per cibida, que puede fortalecerse.
+	Un patrón de integración de una nueva realidad funcional que surge después de una pérdida significativa real, anticipada o per cibida, que puede fortalecerse.
 
 ### Caracteristicas Definitorias
 - Expresa su deseo de continuar con 
@@ -23,10 +23,6 @@ sentimientos de ira.
 sentimientos de desesperación.   
 - Expresa el deseo de integrar 
 sentimientos de culpa   
- 
- 
- 
- 
 - Expresa el deseo de integrar 
 sentimientos de remordimiento.   
 - Expresa el deseo de integrar 

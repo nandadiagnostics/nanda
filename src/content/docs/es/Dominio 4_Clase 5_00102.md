@@ -15,10 +15,6 @@ alimentos en la boca.
 - Dificultad para abrir contenedores   
 - Dificultad para levantar la taza   
 - Dificultad para preparar la comida   
- 
- 
- 
- 
 - Dificultad para alimentarse a sí 
 mismo con una comida 
 completa   
@@ -32,11 +28,14 @@ comida
 asistencia
 
 ### Factores Relacionados
-- Ansiedad  - Fatiga  
-- Disfunción congnitiva  - Manifestaciones 
+- Ansiedad  
+- Fatiga  
+- Disfunción congnitiva 
+- Manifestaciones 
 neuroconductuales  
 - Disminución de la 
-motivación  - Dolor  
+motivación  
+- Dolor  
 - Incomodidad  - Debilidad   
 - Limitaciones ambientales
 

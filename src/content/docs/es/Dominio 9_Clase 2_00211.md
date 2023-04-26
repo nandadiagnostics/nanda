@@ -1,6 +1,6 @@
 # Riesgo de deterioro de la resiliencia
 ## Definición
-	Susceptible a una menor capacidad para recuperarse de s ituaciones adversas o cambiantes percibidas, a través de un proceso  dinámico de adaptación, que puede comprometer la salud.
+	Susceptible a una menor capacidad para recuperarse de situaciones adversas o cambiantes percibidas, a través de un proceso dinámico de adaptación, que puede comprometer la salud.
 
 ### Caracteristicas Definitorias
 
@@ -15,8 +15,6 @@ crisis crónica.
 - Personas expuestas a la violencia   
 - Personas que son miembros de 
 una minoría étnica   
- 
- 
 - Personas cuyos padres tienen 
 trastornos mentales.   
 - Personas con antecedentes de 
@@ -26,5 +24,6 @@ exposición a la violencia.
 - Mujeres
 
 ### Condiciones Asociadas
-- Discapacidad intelectual  - Trastorno psicológico
+- Discapacidad intelectual  
+- Trastorno psicológico
 

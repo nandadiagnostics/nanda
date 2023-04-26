@@ -1,6 +1,6 @@
 # Duelo inadaptado
 ## Definición
-	Trastorno que se produce después de la muerte de un ser q uerido, en el que la experiencia de angustia que acompaña al duelo  no sigue las expectativas socioculturales.
+	Trastorno que se produce después de la muerte de un ser querido, en el que la experiencia de angustia que acompaña al duelo no sigue las expectativas socioculturales.
 
 ### Caracteristicas Definitorias
 - Ansiedad   
@@ -21,12 +21,8 @@ persona fallecida.
 demás.   
 - Expresa sensación de vacío   
 - Expresa sentirse aturdido   
- 
- 
- 
- 
 - Expresa conmoción   
-- fatiga   
+- Fatiga   
 - Síntomas gastrointestinales   
 - Evitación del dolor   
 - Mayor morbilidad   
@@ -41,25 +37,12 @@ persona fallecida
 fallecida   
 - Búsqueda de una persona fallecida   
 - Auto culpa   
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 9. Afrontamiento / tolerancia al estrés
 
 ### Factores Relacionados
 - Dificultad para tratar con 
-concurrentes  - Apoyo social inadecuado  
- crisis  - Evitación de apego baja  
+concurrentes  
+- Apoyo social inadecuado 
+- Evitación de apego baja  
 - Alteración emocional excesiva    
 - Gran ansiedad por el apego
 
@@ -72,7 +55,6 @@ inaceptable.
 - Personas que experimentan la 
 muerte súbita inesperada de su 
 pareja.   
- 
 - Individuos que experimentan la 
 muerte violenta de su pareja.   
 - Individuos insatisfechos con la 
@@ -80,14 +62,6 @@ notificación de muerte
 - Personas que presenciaron 
 síntomas incontrolados del 
 fallecido  
- 
- 
-421 
-Dominio 9. Afrontamiento / tolerancia al estrés  Clase 2. Respuestas de 
-afrontamiento  
- 
- 
- 
 - Personas con antecedentes de 
 abuso infantil   
 - Personas con antecedentes de 
@@ -95,9 +69,6 @@ duelo no resuelto
 - Personas con una dependencia 
 significativa del fallecido 
 antes de la muerte   
- 
- 
- 
 - Personas con fuerte proximidad 
 emocional al fallecido   
 - Personas con conflicto no 
@@ -107,22 +78,7 @@ remunerado
 - Mujeres
 
 ### Condiciones Asociadas
-- Desórdenes de ansiedad  - Depresión   
+- Desórdenes de ansiedad  
+- Depresión   
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 9. Afrontamiento / tolerancia al estrés
-

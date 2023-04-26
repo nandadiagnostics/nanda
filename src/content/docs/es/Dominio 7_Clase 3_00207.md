@@ -3,9 +3,6 @@
 	Un patrón de asociación mutua para satisfacer las necesidades de los demás, que pueden fortalecerse.
 
 ### Caracteristicas Definitorias
-7. Relación de funciones
- 
-   
 - Expresa el deseo de mejorar la 
 autonomía entre socios  
 - Expresa el deseo de mejorar la 

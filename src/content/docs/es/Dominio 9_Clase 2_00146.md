@@ -1,6 +1,6 @@
 # Ansiedad
 ## Definición
-	Una respuesta emocional a una amenaza difusa en la que el individ uo anticipa un peligro inminente inespecífico, una catástrofe o un a desgracia.
+	Una respuesta emocional a una amenaza difusa en la que el individuo anticipa un peligro inminente inespecífico, una catástrofe o un a desgracia.
 
 ### Caracteristicas Definitorias
 Conductual / Emocional   
@@ -14,12 +14,6 @@ en los eventos de la vida.
 - Expresa pavor intenso   
 - Desamparo   
 - Hipervigilancia   
- 
- 
- 
- 
- 
- 
 - Mayor cautela   
 - insomnio   
 - Estado de ánimo irritable   
@@ -28,77 +22,61 @@ en los eventos de la vida.
 - Contacto visual reducido   
 - Comportamiento de escaneo   
 - Enfocado en uno mismo   
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- tolerancia
-   Fisiológico   
-- Patrón respiratorio alterado  - Aumento de la frecuencia 
+- Fisiológico   
+- Patrón respiratorio alterado  
+- Aumento de la frecuencia 
 cardíaca  
-- Anorexia  - Aumento de la sudoración  
-- Reflejos enérgicos  - Náusea  
-- Opresión en el pecho  - Dilatación de pupila  
-- Extremidades frías  - Voz temblorosa  
-- Diarrea  - Reporta ciclo de sueño-vigilia 
+- Anorexia  
+- Aumento de la sudoración  
+- Reflejos enérgicos  
+- Náusea  
+- Opresión en el pecho  
+- Dilatación de pupila  
+- Extremidades frías  
+- Voz temblorosa  
+- Diarrea  
+- Reporta ciclo de sueño-vigilia 
 alterado  
-- Boca seca  - Informa palpitaciones del 
+- Boca seca 
+- Informa palpitaciones del 
 corazón  
-- Expresa dolor abdominal  - Reporta hormigueo en las 
+- Expresa dolor abdominal  
+- Reporta hormigueo en las 
 extremidades  
-- Expresa sentirse mareado  - Vasoconstricción superficial  
-- Expresa debilidad muscular  - Temblores  
-- Expresa tensión  - Frecuencia urinaria  
-- Enrojecimiento de la cara  - Vacilación urinaria  
-- Aumento de la presión arterial  - Urgencia urinaria  
+- Expresa sentirse mareado  
+- Vasoconstricción superficial  
+- Expresa debilidad muscular  
+- Temblores  
+- Expresa tensión  
+- Frecuencia urinaria  
+- Enrojecimiento de la cara  
+- Vacilación urinaria  
+- Aumento de la presión arterial  
+- Urgencia urinaria  
  
 Cognitivo   
-- Atención alterada  - Disminución del campo perceptivo.   
-- Confusión  - Expresa olvido   
- 
-40
-5 
-  Afrontamiento / estrés
- 
-Dominio 9. Afrontamiento / tolerancia al estrés  Clase 2. Respuestas de afrontamiento  
- 
- 
- 
--  
- 
- 
- 
-Expresa preocupación   
- 
- 
- 
--  
- 
- 
- 
-Rumia    
--  
-Reporta bloqueo de pensamientos
+- Atención alterada  
+- Disminución del campo perceptivo.   
+- Confusión  
+- Expresa olvido   
+- Afrontamiento / estrés
+- Expresa preocupación    
+- Rumia    
+- Reporta bloqueo de pensamientos
 
 ### Factores Relacionados
 - Conflicto sobre los objetivos de 
-la vida.  - Mal uso de 
+la vida.  
+- Mal uso de 
 sustancia  
-- Transmisión interpersonal  - Situación 
+- Transmisión interpersonal 
+- Situación 
 desconocida  
-- Dolor  - Necesidades no 
+- Dolor  
+- Necesidades no 
 satisfechas  
-- Factores estresantes  - Conflicto de 
+- Factores estresantes  
+- Conflicto de 
 valores
 
 ### Población en riesgo
@@ -107,15 +85,10 @@ el desarrollo
 crisis mental    
 - Individuos en el período 
 perioperatorio   
-- Individuos que experimentan 
-situaciones   
-crisis nacional   
+- Individuos que experimentan situaciones crisis nacional   
 - Personas con antecedentes 
 familiares de ansiedad.   
- 
--  
-Individuos expuestos a 
+- Individuos expuestos a 
 toxinas   
-- Individuos con hereditario   
-predisposición
+- Individuos con hereditario predisposición
 

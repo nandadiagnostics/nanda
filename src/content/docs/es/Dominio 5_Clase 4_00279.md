@@ -1,9 +1,8 @@
 # Proceso de pensamiento perturbado
 ## Definición
-	Interrupción en el funcionamiento cognitivo que afec ta los procesos mentales involucrados en el desarrollo de conceptos y catego rías, el razonamiento y la resolución de problemas.
+	Interrupción en el funcionamiento cognitivo que afecta los procesos mentales involucrados en el desarrollo de conceptos y catego rías, el razonamiento y la resolución de problemas.
 
 ### Caracteristicas Definitorias
-5. Percepción / cognición   
 - Dificultad para comunicarse 
 verbalmente   
 - Dificultad para realizar actividades 
@@ -23,31 +22,40 @@ cotidianas.
 decisiones.   
 - Capacidad limitada para 
 desempeñar los roles 
-sociales esperado s.  
+sociales esperados.  
 - Capacidad limitada para planificar 
 actividades.   
 - Capacidad limitada de control de 
 impulsos   
-- obsesiones   
+- Obsesiones   
 - Trastornos fóbicos   
-- sospechas
+- Sospechas
 
 ### Factores Relacionados
-- Confusión aguda  - Síntomas depresivos no psicóticos  
-- Ansiedad  - Dolor  
-- Desorientación  - Factores estresantes  
-- Temor  - Mal uso de sustancia  
-- Afligido  - Traumatismo no abordado
+- Confusión aguda  
+- Síntomas depresivos no psicóticos  
+- Ansiedad  
+- Dolor  
+- Desorientación  
+- Factores estresantes  
+- Temor  
+- Mal uso de sustancia  
+- Afligido  
+- Traumatismo no abordado
 
 ### Población en riesgo
-- Desfavorecidos económicamente  - Adultos mayores  
-individuos - Mujeres embarazadas   
+- Desfavorecidos económicamente  
+- Adultos mayores individuos 
+- Mujeres embarazadas   
 - Individuos en el postoperatorio 
 temprano
 
 ### Condiciones Asociadas
-- Lesiones Cerebrales  - Desordenes mentales  
-- Enfermedad crítica  - Trastornos 
+- Lesiones Cerebrales  
+- Desordenes mentales  
+- Enfermedad crítica  
+- Trastornos 
 neurodegenerativos  
-- Alucinaciones  - Preparaciones farmacéuticas
+- Alucinaciones 
+- Preparaciones farmacéuticas
 

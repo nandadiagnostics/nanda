@@ -1,11 +1,11 @@
 # Afrontamiento familiar comprometido
 ## Definición
-	Una persona primaria que suele brindar apoyo (familia r, pareja o amigo cercano) brinda apoyo, consuelo, asistencia o estímu lo insuficientes, ineficaces o comprometidos que el cliente pueda nece sitar para manejar o dominar las tareas de adaptación relacionadas con su  problema de salud.
+	Una persona primaria que suele brindar apoyo (familiar, pareja o amigo cercano) brinda apoyo, consuelo, asistencia o estímulo insuficientes, ineficaces o comprometidos que el cliente pueda necesitar para manejar o dominar las tareas de adaptación relacionadas con su problema de salud.
 
 ### Caracteristicas Definitorias
 - Reclamación del cliente sobre 
 soporte  
-La respuesta de la 
+- La respuesta de la 
 persona al problema de 
 salud.   
 - El cliente informa preocupación 
@@ -35,10 +35,6 @@ por otros
 - Información inadecuada 
 disponible para la persona de 
 apoyo.   
- 
- 
- 
- 
 - La persona de apoyo informa 
 conocimientos inadecuados   
 - La persona de apoyo informa 
@@ -53,17 +49,10 @@ del cliente.
 - Comportamientos de asistencia 
 insatisfactorios de la persona 
 de apoyo.  
- 
- 
- 
- 
- 
- 
 - Apoyo recíproco inadecuado   
 - Apoyo inadecuado brindado por el 
 cliente a la persona de apoyo   
-- Conocimiento inadecuado de los  
-formación por persona de apoyo   
+- Conocimiento inadecuado de los formación por persona de apoyo   
 - Malentendido de la información 
 por parte de la persona de 
 apoyo.   

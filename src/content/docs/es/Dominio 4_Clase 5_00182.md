@@ -10,10 +10,6 @@ independencia con la vida.
 - Expresa el deseo de mejorar la 
 independencia con el desarrollo 
 personal.   
- 
- 
- 
- 
 - Expresa el deseo de mejorar la 
 independencia con el bienestar.   
 - Expresa el deseo de mejorar el 

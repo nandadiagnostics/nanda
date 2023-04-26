@@ -1,11 +1,8 @@
 # Procesos familiares interrumpidos
 ## Definición
-	Romper la continuidad del funcionamiento familiar que no apoy a el bienestar de sus miembros.
+	Romper la continuidad del funcionamiento familiar que no apoya el bienestar de sus miembros.
 
-### Caracteristicas Definitorias
-7. Relación de funciones
- 
-   
+### Caracteristicas Definitorias 
 - Respuesta afectiva alterada   
 - Patrón de comunicación alterado   
 - Resolución alterada de conflictos 
@@ -36,7 +33,8 @@ recursos comunitarios
 - Cambio ritual
 
 ### Factores Relacionados
-- Interacción comunitaria alterada  - Dificultad para lidiar con el cambio 
+- Interacción comunitaria alterada  
+- Dificultad para lidiar con el cambio 
 de poder  
 - Rol familiar alterado  entre miembros de la familia
 

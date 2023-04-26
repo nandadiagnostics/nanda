@@ -15,10 +15,6 @@ elevada
 - Recursos comunitarios 
 inadecuados para la resolución 
 de problemas   
- 
- 
- 
- 
 - Alta incidencia de problemas 
 comunitarios   
 - Percepción de la 
@@ -26,12 +22,6 @@ impotencia de la
 comunidad   
 - Vulnerabilidad percibida de la 
 comunidad  
- 
- 
- 
- 
 - Sistemas comunitarios inexistentes  
-  9. Afrontamiento / tolerancia al estrés
-  
 - Recursos comunitarios inadecuados
 

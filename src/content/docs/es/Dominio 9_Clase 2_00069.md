@@ -1,9 +1,8 @@
 # Afrontamiento ineficaz
 ## Definición
-	Un patrón de valoración inválida de los factores estresantes, con esfuerzos cognitivos y / o conductuales, que no logra manejar l as demandas relacionadas con el bienestar.
+	Un patrón de valoración inválida de los factores estresantes, con esfuerzos cognitivos y / o conductuales, que no logra manejar las demandas relacionadas con el bienestar.
 
 ### Caracteristicas Definitorias
-tolerancia
     
 - Respuesta afectiva alterada   
 - Atención alterada   
@@ -14,7 +13,7 @@ hacia los demás.
 uno mismo   
 - Dificultad para organizar la 
 información   
-- fatiga   
+- Fatiga   
 - Enfermedad frecuente   
 - Discapacidad para pedir ayuda.   
 - Discapacidad para prestar 
@@ -39,21 +38,19 @@ alterado
 - Informa un sentido de control 
 inadecuado   
 - Comportamiento de riesgo   
-- Mal uso de sustancia  
- 
- 
-9. Afrontamiento / estrés
+- Mal uso de sustancias  
 
 ### Factores Relacionados
-- Alto grado de amenaza  - Preparación inadecuada 
+- Alto grado de amenaza  
+- Preparación inadecuada 
 para 
-- Incapacidad para conservar 
-adaptativo   estresante  
- energías  - Sentido de control inadecuado  
-- Evaluación de amenazas inexacta  - Apoyo social inadecuado  
+- Incapacidad para conservar       
+- Sentido de control inadecuado  
+- Evaluación de amenazas inexacta  
+- Apoyo social inadecuado  
 - Confianza inadecuada en la 
-capacidad de  - Liberación ineficaz de 
+capacidad de lidiar con una situación 
+- Liberación ineficaz de 
 tensión  
- lidiar con una situación   estrategias  
 - Recursos sanitarios inadecuados
 

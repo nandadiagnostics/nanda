@@ -1,33 +1,46 @@
 # Síndrome postraumático
 ## Definición
-	Respuesta inadaptada sostenida a un evento traumáti co y abrumador.
+	Respuesta inadaptada sostenida a un evento traumático y abrumador.
 
 ### Caracteristicas Definitorias
-- Comportamientos agresivos  - Irritación gastrointestinal  
-- Alienación  - Dolor de cabeza  
-- Atención alterada  - Palpitaciones del 
+- Comportamientos agresivos  
+- Irritación gastrointestinal  
+- Alienación  
+- Dolor de cabeza  
+- Atención alterada  
+- Palpitaciones del 
 corazón  
-- Estado de ánimo alterado  - Desesperanza (00124)  
-- Ansiedad (00146)  - Horror  
-- Comportamientos de evitación  - Hipervigilancia  
-- Comportamiento compulsivo  - Sueños intrusivos  
-- Negación  - Pensamientos 
+- Estado de ánimo alterado  
+- Desesperanza (00124)  
+- Ansiedad (00146)  
+- Horror  
+- Comportamientos de evitación  
+- Hipervigilancia  
+- Comportamiento compulsivo  
+- Sueños intrusivos  
+- Negación 
+- Pensamientos 
 intrusivos  
-- Sintomas depresivos  - Estado de ánimo 
-irritable  
-- Amnesia disociativa  - Irritabilidad 
+- Sintomas depresivos  
+- Estado de ánimo irritable  
+- Amnesia disociativa  
+- Irritabilidad 
 neurosensorial  
-- Enuresis  - Pesadillas  
+- Enuresis  
+- Pesadillas  
 - Respuesta de sobresalto 
-exagerada  - Ataques de pánico  
-- Expresa enojo  - Rabia  
-- Expresa entumecimiento  - Reporta sentirse 
+exagerada 
+- Ataques de pánico  
+- Expresa enojo  
+- Rabia  
+- Expresa entumecimiento 
+- Reporta sentirse 
 culpable  
-- Expresa vergüenza  - Represión  
-- Miedo (00148)  - Mal uso de sustancia   
+- Expresa vergüenza  
+- Represión  
+- Miedo (00148)  
+- Mal uso de sustancia   
 - Recuerdos  
-  
-9.
 
 ### Factores Relacionados
 - Fuerza del ego disminuida   
@@ -41,37 +54,18 @@ exagerado
 - Personas desplazadas de su hogar   
 - Personas que experimentan 
 una duración prolongada 
-de un evento traumático.   - Personas expuestas a desastres   
+de un evento traumático.   
+- Personas expuestas a desastres   
 - Personas expuestas a epidemias  
- 
- 
-- 
-A
-p
-o
-y
-o 
-s
-ocial inadecuado   
+- Apoyos social inadecuado   
 - Percibe el evento como 
 traumático   
 - Comportamiento autolesivo   
 - Rol de superviviente  
- 
- 
- - Personas expuestas a 
-eventos que involucran 
-múltiples muertes   
+- Personas expuestas a eventos que involucran múltiples muertes   
 - Personas expuestas a eventos 
 fuera del rango de la 
 experiencia humana habitual.  
- 
- 
-396 
-Dominio 9. Afrontamiento / tolerancia al estrés  Clase 1. Respuestas postraumáticas  
- 
- 
- 
 - Personas expuestas a 
 accidentes graves   
 - Individuos expuestos a la guerra   
@@ -86,9 +80,6 @@ mutilaciones
 muerte violenta   
 - Personas cuyos seres queridos 
 sufrieron lesiones graves.   
- 
- 
- 
 - Personas cuyos seres queridos 
 sufrieron graves amenazas   
 - Individuos con casa destruida   

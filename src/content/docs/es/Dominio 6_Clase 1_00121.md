@@ -1,6 +1,6 @@
 # Identidad personal perturbada
 ## Definición
-	Incapacidad para mantener una percepción integral y completa de  sí mismo.
+	Incapacidad para mantener una percepción integral y completa de sí mismo.
 
 ### Caracteristicas Definitorias
 - Imagen corporal alterada   
@@ -12,10 +12,10 @@ mismo
 - Expresa sensación de vacío   
 - Expresa sentimiento de extrañeza   
 - Sentimientos fluctuantes sobre uno 
-mismo.    
+mismo    
 - Capacidad alterada para 
 distinguir entre estímulos 
-internos y externos.   
+internos y externos   
 - Relaciones interpersonales 
 inadecuadas   
 - Desempeño de roles inadecuado   
@@ -23,27 +23,26 @@ inadecuadas
 - Estrategias de afrontamiento 
 ineficaces   
 - Denuncias de discriminación social   
- 
- 
- 
-6. Autopercepción
 
 ### Factores Relacionados
-- Rol social alterado  - Baja autoestima  
-- Adoctrinamiento de culto  - Discriminación social percibida  
+- Rol social alterado  
+- Baja autoestima  
+- Adoctrinamiento de culto  
+- Discriminación social percibida  
 - Procesos familiares 
-disfuncionales  - Valores incongruentes con los 
-culturales.  
-- Conflicto de género   normas
+disfuncionales  
+- Valores incongruentes con los culturales.  
+- Conflicto de género   
 
 ### Población en riesgo
-- Los individuos que experimentan el desarrollo  - Individuos expuestos a 
-tóxicos  
-transición mental  quimicos   
+- Los individuos que experimentan el desarrollo transición mental
+- Individuos expuestos a quimicos tóxicos      
 - Individuos que experimentan situaciones  
 crisis nacional
 
 ### Condiciones Asociadas
-- Trastorno de identidad disociativo  - Trastornos neurocognitivos   
-- Desordenes mentales  - Preparaciones farmacéuticas
+- Trastorno de identidad disociativo  
+- Trastornos neurocognitivos   
+- Desordenes mentales  
+- Preparaciones farmacéuticas
 

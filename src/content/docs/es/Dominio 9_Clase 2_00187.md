@@ -1,6 +1,6 @@
 # Preparación para potencia mejorada
 ## Definición
-	Un patrón de participación consciente en el cambio para el bie nestar, que puede fortalecerse.
+	Un patrón de participación consciente en el cambio para el bienestar, que puede fortalecerse.
 
 ### Caracteristicas Definitorias
 - Expresa el deseo de mejorar la 
@@ -27,7 +27,6 @@ para la salud.
 - Expresa el deseo de mejorar 
 el poder.   
  
-9. Afrontamiento / tolerancia al estrés
 
 ### Factores Relacionados
 - Relaciones familiares alteradas   
@@ -49,7 +48,6 @@ crisis crónica.
 - Personas expuestas a la violencia   
 - Personas que son miembros de 
 una minoría étnica   
- 
 - Crianza inconsistente   
 - Adaptación familiar ineficaz   
 - Control ineficaz de impulsos   
@@ -57,8 +55,6 @@ una minoría étnica
 adversas coexistentes   
 - Vulnerabilidad percibida   
 - Mal uso de sustancia  
- 
- 
 - Personas cuyos padres tienen 
 trastornos mentales.   
 - Personas con antecedentes de 
@@ -66,17 +62,11 @@ exposición a la violencia.
 - Individuos con familias numerosas   
 - Madres con bajo nivel educativo   
 - Mujeres  
- 
- 
- 
- 
- 
- 
-430 
-Dominio 9. Afrontamiento / tolerancia al estrés  Clase 2. Respuestas de afrontamiento
+
 
 ### Condiciones Asociadas
-- Discapacidad intelectual  - Trastorno psicológico   
+- Discapacidad intelectual  
+- Trastorno psicológico   
  
  
  
@@ -91,17 +81,3 @@ Dominio 9. Afrontamiento / tolerancia al estrés  Clase 2. Respuestas de afronta
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-9. Afrontamiento / tolerancia al estrés
-

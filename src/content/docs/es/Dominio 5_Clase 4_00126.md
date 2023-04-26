@@ -1,31 +1,14 @@
 # Conocimiento deficiente
 ## Definición
-	Ausencia de información cognitiva relacionada con un tema esp ecífico, o su adquisición.
+	Ausencia de información cognitiva relacionada con un tema específico, o su adquisición.
 
 ### Caracteristicas Definitorias
-- Seguimiento inexacto de  - Declaraciones inexactas sobre 
-un 
- instrucción   tema  
+- Seguimiento inexacto de  - Declaraciones inexactas sobre un instrucción  tema  
 - Rendimiento inexacto en una 
-prueba  - Comportamiento 
+prueba  
+- Comportamiento 
 inapropiado   
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- Percepción / cognición
 
 ### Factores Relacionados
 - Ansiedad   

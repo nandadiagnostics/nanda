@@ -1,6 +1,6 @@
 # Disponibilidad para mejorar el proceso de maternidad
 ## Definición
-	Un patrón de preparación y mantenimiento de un embarazo sal udable, proceso de parto y cuidado del recién nacido para asegu rar un bienestar que se puede fortalecer.
+	Un patrón de preparación y mantenimiento de un embarazo saludable, proceso de parto y cuidado del recién nacido para asegurar un bienestar que se puede fortalecer.
 
 ### Caracteristicas Definitorias
 Durante el embarazo   
@@ -28,24 +28,13 @@ técnicas de alimentación del
 bebé.   
 - Expresa el deseo de mejorar el 
 cuidado de los senos.   
- 
- 
- 
- 
- 
- 
 - Expresa el deseo de mejorar el 
 estilo de vida prenatal.   
 - Expresa el deseo de mejorar la 
 preparación del recién nacido.  
- 
- 
- 
 - Expresa el deseo de mejorar la 
 proactividad durante el trabajo de 
 parto y el parto.  
- 
- 
 - Expresa el deseo de mejorar la 
 seguridad ambiental del bebé.   
 - Expresa el deseo de mejorar el 
@@ -62,7 +51,3 @@ del sistema de apoyo.
  
  
  
- 
- 
- 8. Sexualidad
-

@@ -1,13 +1,11 @@
 # Riesgo de paternidad deteriorada
 ## Definición
-	Cuidador primario susceptible a una limitación para nutrir, proteg er y promover el crecimiento y desarrollo óptimos del niño, a través de un ejercicio de autoridad consistente y empático y un comportamiento apropiado en re spuesta a las necesidades del niño.
-
-### Caracteristicas Definitorias
+	Cuidador primario susceptible a una limitación para nutrir, proteger y promover el crecimiento y desarrollo óptimos del niño, a través de un ejercicio de autoridad consistente y empático y un comportamiento apropiado en respuesta a las necesidades del niño.
 
 
 ### Población en riesgo
 Padre   
-- adolescentes   
+- Adolescentes   
 - Personas económicamente 
 desfavorecidas   
 - Personas sin hogar   
@@ -20,10 +18,6 @@ una crisis situacional
 familiares de shock 
 postraumático.   
 - Personas con historial de abuso   
- 
- 
- 
- 
 - Personas con historial de abuso   
 - Personas con historial de 
 abandono   
@@ -36,21 +30,14 @@ estrés prenatal
 - Personas con bajo nivel 
 educativo   
 - Padres monoparentales  
- 
- 
-361 
-Dominio 7. Relación de roles  Clase 1. Roles de cuidado  
- 
- 
+
  
 Bebé o niño   
-- Los niños que experimentan un 
-prolongado  - Niños con un género diferente 
-al 
- separación de los padres   el deseado por los padres  
-- Niños con di ﬃ culta  - Niños con antecedentes de 
-hospitalización  
- temperamento   zation en cuidados intensivos 
-neonatales  
-  - Bebés prematuros
+- Niños con un género diferente 
+al deseado por los padres 
+ separación de los padres  el deseado por los padres   
+- Niños con antecedentes de 
+hospitalización en cuidados intensivos 
+- Bebés prematuros
+- Niños con padre separados o en proceso de separación
 

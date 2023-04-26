@@ -1,11 +1,11 @@
 # Ansiedad por la muerte
 ## Definición
-	Angustia e inseguridad emocional, generada por la anticip ación de la muerte y el proceso de morir de uno mismo o de otras pe rsonas significativas, que afecta negativamente la calidad de vida.
+	Angustia e inseguridad emocional, generada por la anticipación de la muerte y el proceso de morir de uno mismo o de otras pe rsonas significativas, que afecta negativamente la calidad de vida.
 
 ### Caracteristicas Definitorias
 Afrontamiento / tolerancia al estrés 
    
-- disforia   
+- Disforia   
 - Expresa preocupación por la 
 tensión del cuidador   
 - Expresa preocupación por el 
@@ -34,9 +34,6 @@ relacionado con la muerte.
 - Informa pensamientos negativos 
 relacionados con la muerte y el 
 morir  
- 
- 
-9.
 
 ### Factores Relacionados
 - Anticipación de las 
@@ -57,17 +54,7 @@ muerte.
 - Individuos que experimentan 
 cuidados terminales de otras 
 personas importantes.  
- 
- 
-- 
-B
-aj
-a 
-a
-ut
-o
-e
-stima  
+- Baja autoestima  
 - No aceptación de la propia 
 mortalidad   
 - Angustia espiritual   
@@ -76,20 +63,11 @@ con un poder superior
 - Incertidumbre sobre la vida 
 después de la muerte.   
 - Incertidumbre sobre la existencia 
-de un poder superior   - Incertidumbre de pronóstico   
+de un poder superior   
+- Incertidumbre de pronóstico   
 - Síntomas físicos desagradables  
- 
- 
- 
 - Personas que reciben atención 
 terminal  
- 
- 
-416 
-Dominio 9. Afrontamiento / tolerancia al estrés  Clase 2. Respuestas de afrontamiento  
- 
- 
- 
 - Personas con antecedentes de 
 experiencias adversas con la 
 muerte de otras personas 
@@ -101,34 +79,9 @@ muerte
 ### Condiciones Asociadas
 - depresión   
 - Enfermedades estigmatizadas 
-con alto miedo a la muerte.   
- 
- 
- 
+con alto miedo a la muerte.  
 - Adultos mayores   
 - Mujeres   
 - Adultos jovenes  
- 
- 
- 
- 
 - Enfermedad terminal   
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-9. Afrontamiento / tolerancia al estrés
-
