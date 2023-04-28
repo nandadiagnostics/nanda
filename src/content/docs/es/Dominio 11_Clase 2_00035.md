@@ -1,24 +1,36 @@
 # Riesgo de lesiones
 ## Definición
-	Susceptible al daño físico debido a las condiciones am bientales que interactúan con los recursos adaptativos y defensivos del individuo, lo que puede comprometer la salud.
+	Susceptible al daño físico debido a las condiciones ambientales que interactúan con los recursos adaptativos y defensivos del individuo, lo que puede comprometer la salud.
 
-### Caracteristicas Definitorias
-
-
-### Población en riesgo
-- Personas que experimentan 
-una hospitalización 
-prolongada
+### Factores de Riesgo
+- Disfunción congnitiva
+- Exposición a productos químicos
+tóxicos
+- Nivel de inmunización
+dentro de la comunidad
+- Conocimiento inadecuado de los
+factores modificables.
+- Desnutrición
+- Manifestaciones neuroconductuales
+- Agente nosocomial
+- Exposición a patógenos
+- Barrera física
+- Fuente nutricional contaminada
+- Modo de transporte inseguro
 
 ### Condiciones Asociadas
-- Perfil sanguíneo anormal  - Enfermedades del sistema 
+- Perfil sanguíneo anormal  
+- Enfermedades del sistema 
 inmunológico  
-- Rendimiento psicomotor alterado  - Defensa primaria deteriorada  
-- Enfermedades autoinmunes   mecanismos  
-- Disfunción bioquímica  - Trastornos de la sensibilidad  
-- Disfunción del efecto  - Disfunción de integración 
+- Rendimiento psicomotor alterado  
+- Mecanismos de defensa primaria deteriorados  
+- Enfermedades autoinmunes   
+- Disfunción bioquímica  
+- Trastornos de la sensibilidad  
+- Disfunción del efecto  
+- Disfunción de integración 
 sensorial   
-- hipoxia   11. Seguridad / protección
+- Hipoxia
  
  
  

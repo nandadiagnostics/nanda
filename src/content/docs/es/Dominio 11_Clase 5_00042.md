@@ -1,9 +1,15 @@
 # Riesgo de reacción alérgica al látex
 ## Definición
-	Susceptible a una reacción hipersensible a productos de cauch o de látex natural o alimentos reactivos al látex, que pueden comprome ter la salud.
+	Susceptible a una reacción hipersensible a productos de caucho de látex natural o alimentos reactivos al látex, que pueden comprometer la salud.
 
-### Caracteristicas Definitorias
-
+### Factores de riesgo
+- Conocimiento inadecuado sobre
+cómo evitar alérgenos
+relevantes.
+- Desatento a la posible
+exposición ambiental al látex
+- Desatento a la posible exposición
+a alimentos reactivos al látex
 
 ### Población en riesgo
 - Personas expuestas con 
@@ -14,32 +20,22 @@ botellas con tapa de goma.
 - Personas con antecedentes 
 familiares de dermatitis 
 atópica    
- 
- 
- 
- 
-- Desatento a la posible exposición 
-a alimentos reactivos al látex  
- 
- 
- 
- 
 - Personas con antecedentes de 
 reacción al látex.   
 - Bebés sometidos a numerosas 
 operaciones que comienzan 
 poco después del nacimiento.  
- 
- 
- 
- 11. Seguridad / protección
+
 
 ### Condiciones Asociadas
-- Asma  - Múltiples procedimientos 
+- Asma  
+- Múltiples procedimientos 
 quirúrgicos  
-- Atopia  - Alergia a la planta de flor 
+- Atopia  
+- Alergia a la planta de flor 
 de pascua  
-- Alergia a la comida  - Enfermedades de la vejiga 
+- Alergia a la comida  
+- Enfermedades de la vejiga 
 urinaria   
 - Hipersensibilidad a la proteína 
 de caucho de látex natural.

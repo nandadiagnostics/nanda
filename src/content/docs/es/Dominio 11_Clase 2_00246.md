@@ -1,8 +1,20 @@
 # Riesgo de recuperación quirúrgica tardía
 ## Definición
-	Susceptible a una extensión del número de días postoperator ios necesarios para iniciar y realizar actividades que man tengan la vida, la salud y el bienestar, que pueden comprometer la salud.
+	Susceptible a una extensión del número de días postoperatorios necesarios para iniciar y realizar actividades que mantengan la vida, la salud y el bienestar, que pueden comprometer la salud.
 
-### Caracteristicas Definitorias
+### Factores de riesgo
+- Delirio 
+- Obesidad
+- Movilidad física deteriorada 
+- Náuseas persistentes
+- Aumento del nivel de glucosa en
+sangre. 
+- Dolor persistente
+- Desnutrición 
+- Vómitos persistentes
+- Respuesta emocional negativa a
+resultado quirúrgico
+- Tabaquismo
 
 
 ### Población en riesgo
@@ -14,7 +26,6 @@ de emergencia
 - Personas que requieren 
 transfusión de sangre 
 perioperatoria    
- 
 - Individuos con puntuación ≥ 3 en la 
 clasificación del estado físico de la 
 American Society of 
@@ -25,15 +36,13 @@ infarto de miocardio.
 funcional   
 - Individuos con pérdida de 
 peso preoperatoria> 5%  
-  11. Seguridad / protección
 
 ### Condiciones Asociadas
-- anemia   
-- diabetes mellitus   
+- Anemia   
+- Diabetes mellitus   
 - Procedimientos quirúrgicos 
 extensos   
-- Preparaciones farmacéuticas   
- 
+- Preparaciones farmacéuticas    
 - Duración prolongada de la 
 infección perioperatoria de la 
 herida quirúrgica   

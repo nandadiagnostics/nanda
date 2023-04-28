@@ -1,6 +1,6 @@
 # Automutilación
 ## Definición
-	Comportamiento autodestructivo deliberado que causa daño tisula r con la intención de causar daño no fatal para lograr el alivio de la ten sión.
+	Comportamiento autodestructivo deliberado que causa daño tisular con la intención de causar daño no fatal para lograr el alivio de la tensión.
 
 ### Caracteristicas Definitorias
 - Piel abrasiva   
@@ -18,22 +18,12 @@ orificio del cuerpo
 - Quemadura autoinfligida   
 - Separación de una parte del 
 cuerpo  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 11. Seguridad / protección
 
 ### Factores Relacionados
 - Ausencia de confidente de la 
 familia   
 - Imagen corporal alterada   
-- disociación   
+- Disociación   
 - Relaciones interpersonales 
 perturbadas   
 - Desorden alimenticio   
@@ -52,11 +42,6 @@ ineficaces
 - Impulso irresistible de violencia 
 autodirigida   
 - Irresistible necesidad de cortarse
-
-### Población en riesgo
-- adolescentes   
-- Niños maltratados   
- 
 - Comportamiento lábil   
 - Pérdida de control sobre la 
 situación de resolución de 
@@ -78,18 +63,12 @@ estrés
 - Uso de la manipulación para 
 obtener relaciones 
 interpersonales nutritivas con los 
-demás.  
- 
- 
- 
+demás.
+
+### Población en riesgo
+- Adolescentes   
+- Niños maltratados   
 - Personas encarceladas  
- 
- 
-524 
-Dominio 11. Seguridad / protección  Clase 3. Violencia  
- 
- 
- 
 - Personas que experimentan un 
 divorcio familiar   
 - Individuos que experimentan 
@@ -104,9 +83,6 @@ crisis de identidad sexual
 no tradicionales   
 - Individuos cuyos compañeros 
 se auto mutilan   
- 
- 
- 
 - Personas con antecedentes 
 familiares de comportamiento 
 autodestructivo.   
@@ -121,4 +97,14 @@ violencia autodirigida
 - Individuos que presencian 
 violencia entre figuras 
 parentales
+
+### Conductas asociadas
+- Autismo 
+- Despersonalización
+- Trastorno límite de la
+personalidad 
+- Discapacidades del
+desarrollo
+- Trastorno de carácter 
+- Desórdenes psicóticos
 

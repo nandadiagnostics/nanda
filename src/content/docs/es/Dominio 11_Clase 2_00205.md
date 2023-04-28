@@ -1,34 +1,53 @@
 # Riesgo de shock
 ## Definición
-	Susceptible a un flujo sanguíneo inadecuado a los tejidos qu e puede conducir a una disfunción celular, lo que puede comprometer la  salud.
+	Susceptible a un flujo sanguíneo inadecuado a los tejidos que puede conducir a una disfunción celular, lo que puede comprometer la salud.
 
-### Caracteristicas Definitorias
-
+### Factores de riesgo
+- Sangrado
+- Volumen de líquido deficiente
+- Factores identificados por una
+herramienta de detección
+estandarizada y validada
+- Hipertermia
+- Hipotermia
+- Hipoxemia
+- Hipoxia
+- Conocimiento inadecuado de las
+estrategias de manejo de
+hemorragias.
+- Conocimiento inadecuado de las
+estrategias de manejo de
+infecciones.
+- Conocimiento inadecuado de los
+factores modificables.
+- Autogestión ineficaz de la
+medicación
+- Pérdidas de líquido no hemorrágicas
+- Tabaquismo
+- Presión arterial inestable
 
 ### Población en riesgo
-- Las personas admitidas en emergencias  - Individuos con historia de miocar-  
-unidad de cuidados gency  infarto de marcación   
+- Las personas admitidas en emergencias  
+- Individuos con historial de infarto al miocardio   
 - Individuos en edades extremas
 
 ### Condiciones Asociadas
 - Respiración artificial   
-- quemaduras   
-- quimioterapia   
-- diabetes mellitus   
+- Quemaduras   
+- Quimioterapia   
+- Diabetes mellitus   
 - Embolia   
 - Enfermedades cardíacas   
-- hipersensibilidad   
+- Hipersensibilidad   
 - inmunosupresión   
 - Infecciones   
 - Niveles de lactato ≥ 2 mmol / L   
 - Enfermedades del HIGADO   
 - Dispositivos médicos   
 - Neoplasias   
- 
- 
 - Enfermedades del sistema 
 nervioso   
-- pancreatitis   
+- Pancreatitis   
 - Radioterapia   
 - Sepsis   
 - Puntuación de la evaluación 
@@ -40,7 +59,5 @@ simplificada (SAPS) III> 70
 - Procedimientos quirúrgicos   
 - Síndrome de respuesta 
 inflamatoria sistémica (SRIS)   
-- Trauma   
- 
- 11. Seguridad / protección
+- Traumatismos
 

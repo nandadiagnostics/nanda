@@ -1,6 +1,6 @@
 # Retraso en el desarrollo infantil
 ## Definición
-	Niño que continuamente no logra alcanzar los hitos del desarrollo  dentro del plazo previsto.
+	Niño que continuamente no logra alcanzar los hitos del desarrollo dentro del plazo previsto.
 
 ### Caracteristicas Definitorias
 - Dificultad constante para 
@@ -11,10 +11,6 @@ de edad.
 realizar las habilidades 
 lingüísticas típicas del grupo 
 de edad.   
- 
- 
- 
- 
 - Dificultad constante para realizar 
 las habilidades motoras típicas 
 del grupo de edad.   
@@ -30,20 +26,15 @@ de atención médica
 inadecuado   
 - Estimulación inadecuada  
  
-Factores del cuidador   
- 
- 
- 
+Factores del cuidador    
 - Abuso no abordado   
 - Descuido psicológico no 
 abordado  
- 
-- Ansiedad  - Estrés excesivo   
-- Disminución del apoyo emocional.  - Violencia doméstica no abordada  
-disponibilidad   
+- Ansiedad  
+- Estrés excesivo   
+- Disminución del apoyo emocional.  
+- Violencia doméstica no abordada   
 - Sintomas depresivos   
- 
- 13. Crecimiento / desarrollo
 
 ### Población en riesgo
 - Niños de 0 a 9 años   
@@ -55,8 +46,6 @@ comunitaria
 ambientales   
 - Niños cuyos cuidadores tienen 
 discapacidades del desarrollo   
- 
- 
 - Niños cuyas madres recibieron un 
 cuidado prenatal inadecuado   
 - Niños con estándares de 
@@ -66,59 +55,17 @@ sexo
 - Niños institucionalizados   
 - Lactantes de bajo peso al nacer   
 - Bebés prematuros  
- 
- 
- 
-568 
-Dominio 13. Crecimiento / desarrollo  Clase 2.Desarrollo
 
 ### Condiciones Asociadas
-- Farmacéutica prenatal  - Trastornos mentales 
-maternos  
- preparativos  - Enfermedades físicas 
+- Farmacéutica prenatal  
+- Trastornos mentales 
+maternos   
+ - Enfermedades físicas 
 maternas  
-- Trastornos congénitos  - Abuso de sustancias 
+- Trastornos congénitos  
+- Abuso de sustancias 
 prenatales  
-- Depresión  - Trastornos de la 
+- Depresión  
+- Trastornos de la 
 sensibilidad  
 - Enfermedades genéticas congénitas   
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-13. Crecimiento / desarrollo
- 
- 
-Se recomienda el uso de una escala de evaluación del desarrollo estandarizada, válida y confiable.
-

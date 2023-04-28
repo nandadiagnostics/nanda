@@ -1,18 +1,18 @@
 # Integridad alterada de la mucosa oral
 ## Definición
-	Lesión en los labios, tejidos blandos, cavidad bucal y / u o rofaringe.
+	Lesión en los labios, tejidos blandos, cavidad bucal y / u orofaringe.
 
 ### Caracteristicas Definitorias
-- mal sabor de boca   
+- Mal sabor de boca   
 - Sangrado   
 - Queilitis   
 - Lengua recubierta   
 - Disminución de la percepción 
 del gusto.   
-- descamación   
+- Descamación   
 - Dificultad para comer   
 - Dificultad para tragar   
-- disfonía   
+- Disfonía   
 - Amígdalas agrandadas   
 - Lengua geográfica   
 - Hiperplasia gingival   
@@ -21,14 +21,10 @@ del gusto.
 mm de profundidad   
 - Recesión gingival   
 - Halitosis   
-- hiperemia   
+- Hiperemia   
 - Macroplasia   
 - Denudación de mucosas   
 - Malestar oral   
- 
- 
- 
- 
 - Edema oral   
 - Fisura bucal   
 - Lesión oral   
@@ -44,21 +40,18 @@ mm de profundidad
 - Exudados buco-nasales purulentos   
 - Lengua atrófica lisa   
 - Parches esponjosos en la boca   
-- estomatitis   
+- Estomatitis   
 - Manchas blancas en la boca   
 - Placa blanca en boca   
 - Exudado oral blanco, parecido a la 
 cuajada   
 - Xerostomía  
- 
- 
-11.
 
 ### Factores Relacionados
 - Consumo de alcohol   
 - Disfunción congnitiva   
 - Disminución de la salivación.   
-- deshidratación   
+- Deshidratación   
 - Sintomas depresivos   
 - Dificultad para realizar el 
 autocuidado bucal   
@@ -66,39 +59,44 @@ autocuidado bucal
 dental.   
 - Conocimientos inadecuados 
 de higiene bucal.   
- 
 - Hábitos inadecuados de higiene 
 bucal   
 - Uso inadecuado de agente 
 químico   
-- desnutrición   
+- Desnutrición   
 - Respiración por la boca   
-- fumar   
+- Tabaquismo  
 - Estresores  
- 
- 
-488 
-Dominio 11. Seguridad / protección  Clase 2. Lesión física
 
 ### Población en riesgo
 - Personas económicamente 
 desfavorecidas
 
 ### Condiciones Asociadas
-- Alergias  - Pérdida de estructura de 
+- Alergias  
+- Pérdida de estructura de 
 soporte bucal  
-- Trastorno autosómico  - Factor mecánico  
-- Trastorno de conducta  - Anomalías en la boca  
-- Quimioterapia  - Nulo per os (NPO)> 24 
+- Trastorno autosómico  
+- Factor mecánico  
+- Trastorno de conducta  
+- Anomalías en la boca  
+- Quimioterapia  
+- Nulo per os (NPO)> 24 
 horas  
 - Disminución de los niveles de 
-hormonas femeninas.  - Trauma oral  
-- Plaquetas disminuidas  - Radioterapia  
-- Depresión  - Síndrome de Sjogren  
+hormonas femeninas.  
+- Trauma oral  
+- Plaquetas disminuidas  
+- Radioterapia  
+- Depresión  
+- Síndrome de Sjogren  
 - Enfermedades del sistema 
-inmunológico  - Procedimientos quirúrgicos  
-- Inmunosupresión  - Trauma  
-- Infecciones  - Régimen de tratamiento   
+inmunológico  
+- Procedimientos quirúrgicos  
+- Inmunosupresión  
+- Trauma  
+- Infecciones  
+- Régimen de tratamiento   
  
  
  

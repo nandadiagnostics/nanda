@@ -1,24 +1,44 @@
 # Riesgo de lesión de posición perioperatoria
 ## Definición
-	Susceptible a cambios anatómicos y físicos inadvertidos c omo resultado de la posición o el equipo de posicionamiento utiliza do durante un procedimiento quirúrgico / invasivo, que puede comprometer la s alud.
+	Susceptible a cambios anatómicos y físicos inadvertidos como resultado de la posición o el equipo de posicionamiento utilizado durante un procedimiento quirúrgico / invasivo, que puede comprometer la salud.
 
-### Caracteristicas Definitorias
-
+### Factores de riesgo
+- Disminución de la fuerza muscular.
+- Deshidratación
+- Factores identificados por una
+herramienta de detección
+estandarizada y validada
+- Acceso inadecuado al equipo
+apropiado
+- Acceso inadecuado a las
+superficies de apoyo
+adecuadas.
+- Disponibilidad inadecuada de
+equipos para personas con
+obesidad.
+- Desnutrición
+- Obesidad
+- Posicionamiento no anatómico
+prolongado de las extremidades
+- Superficie de apoyo rígida
 
 ### Población en riesgo
-- Individuos en edades extremas  - Personas en Trendelenburg  
- 
-- Individuos en posición lateral   posición  
- 
+- Individuos en edades extremas  
+- Personas en posición Trendelenburg  
+- Individuos en posición lateral 
 - Individuos en posición de 
-litotomía  - Individuos sometidos a cirugía  
- 
-- Individuos en decúbito prono   procedimiento> 1 hora
+litotomía  
+- Individuos sometidos a cirugía  
+- Individuos en decúbito prono   
+- Procedimiento > 1 hora
 
 ### Condiciones Asociadas
-- Diabetes mellitus  - Neuropatía  
-- Edema  - Alteración sensoriperceptual  
-- Adelgazamiento   de la anestesia  
-- Anestesia general  - Enfermedades vasculares   
+- Diabetes mellitus  
+- Neuropatía  
+- Edema  
+- Alteración sensoriperceptual de la anestesia 
+- Adelgazamiento 
+- Anestesia general  
+- Enfermedades vasculares   
 - Inmovilización
 

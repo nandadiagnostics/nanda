@@ -1,10 +1,10 @@
 # Lesión por presión en adultos
 ## Definición
-	Daño localizado en la piel y / o el tejido subyacente de un adulto, como resultado de la presión o la presión en combinación co n el cizallamiento (Panel Asesor Europeo de Úlceras por Presión, 2019).
+	Daño localizado en la piel y / o el tejido subyacente de un adulto, como resultado de la presión o la presión en combinación con el cizallamiento (Panel Asesor Europeo de Úlceras por Presión, 2019).
 
 ### Caracteristicas Definitorias
 - Ampolla llena de sangre   
-- eritema   
+- Eritema   
 - Pérdida de tejido de espesor 
 total  
 - Pérdida de tejido de espesor 
@@ -38,15 +38,6 @@ obesidad.
 cuidador sobre las estrategias 
 de prevención de lesiones por 
 presión.  
- 
-Factores internos   
-- Disminución de la actividad física.   
-- Disminución de la movilidad física.   
-- deshidratación   
-- Piel seca   
- 
- 
- 
 - Mayor magnitud de carga 
 mecánica   
 - Presión sobre prominencia ósea   
@@ -57,68 +48,15 @@ mecánica
 propiedad de absorción de 
 humedad insuficiente  
  
- 
- 
- 
- 
- 
+Factores internos   
+- Disminución de la actividad física.   
+- Disminución de la movilidad física.   
+- deshidratación   
+- Piel seca   
 - hipertermia   
 - Cumplimiento inadecuado del 
 régimen de tratamiento de la 
 incontinencia   
- 
- 
- 
- 
- 
- 11. Seguridad / protección
- 
- 
- 
- 
-495 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 11. Seguridad / protección
-  
-Dominio 11. Seguridad / protección  
- 
- 
- 
 - Cumplimiento inadecuado del plan 
 de prevención de lesiones por 
 presión   
@@ -148,38 +86,6 @@ domiciliaria
 clasificación del estado físico de la 
 American Society of 
 Anesthesiologists (ASA)
-
-### Condiciones Asociadas
-- anemia   
-- Enfermedades cardiovasculares   
-- Enfermedades del sistema 
-nervioso central   
-- Condiciones neurológicas crónicas   
-- Enfermedad crítica   
-- Disminución del nivel de albúmina 
-sérica.   
-- Disminución de la oxigenación de 
-los tejidos.   
-- Disminución de la perfusión tisular   
-- diabetes mellitus   
-- edema   
-- Proteína C reactiva elevada   
-- Inestabilidad hemodinámica   
-Clase 2. Lesión física   
- 
- 
- 
-- Desnutrición proteico-energética   
-- fumar   
-- Mal uso de sustancia  
- 
- 
- 
- 
- 
- 
- 
- 
 - Personas con índice de masa 
 corporal por encima del rango 
 normal para la edad y el sexo.   
@@ -190,12 +96,26 @@ normal para la edad y el sexo
 lesiones por presión.   
 - Personas con discapacidad física   
 - Adultos mayores  
- 
- 
- 
- 
- 
- 
+
+### Condiciones Asociadas
+- Anemia   
+- Enfermedades cardiovasculares   
+- Enfermedades del sistema 
+nervioso central   
+- Condiciones neurológicas crónicas   
+- Enfermedad crítica   
+- Disminución del nivel de albúmina 
+sérica.   
+- Disminución de la oxigenación de 
+los tejidos.   
+- Disminución de la perfusión tisular   
+- Diabetes mellitus   
+- Edema   
+- Proteína C reactiva elevada   
+- Inestabilidad hemodinámica   
+- Desnutrición proteico-energética   
+- Tabaquismo   
+- Mal uso de sustancias
 - Fractura de cadera   
 - Inmovilización   
 - Circulación deteriorada   
@@ -206,6 +126,6 @@ lesiones por presión.
 - Trauma físico   
 - Duración prolongada del 
 procedimiento quirúrgico   
-- trastornos de la sensibilidad   
+- Trastornos de la sensibilidad   
 - Lesiones de la médula espinal
 

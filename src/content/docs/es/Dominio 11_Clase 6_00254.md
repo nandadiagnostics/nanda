@@ -1,8 +1,13 @@
 # Riesgo de hipotermia perioperatoria
 ## Definición
-	Susceptible a una caída inadvertida de la temperatura corpo ral central por debajo de 36 ° C / 96,8 ° F que se produce una hora ante s a 24 horas después de la cirugía, lo que puede comprometer la salud.
+	Susceptible a una caída inadvertida de la temperatura corporal central por debajo de 36 ° C / 96,8 ° F que se produce una hora antes a 24 horas después de la cirugía, lo que puede comprometer la salud.
 
-### Caracteristicas Definitorias
+### Factores de riesgo
+- Ansiedad
+- Índice de masa corporal por debajo de lo normal según rango de edad y sexo
+- Temperatura ambiental <21 °C / 69,8°F
+- Área de la herida descubierta
+- Disponibilidad de equipo de calentamiento
 
 
 ### Población en riesgo
@@ -22,8 +27,6 @@ horas
 clasificación de estado físico de la 
 American Society of 
 Anesthesiologists (ASA)> 1   
- 
- 
 - Individuos con puntaje alto en el 
 Modelo de Enfermedad 
 Hepática en Etapa Terminal 
@@ -41,17 +44,6 @@ corporal
 - Recién nacidos <37 semanas de 
 edad gestacional   
 - Mujeres   
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 11. Seguridad / protección
 
 ### Condiciones Asociadas
 - Insuficiencia hepática aguda   
@@ -60,7 +52,6 @@ edad gestacional
 - Complicaciones 
 cardiovasculares   
 - Insuficiencia renal crónica   
- 
 - Anestesia regional y general 
 combinada   
 - Desorden neurológico   

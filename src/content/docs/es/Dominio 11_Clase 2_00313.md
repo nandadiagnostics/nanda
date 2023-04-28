@@ -1,6 +1,6 @@
 # Lesión por presión infantil
 ## Definición
-	Daño localizado en la piel y / o el tejido subyacente de  un niño o adolescente, como resultado de la presión o la presión e n combinación con el cizallamiento (European Pres-sure Ulcer Advisory Panel, 2019 ).
+	Daño localizado en la piel y / o el tejido subyacente de  un niño o adolescente, como resultado de la presión o la presión en combinación con el cizallamiento (European Pres-sure Ulcer Advisory Panel, 2019 ).
 
 ### Caracteristicas Definitorias
 - Ampolla llena de sangre   
@@ -42,9 +42,6 @@ para niños con obesidad
 del cuidador de los métodos 
 apropiados para quitar los 
 materiales adhesivos.   
- 
- 
- 
 - Conocimiento inadecuado del 
 cuidador sobre los métodos 
 apropiados para estabilizar los 
@@ -66,23 +63,6 @@ mecánica
 propiedad de absorción de 
 humedad insuficiente   
  
- 
- 
- 
- 
- 11. Seguridad / protección
- 
- 
- 
- 
- 
- 
- 
-499 
-Dominio 11. Seguridad / protección  Clase 2. Lesión física  
- 
- 
- 
 Factores internos   
 - Disminución de la actividad física.   
 - Disminución de la movilidad física.   
@@ -94,7 +74,21 @@ posición en la cama
 - Dificultad para mantener la 
 posición en la silla   
 - Piel seca   
-- hipertermia  
+- Hipertermia  
+- Cumplimiento inadecuado del 
+régimen de tratamiento de la 
+incontinencia   
+- Cumplimiento inadecuado del plan 
+de prevención de lesiones por 
+presión   
+- Conocimiento inadecuado de los 
+métodos adecuados para 
+eliminar los materiales 
+adhesivos.   
+- Conocimiento inadecuado de métodos apropiados para 
+estabilizar dispositivos   
+- Desnutrición proteico-energética   
+- Desequilibrio hidroelectrolítico
  
  
 Otros factores   
@@ -117,34 +111,6 @@ domiciliaria
 - Niños con índice de masa 
 corporal por encima del rango 
 normal para la edad y el sexo    
- 
- 
- 
- 
- 
-- Cumplimiento inadecuado del 
-régimen de tratamiento de la 
-incontinencia   
-- Cumplimiento inadecuado del plan 
-de prevención de lesiones por 
-presión   
-- Conocimiento inadecuado de los 
-métodos adecuados para 
-eliminar los materiales 
-adhesivos.   
-- Conocimiento inadecuado de la 
-apro-  
-métodos priados para 
-estabilizar dispositivos   
-- Desnutrición proteico-energética   
-- Desequilibrio agua-electrolito  
- 
- 
- 
- 
- 
- 
- 
 - Niños con índice de masa 
 corporal por debajo del rango 
 normal para la edad y el sexo   
@@ -157,13 +123,11 @@ circunferencia de la
 cabeza   
 - Niños con una gran superficie 
 cutánea  
- 
- 11. Seguridad / protección
 
 ### Condiciones Asociadas
 - pH alcalino de la piel   
 - Estructura cutánea alterada   
-- anemia   
+- Anemia   
 - Enfermedades cardiovasculares   
 - Disminución del nivel de conciencia.   
 - Disminución del nivel de albúmina 
@@ -172,17 +136,12 @@ sérica.
 los tejidos.   
 - Disminución de la perfusión 
 tisular   
-- diabetes mellitus   
-- edema   
-- Proteína C reactiva elevada   - Procedimientos invasivos 
-frecuentes  
- 
- 
-- 
-In
-e
-st
-abilidad hemodinámica   
+- Diabetes mellitus   
+- Edema   
+- Proteína C reactiva elevada   
+- Procedimientos invasivos 
+frecuentes   
+- Inestabilidad hemodinámica  
 - Inmovilización   
 - Circulación deteriorada   
 - Discapacidad intelectual   
@@ -191,6 +150,6 @@ abilidad hemodinámica
 - Trauma físico   
 - Duración prolongada del 
 procedimiento quirúrgico   
-- trastornos de la sensibilidad   
+- Trastornos de la sensibilidad   
 - Lesiones de la médula espinal
 

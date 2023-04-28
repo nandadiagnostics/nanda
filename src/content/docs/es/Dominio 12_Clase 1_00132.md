@@ -1,6 +1,6 @@
 # Dolor agudo
 ## Definición
-	Experiencia sensorial y emocional desagradable asociad a con daño tisular real o potencial, o descrita en términos de dicho d año (Asociación Internacional para el Estudio del Dolor); aparición repentina o lenta de cualquier intensidad desde leve a grave con un final an ticipado o predecible, y con una duración inferior a 3 meses.
+	Experiencia sensorial y emocional desagradable asociada con daño tisular real o potencial, o descrita en términos de dicho daño (Asociación Internacional para el Estudio del Dolor); aparición repentina o lenta de cualquier intensidad desde leve a grave con un final anticipado o predecible, y con una duración inferior a 3 meses.
 
 ### Caracteristicas Definitorias
 - Parámetro fisiológico alterado   
@@ -16,13 +16,7 @@ verbalmente
 - Comportamiento expresivo   
 - Expresión facial de dolor.   
 - Conducta protectora   
-- desesperanza
-
-### Factores Relacionados
-- Agente de daño biológico   
-- Uso inadecuado de agente 
-químico   12. Comodidad
-   
+- Desesperanza
 - Enfoque estrecho   
 - Posicionamiento para aliviar el 
 dolor.   
@@ -39,8 +33,10 @@ estandarizada
 utilizando un instrumento de dolor 
 estandarizado   
 - Enfocado en uno mismo  
- 
- 
- 
+
+### Factores Relacionados
+- Agente de daño biológico   
+- Uso inadecuado de agente 
+químico
 - Agente de lesiones físicas
 
