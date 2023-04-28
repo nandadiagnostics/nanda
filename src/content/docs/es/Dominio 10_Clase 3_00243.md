@@ -17,10 +17,6 @@ médica disponibles.
 - Expresa el deseo de mejorar la 
 capacidad de verbalizar su 
 propia opinión sin restricciones.   
- 
- 
- 
- 
 - Expresa el deseo de mejorar la 
 comodidad para verbalizar las 
 opciones de atención médica en 
@@ -37,6 +33,5 @@ toma de decisiones.
 - Expresa su deseo de mejorar la 
 privacidad para discutir las 
 opciones de atención médica.   
- 
-10. Principios de vida
+
 

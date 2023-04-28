@@ -1,25 +1,30 @@
 # Retraso en el desarrollo motor del lactante
 ## Definición
-	Individuo que constantemente no logra los hitos del desarr ollo relacionados con el fortalecimiento normal de los hueso s, los músculos y la capacidad para moverse y tocar el entorno.
+	Individuo que constantemente no logra los hitos del desarrollo relacionados con el fortalecimiento normal de los huesos, los músculos y la capacidad para moverse y tocar el entorno.
 
 ### Caracteristicas Definitorias
 - Dificultad de elevación del 
-cabezal  - Dificultad para sentarse sin apoyo  
+cabezal  
+- Dificultad para sentarse sin apoyo  
 - Dificultad para mantener la 
-cabeza  - Dificultad para ponerse de pie con 
+cabeza en posición 
+- Dificultad para ponerse de pie con 
 ayuda  
- posición  - Dificultad para transferir objetos  
-- Dificultad para recoger bloques  - Dificultad con la mano y la 
-rodilla  
-- Dificultad para ponerse de pie   arrastrándose  
-- Dificultad para darse la vuelta  - No participa en actividades  
-- Dificultad para sentarse con apoyo  - No inicia actividades
+- Dificultad para transferir objetos  
+- Dificultad para recoger bloques  
+- Dificultad con la mano y la 
+rodilla arrastrandose
+- Dificultad para ponerse de pie
+- Dificultad para darse la vuelta  
+- No participa en actividades  
+- Dificultad para sentarse con apoyo  
+- No inicia actividades
 
 ### Factores Relacionados
 Factores infantiles   
 - Dificultad con el procesamiento 
 sensorial   
-- Insu ciente curiosidad  
+- Insuficiente curiosidad  
  
 Factores del cuidador   
 - Ansiedad por el cuidado infantil   
@@ -36,13 +41,8 @@ del bebé con otros niños
 - No involucra al bebé en juegos 
 sobre partes del cuerpo.   
 - No enseña palabras de movimiento   
- 
- 
- 
 - Iniciativa insuficiente   
-- Insu ciente persistencia  
- 
- 
+- Insuficiente persistencia  
 - Juguetes de motricidad fina 
 insuficientes para bebés   
 - Juguetes de motricidad gruesa 
@@ -59,33 +59,12 @@ temperamento infantil
 - Percepción de 
 incompetencia en el 
 cuidado infantil   
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 13. Crecimiento / desarrollo
- 
- 
- 
- 
-571 
-Dominio 13. Crecimiento / desarrollo  Clase 2.Desarrollo
 
 ### Población en riesgo
 - Niños   
 - Bebés de 0 a 12 meses   
 - Bebés nacidos de familias 
-económicamente 
-desfavorecidas   
+económicamente desfavorecidas   
 - Bebés nacidos de familias 
 numerosas   
 - Bebés nacidos de padres con 
@@ -94,10 +73,6 @@ bajo nivel educativo
 cuidados intensivos   
 - Bebés que viven en casa con un 
 espacio físico inadecuado   
- 
- 
- 
- 
 - Lactantes cuyas madres tenían 
 una dieta prenatal inadecuada   
 - Bebés con estándares de 
@@ -121,7 +96,6 @@ prenatales
 - Fracaso para prosperar   
 - Anemia materna al final del 
 embarazo    
- 
 - Trastornos de salud mental 
 materna al comienzo del 
 embarazo.   
@@ -131,7 +105,7 @@ embarazo
 - Trastornos del neurodesarrollo   
 - Infección posnatal del lactante 
 prematuro   
-- trastornos de la sensibilidad  
+- Trastornos de la sensibilidad  
  
  
  

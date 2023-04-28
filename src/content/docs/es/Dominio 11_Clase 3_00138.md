@@ -1,8 +1,19 @@
 # Riesgo de violencia dirigida por otros
 ## Definición
-	Susceptible a comportamientos en los que una persona demuestra q ue puede ser física, emocional y / o sexualmente dañina para lo s demás.
+	Susceptible a comportamientos en los que una persona demuestra que puede ser física, emocional y / o sexualmente dañina para los demás.
 
-### Caracteristicas Definitorias
+### Factores de riesgo
+- Disfunción congnitiva 
+- Patrón de violencia indirecta
+- Fácil acceso a un arma
+- Patrón de violencia dirigida por
+otros
+- Control ineficaz de impulsos
+- Patrón de violencia amenazante
+- Lenguaje corporal negativo 
+- Comportamiento suicida
+- Patrón de comportamiento
+antisocial agresivo
 
 
 ### Población en riesgo
@@ -12,8 +23,6 @@ abuso infantil
 crueldad hacia los animales.   
 - Personas con antecedentes de 
 incendio.    
- 
- 
 - Personas con antecedentes de 
 vehículo motorizado o ﬀ ense   
 - Personas con antecedentes de 
@@ -21,5 +30,9 @@ abuso de sustancias
 - Personas con historial de 
 presenciar violencia familiar  
  
- 11. Seguridad / protección
-
+### Condiciones asociadas
+- Deterioro neurológico 
+- Complicaciones prenatales
+- Intoxicación patológica 
+- Desórdenes psicóticos
+- Complicaciones perinatales

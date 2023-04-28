@@ -1,6 +1,6 @@
 # Angustia moral
 ## Definición
-	Respuesta a la incapacidad de llevar a cabo la decisión y / o ac ción ética o moral elegida.
+	Respuesta a la incapacidad de llevar a cabo la decisión y / o acción ética o moral elegida.
 
 ### Caracteristicas Definitorias
 - Informa angustia por actuar 
@@ -8,23 +8,22 @@ sobre la propia elección moral
 
 ### Factores Relacionados
 - Conflicto entre tomadores de 
-decisiones  - Información disponible para 
-decisión-  
+decisiones  
+- Poca información disponible para tomar una 
+decisión  
 - Dificultad para llegar al final de la 
-vida haciendo conflictos  
- decisiones  - Limitación de tiempo para tomar 
+vida  
+- Limitación de tiempo para tomar 
 decisiones  
 - Dificultad para hacer el 
-tratamiento  haciendo  
- decisión  - Valores incongruentes con los 
-culturales.  
-  normas
+tratamiento haciendo conflictos 
+- Valores incongruentes con los 
+culturales.
 
 ### Población en riesgo
 - Individuos que experimentan 
 pérdida de autonomía 
-personal.   10. Principios de vida
-   
+personal.
 - Individuos físicamente distantes 
 del tomador de decisiones
 

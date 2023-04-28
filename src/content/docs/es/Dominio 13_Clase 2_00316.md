@@ -1,9 +1,44 @@
 # Riesgo de retraso en el desarrollo motor infantil
 ## Definición
-	Individuo susceptible de no lograr los hitos del desarrol lo relacionados con el fortalecimiento normal de los huesos, los múscul os y la capacidad para moverse y tocar el entorno.
+	Individuo susceptible de no lograr los hitos del desarrollo relacionados con el fortalecimiento normal de los huesos, los músculos y la capacidad para moverse y tocar el entorno.
 
-### Caracteristicas Definitorias
+### Factores de riesgo
+Factores infantiles
+- Dificultad con el procesamiento
+sensorial
+- Insuficiente curiosidad
+- Iniciativa suficiente
+- Insuficiente persistencia
 
+Factores del cuidador
+- Ansiedad por el cuidado infantil
+- Lleva al bebé en brazos durante
+un tiempo excesivo
+- No permite que el bebé elija
+juguetes.
+- No anima al bebé a agarrar
+- No anima al bebé a alcanzar
+- No fomenta el juego suficiente
+del bebé con otros niños
+- No involucra al bebé en juegos
+sobre partes del cuerpo.
+- No enseña palabras de movimiento
+- Juguetes de motricidad fina
+insuficientes para bebés
+- Juguetes de motricidad gruesa
+insuficientes para bebés
+- Tiempo insuficiente entre
+períodos de estimulación infantil
+- Limita las experiencias del bebé
+en decúbito prono.
+- Síntomas depresivos maternos
+posparto
+- Percepción negativa del
+temperamento infantil
+- Sobreestimulación del lactante
+- Percepción de
+incompetencia en el
+cuidado infantil
 
 ### Población en riesgo
 - Niños   
@@ -17,8 +52,6 @@ numerosas
 bajo nivel educativo   
 - Lactantes en unidades de 
 cuidados intensivos   
- 
- 
 - Bebés que viven en casa con un 
 espacio físico inadecuado   
 - Lactantes cuyas madres tenían 
@@ -27,15 +60,7 @@ una dieta prenatal inadecuada
 crecimiento por debajo de lo 
 normal para la edad y el sexo   
 - Lactantes de bajo peso al nacer   
-- Bebés prematuros   13. Crecimiento / desarrollo
- 
- 
- 
-573 
-Dominio 13. Crecimiento / desarrollo  Clase 2.Desarrollo  
- 
- 
- 
+- Bebés prematuros  
 - Bebés prematuros que no 
 reciben fisioterapia durante 
 la hospitalización
@@ -52,8 +77,6 @@ prenatales
 - Fracaso para prosperar   
 - Anemia materna al final del 
 embarazo    
- 
- 
 - Trastornos de salud mental 
 materna al comienzo del 
 embarazo.   
@@ -63,32 +86,4 @@ embarazo
 - Trastornos del neurodesarrollo   
 - Infección posnatal del lactante 
 prematuro   
-- trastornos de la sensibilidad  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 13. Crecimiento / desarrollo
-
+- Trastornos de la sensibilidad  

@@ -1,6 +1,6 @@
 # Aislamiento social
 ## Definición
-	Un estado en el que el individuo carece de un sentido de relac ión conectado a relaciones interpersonales positivas, duraderas y significativas.
+	Un estado en el que el individuo carece de un sentido de relación conectado a relaciones interpersonales positivas, duraderas y significativas.
 
 ### Caracteristicas Definitorias
 - Apariencia física alterada   
@@ -20,10 +20,6 @@ los demás.
 sociales   
 - Interacción mínima con los 
 demás.   
- 
- 
- 
- 
 - Preocupación por los propios pensamientos   
 - Falta de propósito   
 - Contacto visual reducido   
@@ -51,12 +47,6 @@ personal.
 - Miedo al crimen   
 - Miedo al tráfico   
 - Movilidad física deteriorada
-
-### Población en riesgo
-- Personas económicamente 
-desfavorecidas   
-- inmigrantes   
- 
 - Sistema de apoyo psicosocial 
 inadecuado   
 - Habilidades sociales inadecuadas   
@@ -68,25 +58,13 @@ de apoyo
 - Manifestaciones neuroconductuales   
 - Valores incongruentes con las 
 normas culturales.  
- 
- 
+
+### Población en riesgo
+- Personas económicamente 
+desfavorecidas   
+- Inmigrantes   
 - Individuos que experimentan un 
 rol social alterado   
- 
- 
- 
- 
- 
- 12. Comodidad
- 
- 
- 
- 
-565 
-Dominio 12. Comodidad  Clase 3. Confort social  
- 
- 
- 
 - Personas que experimentan la 
 pérdida de su pareja   
 - Personas que viven solas   
@@ -96,9 +74,6 @@ otras personas significativas
 lugares desconocidos   
 - Personas con historial de 
 rechazo   
- 
- 
- 
 - Individuos con historia de 
 evento traumático   
 - Personas con familiar enfermo   
@@ -107,3 +82,6 @@ evento traumático
 - Adultos mayores   
 - Individuos viudos
 
+### Condiciones asociadas
+- Enfermedad crónica
+- Trastornos cognitivos

@@ -12,11 +12,7 @@ areolar-pezón
 - Superficie de la piel alterada   
 - Equimosis   
 - Piel erosionada   
-- eritema   
- 
- 
- 
- 
+- Eritema   
 - Expresa dolor   
 - hematoma   
 - Piel macerada   
@@ -27,13 +23,6 @@ areolar-pezón
 - Hinchazón   
 - Exposición de tejidos 
 debajo de la epidermis  
- 
- 
- 
- 
- 
- 
- 11. Seguridad / protección
 
 ### Factores Relacionados
 - Congestión mamaria   
@@ -53,11 +42,6 @@ lactante
 - Mastitis   
 - Ansiedad materna por 
 la lactancia
-
-### Población en riesgo
-- Mujeres primíparas   
-- Madre única   
- 
 - Impaciencia materna con el 
 proceso de lactancia   
 - La madre no espera a que el 
@@ -72,18 +56,11 @@ uso de un pezón artificial
 - Exposición prolongada a la humedad.   
 - Alimentación complementaria   
 - Uso de productos que eliminan la 
-protección natural del pezón  
- 
- 
- 
-- Mujeres <19 años  
- 
- 
-482 
-Dominio 11. Seguridad / protección  Clase 2. Lesión física  
- 
- 
- 
+protección natural del pezón
+
+### Población en riesgo
+- Mujeres primíparas   
+- Madre única   
 - Mujeres que amamantan por 
 primera vez.   
 - Mujeres con complejo areolar-
@@ -95,9 +72,6 @@ prenatal
 
 ### Condiciones Asociadas
 - Anquilglosia   
- 
- 
- 
 - Mujeres con antecedentes de 
 traumatismo del pezón 
 durante la lactancia   
@@ -105,34 +79,4 @@ durante la lactancia
 sobresalen   
 - Mujeres con complejo areolar-
 pezón rosado  
- 
- 
- 
-- Anormalidades maxilofaciales   
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-11. Seguridad / protección
-
+- Anormalidades maxilofaciales

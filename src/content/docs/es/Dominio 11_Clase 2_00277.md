@@ -1,22 +1,17 @@
 # Autocuidado ineficaz del ojo seco
 ## Definición
-	Manejo insatisfactorio de los síntomas, régimen de tratamien to, consecuencias físicas, psicosociales y espirituales y cambios en el estilo de vida inherentes a vivir con una película lagrimal inadec uada.
+	Manejo insatisfactorio de los síntomas, régimen de tratamiento, consecuencias físicas, psicosociales y espirituales y cambios en el estilo de vida inherentes a vivir con una película lagrimal inadecuada.
 
 ### Caracteristicas Definitorias
 Signos de ojo seco   
-- Quemosis  - Tinción queratoconjuntival con  
- 
-- Hiperemia conjuntival   fluoresceína  
- 
-- Epífora  - Baja producción de lágrimas 
-acuosas  
- 
-- Queratitis filamentaria   según la prueba Schirmer I  
- 
+- Quemosis  
+- Tinción queratoconjuntival con fluoresceína
+- Hiperemia conjuntival   
+- Epífora  
+- Baja producción de lágrimas acuosas según la prueba Schirmer I
+- Queratitis filamentaria     
 - Placas mucosas   
-  
- 
- 
+
 Síntomas del ojo seco   
 - Expresa insatisfacción con la 
 calidad de vida.   
@@ -24,6 +19,14 @@ calidad de vida.
 - Informa fatiga ocular   
 - Informa sensación de ardor en los 
 ojos 
+- Informa sensación de sequedad 
+ocular   
+- Informa sensación de cuerpo 
+extraño ocular   
+- Informa sensación de picazón 
+ocular   
+- Informa sensación de arena en el 
+ojo
  
 Comportamientos   
 - Dificultad para realizar el cuidado 
@@ -43,16 +46,6 @@ contacto
 pelo  
 - Uso inadecuado de gafas con 
 cámara de humedad    
-- Informa sensación de sequedad 
-ocular   
-- Informa sensación de cuerpo 
-extraño ocular   
-- Informa sensación de picazón 
-ocular   
-- Informa sensación de arena en el 
-ojo 
- 
- 
 - Falta de atención a los signos del 
 ojo seco.   
 - Desatento a los síntomas del ojo 
@@ -66,49 +59,8 @@ vitamina A
 - No adherencia a los ejercicios de 
 parpadeo recomendados   
 - Incumplimiento de las pausas 
-para los ojos recomendadas   -
- 
-U
-s
-o
- 
-d
-e
- 
-p
-r
-o
-d
-u
-c
-t
-o
-s
- 
-c
-o
-n
- 
-c
-o
-n
-s
-e
-rvantes de cloruro de benzalco-
-nium  
- 
- 
- 
- 
- 
- 
- 11. Seguridad / protección
- 
- 
- 
- 
-473 
-Dominio 11. Seguridad / protección  Clase 2. Lesión física
+para los ojos recomendadas   
+- Uso de productos con conservantes de cloruro de benzalconium
 
 ### Factores Relacionados
 - Disfunción congnitiva   
@@ -135,20 +87,6 @@ inadecuada
 régimen de tratamiento.   
 - Número inadecuado de 
 señales para la acción
-
-### Población en riesgo
-- Niños   
-- Personas económicamente 
-desfavorecidas   
-- Personas que experimentan 
-una hospitalización 
-prolongada   
-- Personas con antecedentes de 
-autogestión ineficaz de la salud    
- 
- 
- 
- 
 - Modelos a seguir inadecuados   
 - Apoyo social inadecuado   
 - Capacidad limitada para realizar 
@@ -167,12 +105,17 @@ gravedad de la afección.
 - Percepción poco realista de 
 susceptibilidad a secuelas   
 - Percepción poco realista del 
-beneficio del tratamiento  
- 
- 
- 
- 
- 
+beneficio del tratamiento
+
+### Población en riesgo
+- Niños   
+- Personas económicamente 
+desfavorecidas   
+- Personas que experimentan 
+una hospitalización 
+prolongada   
+- Personas con antecedentes de 
+autogestión ineficaz de la salud    
 - Personas con experiencia 
 limitada en la toma de 
 decisiones   
@@ -181,13 +124,11 @@ educativo
 - Adultos mayores   
 - Mujeres que experimentan la 
 menopausia.  
- 
- 11. Seguridad / protección
 
 ### Condiciones Asociadas
-- alergias   
+- Alergias   
 - Enfermedades autoinmunes   
-- quimioterapia   
+- Quimioterapia   
 - Discapacidades del desarrollo   
 - Enfermedad de injerto contra 
 huésped   
@@ -196,7 +137,6 @@ huésped
 - Enfermedades metabólicas   
 - Lesión neurológica con pérdida 
 de reflejos motores   
- 
 - Lesión neurológica con pérdida 
 de reflejos sensoriales   
 - Terapia de oxigeno   

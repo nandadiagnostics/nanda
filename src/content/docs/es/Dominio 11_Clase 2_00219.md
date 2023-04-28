@@ -1,8 +1,26 @@
 # Riesgo de ojo seco
 ## Definición
-	Susceptible a una película lagrimal inadecuada, que puede ca usar molestias en los ojos y / o dañar la superficie ocular, lo que  puede comprometer la salud.
+	Susceptible a una película lagrimal inadecuada, que puede causar molestias en los ojos y / o dañar la superficie ocular, lo que puede comprometer la salud.
 
-### Caracteristicas Definitorias
+### Factores de riesgo
+- Aire acondicionado
+- Desatento al humo de segunda mano
+- La contaminación del aire 
+- Ingesta insuficiente de líquidos
+- Consumo de cafeína 
+- Baja humedad del aire
+- Disminución de la frecuencia de
+parpadeo.
+- Deficiencia de ácidos grasos
+omega-3
+- Viento excesivo 
+- Tabaquismo
+- Exposición a la luz solar 
+- Uso de productos con benzalko-conservantes del cloruro de nium
+- Uso inadecuado de lentes de contacto
+- Deficiencia de vitamina A
+- Uso inapropiado de ventiladores
+- Uso inadecuado de secador de pelo
 
 
 ### Población en riesgo
@@ -12,25 +30,20 @@ estadía prolongada en la
 unidad de cuidados intensivos   
 - Personas con antecedentes de 
 alergia.
+- Adultos mayores
+- Mujeres
+
 
 ### Condiciones Asociadas
 - Respiración artificial   
 - Enfermedades autoinmunes   
-- quimioterapia   
+- Quimioterapia   
 - Disminución del parpadeo   
 - Disminución del nivel de conciencia.   
 - Cambio hormonal   
 - Cierre de párpados incompleto   
 - Leucocitosis   
 - Enfermedades metabólicas   
- 
- 
-- Adultos mayores   
-- Mujeres  
- 
- 
- 
- 
 - Lesión neurológica con pérdida de 
 reflejos sensoriales o motores   
 - Bloqueo neuromuscular   
@@ -40,4 +53,3 @@ reflejos sensoriales o motores
 - Radioterapia   
 - Volumen de lágrimas reducido   
 - Procedimientos quirúrgicos
-

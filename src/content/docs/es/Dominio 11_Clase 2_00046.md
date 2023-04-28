@@ -3,26 +3,24 @@
 	Epidermis y / o dermis alterada.
 
 ### Caracteristicas Definitorias
-- Absceso  - Piel seca  
-- Dolor agudo  - Excoriación  
-- Color de piel alterado  - Piel perforante de materias 
+- Absceso  
+- Piel seca  
+- Dolor agudo  
+- Excoriación  
+- Color de piel alterado  
+- Piel perforante de materias 
 extrañas  
-- Turgencia alterada  - Hematoma  
-- Sangrado  - Área localizada caliente al 
+- Turgencia alterada  
+- Hematoma  
+- Sangrado  
+- Área localizada caliente al 
 tacto  
-- Ampolla  - Piel macerada  
-- Descamación  - Peladura  
-- Superficie de la piel alterada  - Prurito  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 11. Seguridad / protección
+- Ampolla  
+- Piel macerada  
+- Descamación  
+- Peladura  
+- Superficie de la piel alterada  
+- Prurito  
 
 ### Factores Relacionados
 Factores externos   
@@ -47,24 +45,11 @@ debajo del rango normal para
 la edad y el sexo.   
 - Disminución de la actividad física.   
 - Disminución de la movilidad física.   
-- edema   - Cumplimiento inadecuado del 
+- Edema   
+- Cumplimiento inadecuado del 
 régimen de tratamiento de la 
 incontinencia  
- 
- 
- 
- 
-- 
-U
-so 
-in
-a
-d
-ec
-u
-a
-d
-o de agente químico   
+- Uso inadecuado de agentes químicos  
 - Presión sobre prominencia ósea   
 - Agitación psicomotora   
 - secreciones   
@@ -73,24 +58,18 @@ o de agente químico
 - Uso de ropa de cama con 
 propiedad de absorción de 
 humedad insuficiente  
- 
- 
- - Conocimiento inadecuado 
+- Conocimiento inadecuado 
 sobre el mantenimiento de 
 la integridad de los tejidos.   
 - Conocimiento inadecuado sobre la 
 protección de la integridad de 
 los tejidos.   
-- desnutrición   
+- Desnutrición   
 - Factor psicógeno   
 - Auto mutilación   
-- fumar   
+- Tabaquismo   
 - Mal uso de sustancia   
 - Desequilibrio agua-electrolito  
- 
- 
-508 
-Dominio 11. Seguridad / protección  Clase 2. Lesión física
 
 ### Población en riesgo
 - Individuos en edades extremas   
@@ -98,12 +77,31 @@ Dominio 11. Seguridad / protección  Clase 2. Lesión física
 intensivos   
 - Personas en centros de 
 atención a largo plazo   
- 
- 
- 
- 
 - Individuos en entornos de 
 cuidados paliativos   
 - Personas que reciben atención 
 domiciliaria
+
+### Condiciones asociadas
+- Pigmentación alterada 
+- Inmunodeficiencia
+- Anemia 
+- Metabolismo alterado
+- Enfermedades cardiovasculares 
+- Infecciones
+- Disminución del nivel de conciencia. 
+- Dispositivos médicos
+- Disminución de la oxigenación de
+los tejidos. 
+- Neoplasias
+- Disminución de la perfusión
+tisular. 
+- Neuropatía periférica
+- Diabetes mellitus 
+- Preparaciones farmacéuticas
+- Cambio hormonal 
+- Pinchazos
+- Inmovilización 
+- Trastornos de la
+sensibilidad
 

@@ -1,10 +1,10 @@
 # Lesión por presión neonatal
 ## Definición
-	Daño localizado en la piel y / o el tejido subyacente de  un recién nacido, como resultado de la presión o la presión en combinaci ón con cizallamiento (Panel Asesor Europeo de Úlceras por Presión, 2019).
+	Daño localizado en la piel y / o el tejido subyacente de  un recién nacido, como resultado de la presión o la presión en combinación con cizallamiento (Panel Asesor Europeo de Úlceras por Presión, 2019).
 
 ### Caracteristicas Definitorias
 - Ampolla llena de sangre   
-- eritema   
+- Eritema   
 - Pérdida de tejido de espesor 
 total  
 - Pérdida de tejido de espesor 
@@ -43,9 +43,6 @@ materiales adhesivos.
 cuidador sobre los métodos 
 apropiados para estabilizar los 
 dispositivos.   
- 
- 
- 
 - Conocimiento inadecuado del 
 cuidador de los factores 
 modificables.   
@@ -63,25 +60,11 @@ mecánica
 propiedad de absorción de 
 humedad insuficiente   
  
- 
- 
- 
- 11. Seguridad / protección
- 
- 
- 
- 
- 
- 
- 
-503 
-Dominio 11. Seguridad / protección  Clase 2. Lesión física  
- 
- 
- 
 Factores internos   
-- Disminución de la movilidad física.  - Hipertermia   
-- Deshidración  - Desequilibrio agua-electrolito   
+- Disminución de la movilidad física.  
+- Hipertermia   
+- Deshidración  
+- Desequilibrio hidroelectrolítico   
 - Piel seca  
  
 Otros factores   
@@ -94,13 +77,6 @@ estandarizada y validada
 nacer   
 - Recién nacidos <32 semanas de 
 gestación   
- 
- 
- 
- 
- 
- 
- 
 - Recién nacidos que experimentan 
 una estancia prolongada en la 
 unidad de cuidados intensivos   
@@ -108,18 +84,17 @@ unidad de cuidados intensivos
 cuidados intensivos
 
 ### Condiciones Asociadas
-- anemia   
+- Anemia   
 - Disminución del nivel de albúmina 
 sérica.   
 - Disminución de la oxigenación de 
 los tejidos.   
 - Disminución de la perfusión 
 tisular   
-- edema   
+- Edema   
 - Integridad de la piel inmadura   
 - Textura de piel inmadura   
 - Estrato córneo inmaduro    
- 
 - Inmovilización   
 - Dispositivos médicos   
 - Deficiencias nutricionales 
@@ -129,23 +104,3 @@ prematuridad
 - Duración prolongada del 
 procedimiento quirúrgico   
 - Comorbilidad significativa  
- 
- 
- 
- 
- 
- 
- 
- 11. Seguridad / protección
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Se recomienda el uso de una herramienta de detección de riesgo de lesiones por presión estandarizada, válida y 
-confiable.
-

@@ -1,6 +1,6 @@
 # Disponibilidad para una mejor toma de decisiones
 ## Definición
-	Un patrón de elección de un curso de acción para alcanzar las me tas relacionadas con la salud a corto y largo plazo, que pueden fortal ecerse.
+	Un patrón de elección de un curso de acción para alcanzar las metas relacionadas con la salud a corto y largo plazo, que pueden fortal ecerse.
 
 ### Caracteristicas Definitorias
 - Expresa el deseo de mejorar la 
@@ -14,11 +14,7 @@ congruencia de las decisiones
 con el objetivo.   
 - Expresa el deseo de mejorar la 
 congruencia de las decisiones con 
-los valores.   
- 
- 
- 
- 
+los valores.    
 - Expresa el deseo de mejorar la 
 toma de decisiones.   
 - Expresa el deseo de mejorar el 
@@ -34,9 +30,5 @@ elecciones.
 - Expresa su deseo de mejorar el 
 uso de evidencia confiable para 
 tomar decisiones.   
- 
- 
- 
- 
-10. Principios de vida
+
 

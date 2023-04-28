@@ -8,85 +8,46 @@ Sistema de atención-interacción
 los estímulos sensoriales.  
  
 Sistema motor   
-- Reflejos primitivos alterados  - Hiperextensión de 
+- Reflejos primitivos alterados  
+- Hiperextensión de 
 extremidades.  
 - Respuesta de sobresalto 
-exagerada  - Tono motor deteriorado  
-- Inquieto  - Mantiene las manos en posición 
+exagerada  
+- Tono motor deteriorado  
+- Inquieto  
+- Mantiene las manos en posición 
 de cara  
-- Dedos extendidos  - Temblor  
-- Puño  - Espasmos  
-- Comportamiento cara a cara  - Movimiento descoordinado  
+- Dedos extendidos  
+- Temblor  
+- Puño  
+- Espasmos  
+- Comportamiento cara a cara  
+- Movimiento descoordinado  
  
-Fisiológico   
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- tolerancia
-  
- 
- 
+Fisiológico    
 - Color de piel anormal   
 - Arritmia   
 - Bradicardia   
 - Incapacidad para tolerar la 
-tasa de alimentación.  
+tasa de alimentación
+- Incapacidad para tolerar el volumen de comidas
+- Desaturación de oxígeno
+- Taquicardia
+- Señales de tiempo muerto  
  
 Problemas regulatorios   
 - Capacidad alterada para inhibir 
-el reflejo de sobresalto.  
+el reflejo de sobresalto. 
+- Estado de ánimo irritable 
  
 Sistema de organización estatal   
 - Estado activo-despierto   
 - Deshabilite la actividad del 
 electroencefalograma alfa 
 (EEG) con los ojos cerrados   
-- Incapacidad para tolerar el 
-volumen de comidas.   
-- Desaturación de oxígeno   
-- taquicardia   
-- Señales de tiempo muerto  
- 
- 
-- Estado de ánimo irritable  
- 
- 
- 
-- llanto irritable   
+- Llanto irritable   
 - Estado tranquilo y despierto   
-- Estado de oscilación   9. Afrontamiento / estrés 
- 
- 
- 
- 
-443 
-Dominio 9. Afrontamiento / tolerancia al estrés  Clase 3. Estrés neuroconductual
+- Estado de oscilación   
 
 ### Factores Relacionados
 - El cuidador malinterpreta las 
@@ -99,24 +60,16 @@ señales de comportamiento.
 - Contención inadecuada en el 
 medio ambiente.   
 - Entorno físico inadecuado
+- Estimulación sensorial ambiental 
+insuficiente   
+- Desnutrición   
+- Dolor   
+- Privación sensorial   
+- Sobreestimulación sensorial  
 
 ### Población en riesgo
 - Lactantes expuestos a 
 teratógenos en el útero   
- 
- 
- 
- 
-- Estimulación sensorial ambiental 
-insuficiente   
-- desnutrición   
-- Dolor   
-- Privación sensorial   
-- Sobreestimulación sensorial  
- 
- 
- 
- 
 - Lactantes con baja edad 
 posmenstrual   
 - Bebés prematuros

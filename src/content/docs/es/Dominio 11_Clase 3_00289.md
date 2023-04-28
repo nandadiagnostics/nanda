@@ -1,19 +1,63 @@
 # Riesgo de comportamiento suicida
 ## Definición
-	Susceptible a actos autolesivos asociados con alguna inten ción de morir.
+	Susceptible a actos autolesivos asociados con alguna intención de morir.
 
-### Caracteristicas Definitorias
+### Factores de riesgo
+Factores de comportamiento
+- Apatía 
+- Control ineficaz de
+impulsos
+- Dificultad para pedir ayuda 
+- Comportamiento
+autolesivo
+- Dificultad para afrontar situaciones
+insatisfactorias 
+- Auto-negligencia
+- Almacenamiento de
+medicamentos
+- Dificultad para expresar
+sentimientos 
+- Mal uso de sustancia
+- Autocontrol ineficaz del dolor
+crónico
 
+Psicológico
+- Ansiedad 
+- Deshonra percibida
+- Sintomas depresivos 
+- Fracaso percibido
+- Hostilidad 
+- Reporta culpa excesiva
+- Expresa profunda tristeza 
+- Reporta impotencia
+- Expresa frustración 
+- Reporta
+desesperanza
+- Expresa soledad 
+- Reporta infelicidad
+- Baja autoestima 
+- Ideación suicida
+- Duelo inadaptado
+
+Situacional
+- Fácil acceso al arma 
+- Pérdida de autonomía personal
+- Pérdida de independencia
+
+Factores sociales
+- Procesos familiares
+disfuncionales 
+- Privación social
+- Apoyo social inadecuado 
+- Devaluación social
+- Presión de grupo inapropiada 
+- Aislamiento social
+- Dificultad legal 
+- Violencia no abordada por otros
 
 ### Población en riesgo
-- Adolescentes  - Adolescentes que viven en hogares de acogida  
- 
-52
-8 
-Dominio 11. Seguridad / protección  Clase 3. Violencia  
- 
- 
- 
+- Adolescentes  
+- Adolescentes que viven en hogares de acogida  
 - Personas económicamente 
 desfavorecidas   
 - Individuos que cambian un 
@@ -33,13 +77,6 @@ testamento
 - Personas que con frecuencia 
 buscan atención por una 
 sintomatología vaga.
-
-### Condiciones Asociadas
-- depresión   
-- Desordenes mentales   
- 
- 
- 
 - Personas con problemas 
 disciplinarios   
 - Personas con antecedentes 
@@ -53,10 +90,11 @@ depresión mayor.
 - Individuos institucionalizados   
 Hombres   
 - Individuos nativos americanos   
-- Adultos mayores  
- 
- 
- 
+- Adultos mayores 
+
+### Condiciones Asociadas
+- Depresión   
+- Desordenes mentales   
 - Enfermedad física   
 - Enfermedad terminal   
  

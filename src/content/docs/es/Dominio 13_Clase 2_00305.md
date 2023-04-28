@@ -2,7 +2,23 @@
 ## Definición
 	Niño que es susceptible de no lograr los hitos del desarrollo dentro del plazo previsto.
 
-### Caracteristicas Definitorias
+### Factores de riesgo
+Factores de lactantes o niños
+- Acceso inadecuado a la atención
+médica 
+- Estimulación inadecuada
+proveedor 
+- Psicológico no abordado
+- Comportamiento de apego
+inadecuado negligencia
+
+Factores del cuidador
+- Ansiedad 
+- Estrés excesivo
+- Disminución del apoyo emocional. 
+- Violencia doméstica no
+abordada
+- Sintomas depresivos
 
 
 ### Población en riesgo
@@ -15,8 +31,6 @@ comunitaria
 ambientales   
 - Niños cuyos cuidadores tienen 
 discapacidades del desarrollo    
- 
- 
 - Niños cuyas madres recibieron un 
 cuidado prenatal inadecuado   
 - Niños con estándares de 
@@ -26,5 +40,18 @@ sexo
 - Niños institucionalizados   
 - Lactantes de bajo peso al nacer   
 - Bebés prematuros  
- 13. Crecimiento / desarrollo
+
+### Condiciones asociadas
+- Farmacéutica prenatal 
+- Trastornos mentales
+maternos
+- Enfermedades físicas
+maternas
+- Trastornos congénitos 
+- Abuso de sustancias
+prenatales
+- Depresión 
+- Trastornos de la
+sensibilidad
+- Enfermedades genéticas congénitas
 
